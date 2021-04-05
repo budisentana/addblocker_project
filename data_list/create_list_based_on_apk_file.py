@@ -5,13 +5,13 @@ import os
 
 
 app_path = '/home/budi/adblocker_project/apps_list/'
-dest_path = '/home/budi/adblocker_project/addblocker_code/data_list/'
-
+dest_path = '/home/budi/adblocker_project/adblocker_code/data_list/'
 
 
 for root,dirs,files in os.walk(app_path):
     for dir in dirs:
-        dir_path = dest_path+dir
+        print(dir)
+        dir_path = app_path+dir
         file_name = dir+'_list.txt'
         file_path = dest_path+file_name
         apk_list=[]
