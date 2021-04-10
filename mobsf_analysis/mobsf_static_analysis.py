@@ -43,7 +43,8 @@ APIKEY = '0e714b825e40876307cb27e0e48d0daf3606209d3d5aba53c39fdf6b16260a37'
 apk_path = '/home/budi/adblocker_project/apps_list/'
 result_path = '/home/budi/adblocker_project/adblocker_code/mobsf_analysis/mobsf_result/'
 
-folders=['2021','2019']
+# folders=['2021','2019','2016']
+folders=['test']
 for item in folders:
     folder_path = apk_path+item
     print(folder_path)
@@ -69,6 +70,6 @@ for item in folders:
             # don't touch this --> 
             # delete(res_upload)
             print(file + '-->saved')
-            time.sleep(15)
+            time.sleep(5)
 
 
