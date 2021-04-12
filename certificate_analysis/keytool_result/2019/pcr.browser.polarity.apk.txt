@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Stanley Lim, OU=Polarity, O=Ltd, L=Hicksville, ST=NY, C=01
+Issuer: CN=Stanley Lim, OU=Polarity, O=Ltd, L=Hicksville, ST=NY, C=01
+Serial number: 79f640fa
+Valid from: Sun Dec 28 04:37:39 AEDT 2014 until: Thu Dec 22 04:37:39 AEDT 2039
+Certificate fingerprints:
+	 SHA1: 06:C1:AD:67:09:71:00:21:99:0B:E3:21:CC:D5:88:E6:B4:8D:46:63
+	 SHA256: 6F:3D:13:C9:95:A0:40:A0:9D:A4:01:DF:F7:45:BC:C6:C9:C7:12:67:BF:BD:88:AD:2C:CB:12:66:3A:F3:FA:EA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 01 82 89 9D 4E D2 2C 2A   46 45 1B 40 E7 DC C0 05  ....N.,*FE.@....
+0010: EC 02 20 83                                        .. .
+]
+]
+
+

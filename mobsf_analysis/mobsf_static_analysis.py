@@ -44,7 +44,7 @@ apk_path = '/home/budi/adblocker_project/apps_list/'
 result_path = '/home/budi/adblocker_project/adblocker_code/mobsf_analysis/mobsf_result/'
 
 # folders=['2021','2019','2016']
-folders=['test']
+folders=['2021']
 for item in folders:
     folder_path = apk_path+item
     print(folder_path)
@@ -70,6 +70,6 @@ for item in folders:
             # don't touch this --> 
             # delete(res_upload)
             print(file + '-->saved')
-            time.sleep(5)
+            time.sleep(15)
 
 

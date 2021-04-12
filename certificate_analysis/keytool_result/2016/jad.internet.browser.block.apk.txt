@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=internetbrowser
+Issuer: CN=internetbrowser
+Serial number: 76c78b7d
+Valid from: Mon Feb 22 23:12:33 AEDT 2016 until: Tue Jan 29 23:12:33 AEDT 2115
+Certificate fingerprints:
+	 SHA1: 1F:9A:76:D6:A7:8B:03:D2:3A:3D:92:2C:14:BE:CC:38:6B:CE:DE:FF
+	 SHA256: A5:1A:06:C7:6B:35:11:E1:E2:C8:E4:CA:1C:70:02:2C:CC:D1:D5:72:1A:2F:EF:99:5F:8B:F4:10:BB:53:96:83
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 43 1A 05 C9 D1 4F 9E 00   1E 33 77 6D F5 9B 49 1F  C....O...3wm..I.
+0010: 2F 19 BA A4                                        /...
+]
+]
+
+

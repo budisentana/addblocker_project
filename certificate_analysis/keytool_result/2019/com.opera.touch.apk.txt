@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Opera Touch, OU=Unknown, O=Opera Software AS, L=Oslo, ST=Unknown, C=NO
+Issuer: CN=Opera Touch, OU=Unknown, O=Opera Software AS, L=Oslo, ST=Unknown, C=NO
+Serial number: 2358b079
+Valid from: Tue Mar 20 22:48:49 AEDT 2018 until: Fri May 01 21:48:49 AEST 2048
+Certificate fingerprints:
+	 SHA1: 8F:CB:5C:D8:56:5B:97:89:31:4C:A7:17:E8:48:6A:7C:58:37:38:3C
+	 SHA256: AA:D8:E2:04:D2:4D:17:79:34:C9:CD:0C:63:CC:6A:A3:8E:FB:F4:2C:4A:69:57:09:7E:22:10:F5:7F:AA:67:AA
+Signature algorithm name: SHA384withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D4 85 09 36 17 4F 58 53   3A 96 95 48 2D 90 DB 9A  ...6.OXS:..H-...
+0010: E0 2D EE 43                                        .-.C
+]
+]
+
+

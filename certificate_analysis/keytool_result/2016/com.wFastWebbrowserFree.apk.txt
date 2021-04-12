@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=gsr
+Issuer: OU=gsr
+Serial number: 533ced25
+Valid from: Thu Apr 03 16:09:57 AEDT 2014 until: Fri Mar 21 16:09:57 AEDT 2064
+Certificate fingerprints:
+	 SHA1: 94:3B:C6:E0:82:7F:09:B0:50:B0:28:30:68:5A:76:73:4E:56:61:68
+	 SHA256: EB:1D:67:2E:52:0D:7A:70:CD:7F:AD:8A:60:51:28:B0:A5:D8:17:28:0B:2F:3A:97:63:1E:FA:D2:22:EC:A0:DB
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

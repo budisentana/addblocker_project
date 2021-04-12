@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Chris Lacy, OU=Digital Ashes, O=Digital Ashes, L=Brisbane, ST=Qld, C=AU
+Issuer: CN=Chris Lacy, OU=Digital Ashes, O=Digital Ashes, L=Brisbane, ST=Qld, C=AU
+Serial number: 530bc8f8
+Valid from: Tue Feb 25 09:34:32 AEDT 2014 until: Sat Jul 13 08:34:32 AEST 2041
+Certificate fingerprints:
+	 SHA1: 4B:5D:09:14:B1:18:F5:1F:30:63:4A:15:23:F9:6E:02:0A:B2:4F:D2
+	 SHA256: 9C:2D:B7:05:13:51:5F:DB:FB:BC:58:5B:3E:DF:3D:71:23:D4:DC:67:C9:4F:FD:30:63:61:C1:D7:9B:BF:18:AC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

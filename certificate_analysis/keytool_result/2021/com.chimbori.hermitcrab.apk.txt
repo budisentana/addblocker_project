@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Manas Tungare, L=Mountain View, ST=CA, C=US
+Issuer: CN=Manas Tungare, L=Mountain View, ST=CA, C=US
+Serial number: 4eeee4cc
+Valid from: Mon Dec 19 18:16:28 AEDT 2011 until: Wed Nov 25 18:16:28 AEDT 2111
+Certificate fingerprints:
+	 SHA1: 3A:26:69:45:BD:40:FA:FE:A3:37:6A:AB:B2:B3:B0:69:BA:A3:32:F3
+	 SHA256: 2D:21:8B:E6:6B:DF:63:49:D8:C0:2A:2B:13:15:6B:3F:A9:62:F0:E1:0E:0E:D5:E2:73:70:AA:1F:A6:D3:81:C9
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

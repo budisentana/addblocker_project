@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=sign.afiqafa.keystore, OU=afiqafa, O=afiqafa, L=afiqafa, ST=afiqafa, C=afiqafa
+Issuer: CN=sign.afiqafa.keystore, OU=afiqafa, O=afiqafa, L=afiqafa, ST=afiqafa, C=afiqafa
+Serial number: 5ba7bfe
+Valid from: Mon Feb 22 17:57:48 AEDT 2021 until: Wed Jun 20 16:57:48 AEST 2300
+Certificate fingerprints:
+	 SHA1: B8:33:B2:C0:A5:8D:ED:8F:3C:86:BA:D6:40:EF:D2:66:99:59:06:D8
+	 SHA256: D7:08:8B:6F:61:85:3C:10:89:A8:FD:31:31:A9:F2:1C:63:7C:24:86:E7:26:E3:32:E8:53:08:6D:ED:E7:AF:9E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6C 26 05 A2 2E 5F 21 16   BC 83 14 C3 B2 A1 0E 06  l&..._!.........
+0010: 98 B1 9D F1                                        ....
+]
+]
+
+

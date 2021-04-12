@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Andrews Magnoni, OU=Com, O=flyingcat, L=Earth
+Issuer: CN=Andrews Magnoni, OU=Com, O=flyingcat, L=Earth
+Serial number: 516c5998
+Valid from: Tue Apr 16 05:48:40 AEST 2013 until: Sat Apr 10 05:48:40 AEST 2038
+Certificate fingerprints:
+	 SHA1: 87:DA:CE:E3:20:03:D0:6B:82:94:20:E3:65:DE:A7:67:02:78:26:3F
+	 SHA256: 02:48:95:9B:4B:CC:56:40:38:84:A3:F8:05:81:48:30:73:25:94:03:5B:F1:E7:DB:B3:9A:58:0E:F9:1E:BF:BD
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

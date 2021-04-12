@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=adblocker lite, OU=adblocker lite lab, O=adblocker lite, L=banglore, ST=kt, C=91
+Issuer: CN=adblocker lite, OU=adblocker lite lab, O=adblocker lite, L=banglore, ST=kt, C=91
+Serial number: 578218d4
+Valid from: Sun Jul 10 19:43:48 AEST 2016 until: Thu Jul 04 19:43:48 AEST 2041
+Certificate fingerprints:
+	 SHA1: FA:A3:F3:DE:8B:25:2B:99:DB:AD:11:F7:A5:1F:CF:52:0F:13:F9:87
+	 SHA256: 78:68:D0:FF:8E:11:8C:13:A9:E4:34:C5:1D:CF:0C:AB:63:E9:C8:7D:1F:C9:3E:7E:D0:CA:8C:18:47:27:54:72
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,42 @@
+Signer #1:
+
+Signature:
+
+Owner: EMAILADDRESS=android.os@samsung.com, CN=Samsung Cert, OU=DMC, O=Samsung Corporation, L=Suwon City, ST=South Korea, C=KR
+Issuer: EMAILADDRESS=android.os@samsung.com, CN=Samsung Cert, OU=DMC, O=Samsung Corporation, L=Suwon City, ST=South Korea, C=KR
+Serial number: d20995a79c0daad6
+Valid from: Wed Jun 22 22:25:12 AEST 2011 until: Sun Nov 07 23:25:12 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 9C:A5:17:0F:38:19:19:DF:E0:44:6F:CD:AB:18:B1:9A:14:3B:31:63
+	 SHA256: 34:DF:0E:7A:9F:1C:F1:89:2E:45:C0:56:B4:97:3C:D8:1C:CF:14:8A:40:50:D1:1A:EA:4A:C5:A6:5F:90:0A:42
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 93 2C 3A F7 0B 62 7A 0C   76 10 B5 A0 E7 42 7D 6C  .,:..bz.v....B.l
+0010: FA EA 3F 1E                                        ..?.
+]
+[EMAILADDRESS=android.os@samsung.com, CN=Samsung Cert, OU=DMC, O=Samsung Corporation, L=Suwon City, ST=South Korea, C=KR]
+SerialNumber: [    d20995a7 9c0daad6]
+]
+
+#2: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#3: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 93 2C 3A F7 0B 62 7A 0C   76 10 B5 A0 E7 42 7D 6C  .,:..bz.v....B.l
+0010: FA EA 3F 1E                                        ..?.
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Sviridenko Alexander, OU=R&D, O=Dr. Web, L=Saint Petersburg
+Issuer: CN=Sviridenko Alexander, OU=R&D, O=Dr. Web, L=Saint Petersburg
+Serial number: 4c248aad
+Valid from: Fri Jun 25 20:53:33 AEST 2010 until: Tue Jun 19 20:53:33 AEST 2035
+Certificate fingerprints:
+	 SHA1: 7A:23:EE:69:2E:0A:70:77:B1:E3:5F:87:A9:30:40:20:41:DA:CC:5C
+	 SHA256: 3E:50:86:1A:6C:8B:A4:49:FD:C7:1A:19:01:14:85:68:12:09:C1:5E:DB:1D:5B:17:29:91:C8:BC:20:96:36:74
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=John Mah, OU=Unknown, O=SurfEasy, L=Toronto, ST=ON, C=CA
+Issuer: CN=John Mah, OU=Unknown, O=SurfEasy, L=Toronto, ST=ON, C=CA
+Serial number: 5147722a
+Valid from: Tue Mar 19 06:59:38 AEDT 2013 until: Sat Aug 04 05:59:38 AEST 2040
+Certificate fingerprints:
+	 SHA1: ED:E9:9F:06:01:49:5B:C9:C6:8A:7D:94:36:20:DD:0A:F0:59:10:76
+	 SHA256: 9A:1B:53:5B:2A:97:CE:B6:5F:95:99:DA:42:77:C4:F3:EC:ED:96:63:12:9F:3B:55:7F:3F:CD:F5:FA:43:FB:14
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

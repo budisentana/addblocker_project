@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=TitlisApp, O=TitlisApp
+Issuer: CN=TitlisApp, O=TitlisApp
+Serial number: 565fea3e
+Valid from: Thu Dec 03 18:07:42 AEDT 2015 until: Mon Nov 26 18:07:42 AEDT 2040
+Certificate fingerprints:
+	 SHA1: E0:2B:CE:4F:B8:B6:1B:39:A7:4E:C2:BD:D0:D5:93:30:36:58:1E:B6
+	 SHA256: 9F:3B:BA:D8:EA:B3:19:24:6B:E5:91:0E:E1:16:B9:A1:4F:EF:87:CE:48:79:A6:2A:54:7C:E8:78:72:95:BC:96
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=yunlaiyuan, OU=chisstech, O=chisstech.com, L=NanJing, ST=JiangSu, C=]86
+Issuer: CN=yunlaiyuan, OU=chisstech, O=chisstech.com, L=NanJing, ST=JiangSu, C=]86
+Serial number: 2cbf3ffd
+Valid from: Tue Dec 22 01:18:41 AEDT 2015 until: Sat Mar 07 01:18:41 AEDT 2116
+Certificate fingerprints:
+	 SHA1: 33:36:4D:FC:79:DE:71:28:98:7C:B2:46:91:98:01:1F:6E:E7:62:4B
+	 SHA256: 48:D0:10:A4:4E:15:23:DB:2E:3D:06:BA:75:56:D4:84:7B:FB:CC:36:E3:81:89:9D:D2:D8:D3:21:CE:47:08:35
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 2C 17 F5 7A 40 DD 36 09   2C 27 72 17 76 64 9A 2E  ,..z@.6.,'r.vd..
+0010: F6 A6 B7 2C                                        ...,
+]
+]
+
+

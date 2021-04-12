@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=LostNet Soft, O=LostNet Soft, L=Moscow, C=RU
+Issuer: CN=LostNet Soft, O=LostNet Soft, L=Moscow, C=RU
+Serial number: 632321a4
+Valid from: Mon Feb 03 12:53:14 AEDT 2014 until: Fri Jan 28 12:53:14 AEDT 2039
+Certificate fingerprints:
+	 SHA1: E0:76:6C:E2:DA:85:6B:05:BE:56:50:13:8E:8C:D8:10:6D:C5:A3:60
+	 SHA256: 4A:9D:33:12:97:1E:E2:E0:DF:64:25:00:14:9F:94:6B:61:38:C2:7D:D6:69:36:A0:37:9E:57:62:D7:A2:81:A0
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 40 0C 96 0F CA 02 57 3B   D8 D4 82 32 CE 5D 5D FD  @.....W;...2.]].
+0010: A6 02 EB F1                                        ....
+]
+]
+
+

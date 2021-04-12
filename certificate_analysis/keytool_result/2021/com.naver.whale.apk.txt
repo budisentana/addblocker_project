@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=sungho park, OU=application component development team, O=nhn, L=seong nam, ST=kyoung gi do, C=KR
+Issuer: CN=sungho park, OU=application component development team, O=nhn, L=seong nam, ST=kyoung gi do, C=KR
+Serial number: 4b0f57ef
+Valid from: Fri Nov 27 15:39:11 AEDT 2009 until: Tue Apr 14 14:39:11 AEST 2037
+Certificate fingerprints:
+	 SHA1: 08:68:8A:E1:48:F5:7B:5C:DC:3F:D6:FA:52:BC:64:9F:06:39:01:00
+	 SHA256: 0B:8B:85:23:BB:4A:EF:FA:34:6E:4B:DD:4F:BF:7D:19:34:50:56:9A:A1:4A:AA:D4:AD:FD:94:A3:F7:B2:27:BB
+Signature algorithm name: MD5withRSA (disabled)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 1
+

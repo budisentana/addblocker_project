@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=JetBrowser.com
+Issuer: O=JetBrowser.com
+Serial number: 1d6f46ff
+Valid from: Tue Jul 21 18:47:51 AEST 2015 until: Sat Jul 14 18:47:51 AEST 2040
+Certificate fingerprints:
+	 SHA1: 34:02:36:1F:40:E4:B6:17:70:FA:CB:C9:AB:5A:05:43:E9:D5:84:A6
+	 SHA256: A3:4A:E6:16:AD:E2:20:BD:B4:8A:52:B6:1A:57:88:3C:F0:82:FE:56:C8:D4:24:10:E0:39:2B:60:22:2E:60:59
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 75 F4 8D 5E 9A 15 C9 82   5D CD 2C E0 5F 2C 83 53  u..^....].,._,.S
+0010: 2C 39 A7 9C                                        ,9..
+]
+]
+
+

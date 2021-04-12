@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Mobligation
+Issuer: CN=Mobligation
+Serial number: 4c2d7102
+Valid from: Mon Mar 16 15:35:50 AEDT 2015 until: Sat Jul 17 14:35:50 AEST 3013
+Certificate fingerprints:
+	 SHA1: 28:B9:65:B7:AF:4E:36:16:A9:B0:24:D0:29:E7:B5:0E:C2:15:61:80
+	 SHA256: 25:90:FA:74:FB:B4:F3:38:F5:92:2C:10:1B:12:80:66:D7:E5:D9:6C:2B:74:91:03:AE:24:07:E2:96:96:A3:15
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0F E3 AF F8 70 CE 04 F8   44 72 2A 07 B2 B7 DC 49  ....p...Dr*....I
+0010: A9 96 A4 97                                        ....
+]
+]
+
+

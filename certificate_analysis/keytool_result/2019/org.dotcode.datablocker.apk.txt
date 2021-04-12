@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Parth Kanani, OU=Unknown, O=Unknown, L=Surat, ST=Gujarat, C=IN
+Issuer: CN=Parth Kanani, OU=Unknown, O=Unknown, L=Surat, ST=Gujarat, C=IN
+Serial number: 595ff625
+Valid from: Sun Jul 10 20:31:11 AEST 2016 until: Thu Nov 26 21:31:11 AEDT 2043
+Certificate fingerprints:
+	 SHA1: AD:A7:A8:4E:1F:24:0A:29:CE:AE:7D:95:1C:BD:F2:CD:37:99:58:73
+	 SHA256: 2D:74:A0:5E:74:5A:F5:AC:2A:5C:B6:7F:C7:75:A9:CD:4E:47:3B:41:7C:F3:4C:D6:0B:23:38:94:07:58:86:84
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A9 50 87 C6 1E 4E 0A 23   E7 4A 8A 77 ED D7 D0 EF  .P...N.#.J.w....
+0010: 69 2C 6A C7                                        i,j.
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=syuan
+Issuer: CN=syuan
+Serial number: 3be4696d
+Valid from: Mon Jul 28 23:01:07 AEST 2014 until: Wed Jul 04 23:01:07 AEST 2114
+Certificate fingerprints:
+	 SHA1: A5:95:A8:76:50:68:73:5F:AD:70:A2:49:2A:F1:10:A6:09:17:53:86
+	 SHA256: EE:E1:BA:F9:DE:6A:6B:0F:A3:B2:0A:63:23:8C:05:16:07:D4:81:D5:4D:5F:C2:1C:43:70:48:4C:8E:27:E5:DA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CF AB 39 E1 84 49 F6 12   DB 93 89 A7 2E E5 29 E9  ..9..I........).
+0010: 75 E0 51 DE                                        u.Q.
+]
+]
+
+

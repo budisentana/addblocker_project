@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=BD
+Issuer: CN=BD
+Serial number: 7e2c57e1
+Valid from: Sat Dec 10 00:46:30 AEDT 2016 until: Wed Dec 04 00:46:30 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 39:D5:3D:82:54:91:5E:72:D9:35:55:F4:2D:35:B4:B9:9B:E8:39:A4
+	 SHA256: 73:77:C9:86:5C:58:18:91:07:2B:01:DE:C2:53:85:29:24:C3:BF:87:C3:6E:55:A9:CD:86:11:94:DE:E5:BF:74
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 71 F8 3E 46 EC C2 53 5D   43 00 F4 8E C8 85 06 58  q.>F..S]C......X
+0010: DF E8 B9 D5                                        ....
+]
+]
+
+

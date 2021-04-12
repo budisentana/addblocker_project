@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=sanjeevkaurav16@gmail.com, O=4121598, C=US
+Issuer: CN=sanjeevkaurav16@gmail.com, O=4121598, C=US
+Serial number: 73c302d3
+Valid from: Sat Aug 25 15:14:57 AEST 2018 until: Thu Jun 09 15:14:57 AEST 2292
+Certificate fingerprints:
+	 SHA1: F5:F5:84:BA:51:D3:17:0C:D6:EC:9B:51:06:AC:6E:30:3F:73:AA:37
+	 SHA256: 1F:87:AC:F8:8F:C8:7F:AB:99:A1:43:D9:EB:16:EF:3B:28:93:35:C9:3E:73:76:DF:9D:A4:E8:55:15:18:93:F0
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 18 90 6E 5F E1 24 2C 4A   6B 90 7D 57 20 97 9B 67  ..n_.$,Jk..W ..g
+0010: 50 35 A8 72                                        P5.r
+]
+]
+
+

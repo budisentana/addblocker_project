@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=God
+Issuer: CN=God
+Serial number: 4d3bfaf4
+Valid from: Mon Jan 29 11:06:16 AEDT 2018 until: Wed Jan 16 11:06:16 AEDT 2069
+Certificate fingerprints:
+	 SHA1: D3:1D:5E:C3:6F:54:6A:DE:6D:B6:43:50:3C:A0:F1:4F:18:98:1B:20
+	 SHA256: B0:52:5F:CE:12:72:83:7B:2E:5C:77:B7:C1:D7:37:57:57:0C:9F:AD:56:E5:A3:FF:B9:E4:AA:3A:69:93:80:BA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 88 44 83 83 0F A7 3E 92   DC 0B BD F2 B8 48 5B 6F  .D....>......H[o
+0010: 68 1D 14 16                                        h...
+]
+]
+
+

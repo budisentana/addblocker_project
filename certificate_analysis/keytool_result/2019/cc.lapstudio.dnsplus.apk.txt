@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Ryan Lee, OU=Tech, O=L.A.P Studio, L=Los Angeles, ST=California, C=01
+Issuer: CN=Ryan Lee, OU=Tech, O=L.A.P Studio, L=Los Angeles, ST=California, C=01
+Serial number: 110fd91d
+Valid from: Fri Nov 17 20:26:00 AEDT 2017 until: Tue Nov 11 20:26:00 AEDT 2042
+Certificate fingerprints:
+	 SHA1: C7:15:07:54:F6:15:43:67:B6:51:63:56:EA:39:D4:B5:46:B1:3F:38
+	 SHA256: 99:8B:56:EF:A5:DA:3B:B6:49:6F:8E:41:BF:08:0A:DF:40:01:B6:76:40:16:C9:C2:4E:38:25:36:5C:56:10:94
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 68 68 EC 77 2E F1 F2 83   1B 36 2B C5 84 19 F5 D0  hh.w.....6+.....
+0010: AA CA 8F ED                                        ....
+]
+]
+
+

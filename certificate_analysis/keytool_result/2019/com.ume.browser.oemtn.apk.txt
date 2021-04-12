@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=ume, L=sh
+Issuer: O=ume, L=sh
+Serial number: 25ec19c0
+Valid from: Wed Jul 04 18:05:46 AEST 2018 until: Thu Jun 21 18:05:46 AEST 2068
+Certificate fingerprints:
+	 SHA1: 26:C1:0F:31:41:D4:80:41:41:EB:8F:63:2C:4F:58:71:36:57:4B:14
+	 SHA256: 83:19:E0:CE:13:4D:F4:C7:D4:33:6A:76:0F:81:28:C0:AE:9A:70:7C:47:3B:BB:2F:FF:A7:29:D2:63:EB:C0:83
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5E 03 FC 52 29 BB F0 DE   0C 1D 6B E3 D2 79 06 92  ^..R).....k..y..
+0010: C4 36 58 2C                                        .6X,
+]
+]
+
+

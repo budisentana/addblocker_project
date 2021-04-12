@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=kit, OU=kit, O=kit, L=kit, ST=kit, C=kit
+Issuer: CN=kit, OU=kit, O=kit, L=kit, ST=kit, C=kit
+Serial number: 5db75c92
+Valid from: Thu Nov 05 17:04:22 AEDT 2020 until: Sat Oct 12 17:04:22 AEDT 2120
+Certificate fingerprints:
+	 SHA1: E4:F0:75:B3:4F:C0:2E:C4:F2:A3:A2:23:DB:30:87:CE:21:32:FE:5C
+	 SHA256: D5:2C:24:B4:45:7E:03:39:82:0E:78:71:1D:FD:35:A6:E8:B5:FA:EE:67:A1:75:E3:5B:DD:1B:B5:B2:65:79:2A
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7B BB A7 F8 FD 47 BC 7E   18 30 6A 74 5D 1D 4A 95  .....G...0jt].J.
+0010: AC 67 04 AF                                        .g..
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=CocCoc Inc., O=CocCoc, L=Hanoi, C=VN
+Issuer: CN=CocCoc Inc., O=CocCoc, L=Hanoi, C=VN
+Serial number: 3ae5e97d
+Valid from: Mon Dec 07 18:16:13 AEDT 2015 until: Fri May 03 17:16:13 AEST 2915
+Certificate fingerprints:
+	 SHA1: AA:1E:54:14:31:E6:82:AD:CC:E0:CE:79:5A:42:54:C7:27:90:90:58
+	 SHA256: 66:7A:ED:7D:76:1F:1D:7B:40:6F:61:5A:19:F9:8A:4A:15:9A:B1:A9:47:80:F7:1A:89:67:97:8A:11:2A:78:25
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 51 94 FA E8 9B 33 17 CD   A7 6A E5 C9 CC 93 21 15  Q....3...j....!.
+0010: F7 BC 5E F7                                        ..^.
+]
+]
+
+

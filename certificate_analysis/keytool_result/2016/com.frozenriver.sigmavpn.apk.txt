@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Neil Alexander, O=frozenriver, L=Durham, ST=England, C=GB
+Issuer: CN=Neil Alexander, O=frozenriver, L=Durham, ST=England, C=GB
+Serial number: 4f16ea03
+Valid from: Thu Jan 19 02:49:23 AEDT 2012 until: Sat Dec 26 02:49:23 AEDT 2111
+Certificate fingerprints:
+	 SHA1: 80:11:33:8A:D3:80:DF:1A:22:D7:4F:12:2C:F9:16:D3:D3:0C:7D:67
+	 SHA256: E2:6D:C8:41:DD:53:EB:4D:B6:5F:38:B9:99:80:BC:D4:70:FD:A9:7E:80:9E:F8:BC:78:D8:BF:1A:44:D7:E9:80
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

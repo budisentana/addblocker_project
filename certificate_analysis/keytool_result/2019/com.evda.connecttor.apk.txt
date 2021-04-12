@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=EVDA, OU=EVDA, O=EVDA, L=Dallas, ST=TX, C=US
+Issuer: CN=EVDA, OU=EVDA, O=EVDA, L=Dallas, ST=TX, C=US
+Serial number: 50856aec
+Valid from: Thu Jun 13 02:52:18 AEST 2013 until: Sat Jun 06 02:52:18 AEST 2043
+Certificate fingerprints:
+	 SHA1: D5:B6:4D:10:95:DC:D6:90:B4:57:EE:18:F1:79:29:43:E5:07:23:A9
+	 SHA256: 1A:05:D7:1A:1F:EF:A6:7C:1D:52:C5:05:C1:63:1A:6C:53:F7:0E:A8:FC:50:CD:C0:83:FA:01:77:56:A1:9A:FC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D0 B9 7A 0D 08 53 9F 7A   7E 01 9B E8 0D 4C 44 DD  ..z..S.z.....LD.
+0010: 30 77 C3 BA                                        0w..
+]
+]
+
+

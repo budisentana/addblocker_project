@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=maxthon, OU=Maxthon International, O=developer, L=beijing, ST=beijing, C=100000
+Issuer: CN=maxthon, OU=Maxthon International, O=developer, L=beijing, ST=beijing, C=100000
+Serial number: 4bf4a82b
+Valid from: Thu May 20 13:10:35 AEST 2010 until: Tue Sep 20 13:10:35 AEST 3008
+Certificate fingerprints:
+	 SHA1: 0F:9E:D8:4A:5C:70:51:08:62:00:C2:AE:6A:A7:DA:25:E1:2C:8C:45
+	 SHA256: 4C:11:BB:14:5C:DF:30:4D:B5:B0:1C:4A:9A:AB:5B:98:9C:0A:D5:43:FE:70:40:2D:38:C1:86:38:CB:BF:DB:FE
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

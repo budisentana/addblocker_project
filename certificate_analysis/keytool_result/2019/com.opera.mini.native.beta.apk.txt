@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Opera Android CA, OU=Opera Mini, O=Opera Software ASA, L=Oslo, ST=Oslo, C=NO
+Issuer: CN=Opera Android CA, OU=Opera Mini, O=Opera Software ASA, L=Oslo, ST=Oslo, C=NO
+Serial number: 53a14d64
+Valid from: Wed Jun 18 18:27:16 AEST 2014 until: Fri May 25 18:27:16 AEST 2114
+Certificate fingerprints:
+	 SHA1: D6:7A:8C:3B:E0:74:03:74:4E:F8:82:70:71:A9:39:D3:95:DC:B2:48
+	 SHA256: 57:AC:BC:52:5F:1B:2E:BD:19:19:6C:D6:F0:14:39:7C:C9:10:FD:18:84:1E:0A:E8:50:FE:BC:3E:1E:59:3F:F2
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

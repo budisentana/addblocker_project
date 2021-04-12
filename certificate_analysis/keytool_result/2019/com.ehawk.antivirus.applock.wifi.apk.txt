@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=tcl
+Issuer: CN=tcl
+Serial number: deb21ad
+Valid from: Fri Jun 17 19:31:16 AEST 2016 until: Sun May 24 19:31:16 AEST 2116
+Certificate fingerprints:
+	 SHA1: 17:68:1F:3D:1C:51:DE:A9:DE:74:D1:EC:2A:B7:7C:84:EB:06:E5:BD
+	 SHA256: CA:18:F4:D5:CD:77:C9:D9:31:DC:18:3D:2B:30:75:5C:11:EF:E0:FC:13:DC:D1:BE:FC:0B:B8:81:59:B5:71:91
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4C 1D 82 6A C2 A8 29 C0   BC D4 DA 41 D4 A8 5D 9D  L..j..)....A..].
+0010: ED 0E EA D3                                        ....
+]
+]
+
+

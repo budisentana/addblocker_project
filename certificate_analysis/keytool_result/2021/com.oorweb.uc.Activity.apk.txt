@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: C=91
+Issuer: C=91
+Serial number: 474a6dda
+Valid from: Thu Mar 17 19:29:30 AEDT 2016 until: Mon Mar 11 19:29:30 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 92:96:83:21:6D:86:53:2F:A9:E7:ED:0D:40:AB:8D:2A:25:BA:78:60
+	 SHA256: 6B:64:42:AC:5A:13:30:DE:6C:2D:B5:8C:65:DC:A9:F5:E9:AC:01:2D:7A:28:83:9E:42:4C:9E:0A:0D:31:D3:DB
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AA 00 36 40 B4 03 79 55   00 B8 5E 14 C1 4A 11 8A  ..6@..yU..^..J..
+0010: A0 82 81 1E                                        ....
+]
+]
+
+

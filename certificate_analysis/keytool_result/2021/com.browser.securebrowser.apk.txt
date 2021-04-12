@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Secure Browser, OU=SB, O=SB, L=SB, ST=SB, C=US
+Issuer: CN=Secure Browser, OU=SB, O=SB, L=SB, ST=SB, C=US
+Serial number: 716121f6
+Valid from: Mon May 16 15:38:48 AEST 2016 until: Fri Oct 02 15:38:48 AEST 2043
+Certificate fingerprints:
+	 SHA1: 53:46:AD:65:71:3E:6C:DF:5F:EA:70:CD:D4:7A:60:48:84:4D:F2:89
+	 SHA256: 02:FF:EF:06:1D:7A:A7:52:00:B7:45:A3:39:3A:AE:52:31:2F:15:1E:3F:1B:0B:DA:6C:DE:11:A4:6C:AB:B8:EB
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 85 EB D2 E7 2E 72 06 F4   26 BA B7 C1 A4 B6 9F D5  .....r..&.......
+0010: CA D5 4B 33                                        ..K3
+]
+]
+
+

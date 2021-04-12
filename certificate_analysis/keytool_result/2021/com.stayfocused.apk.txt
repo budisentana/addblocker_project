@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Gaurav Singla, OU=stayfocused, O=stayfocused, L=Noida, ST=U.P., C=IN
+Issuer: CN=Gaurav Singla, OU=stayfocused, O=stayfocused, L=Noida, ST=U.P., C=IN
+Serial number: 7e54539d
+Valid from: Wed Aug 09 01:31:14 AEST 2017 until: Sun Aug 03 01:31:14 AEST 2042
+Certificate fingerprints:
+	 SHA1: 69:30:F7:2D:50:CC:39:6B:01:7B:58:0D:AE:EC:9D:07:9C:2C:D0:FB
+	 SHA256: 28:8C:87:9A:5F:25:BF:DB:E8:99:1F:63:E3:F2:D9:68:1C:68:A0:DC:D5:F2:0C:9B:60:49:88:40:28:E5:FF:37
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5B 17 61 C3 80 2F 6D EC   14 B6 E4 AA 88 D6 56 77  [.a../m.......Vw
+0010: 8C 3C 1A 68                                        .<.h
+]
+]
+
+

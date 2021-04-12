@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Adguard Software Ltd, L=Limassol, ST=Cyprus, C=CY
+Issuer: O=Adguard Software Ltd, L=Limassol, ST=Cyprus, C=CY
+Serial number: 557e2e16
+Valid from: Tue Feb 18 02:31:13 AEDT 2020 until: Thu Jan 25 02:31:13 AEDT 2120
+Certificate fingerprints:
+	 SHA1: A8:1C:3E:A5:EB:73:A1:0A:5F:51:43:C0:2E:FE:12:F2:58:A7:0A:AF
+	 SHA256: D2:A1:52:9C:DF:F9:3B:EF:67:E5:02:59:32:6F:24:8F:82:F0:E0:BC:84:43:E7:14:EE:DB:87:A0:5A:CA:24:15
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 1F 4E F2 5C C3 3B A6 45   BB EE 02 E2 5C 4D 53 B1  .N.\.;.E....\MS.
+0010: 9A 46 8C 12                                        .F..
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Adguard, OU=Adguard, O=Adguard, L=Moscow, ST=Moscow, C=RU
+Issuer: CN=Adguard, OU=Adguard, O=Adguard, L=Moscow, ST=Moscow, C=RU
+Serial number: 9d5427b
+Valid from: Sat Oct 18 06:54:54 AEDT 2014 until: Thu Aug 02 05:54:54 AEST 2288
+Certificate fingerprints:
+	 SHA1: 89:F7:3A:D8:60:46:BF:97:9C:9D:F7:61:F4:F7:67:7A:27:61:70:3F
+	 SHA256: BD:CC:3C:69:C2:6D:46:27:77:3A:E6:D7:E7:E5:B2:C8:9E:94:ED:8D:C0:22:61:52:5F:F8:0A:C4:C9:41:2D:B7
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: DC 48 55 2D CB BE C2 3E   42 65 2E 96 D9 94 AF AE  .HU-...>Be......
+0010: 50 BD 5E CC                                        P.^.
+]
+]
+
+

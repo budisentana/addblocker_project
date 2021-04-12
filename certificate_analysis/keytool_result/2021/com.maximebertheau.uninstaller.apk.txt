@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Maxime Bertheau, L=San Francisco, ST=California, C=US
+Issuer: CN=Maxime Bertheau, L=San Francisco, ST=California, C=US
+Serial number: 10b14cf7
+Valid from: Sat Nov 26 19:42:31 AEDT 2016 until: Wed Nov 20 19:42:31 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 54:DE:5C:B5:EF:2B:31:45:6D:EC:B5:4E:C9:63:F0:15:DB:B4:64:B6
+	 SHA256: 1C:AA:4F:E2:BB:80:2F:8B:0E:8F:DE:6D:F8:C6:9B:35:76:9D:9C:5E:3E:11:42:8A:1C:71:B1:2D:27:7F:0F:6A
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E7 A9 00 26 2A A1 61 1D   24 1D 2D 84 C9 6B 8C B5  ...&*.a.$.-..k..
+0010: 38 E0 66 CB                                        8.f.
+]
+]
+
+

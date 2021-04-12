@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=histars, OU=histars, O=histars, L=guangzhou, ST=guangdong, C=86
+Issuer: CN=histars, OU=histars, O=histars, L=guangzhou, ST=guangdong, C=86
+Serial number: 41fdc316
+Valid from: Mon Jul 25 00:46:17 AEST 2016 until: Wed Jul 01 00:46:17 AEST 2116
+Certificate fingerprints:
+	 SHA1: 6A:CE:40:CB:FA:B2:5C:61:65:F0:55:C0:D8:DE:2D:F2:C5:C3:2C:EE
+	 SHA256: 57:1A:A6:4E:76:84:82:61:1A:35:9D:94:50:88:50:18:3E:6F:66:13:D7:2D:03:9A:19:64:1A:D4:7E:6F:D6:0B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CA 3D 59 F1 A6 03 1B 33   53 48 FD 70 F1 75 E6 C8  .=Y....3SH.p.u..
+0010: A0 30 4F 1A                                        .0O.
+]
+]
+
+

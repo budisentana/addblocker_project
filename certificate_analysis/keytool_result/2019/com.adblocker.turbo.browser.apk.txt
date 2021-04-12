@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Smedia
+Issuer: O=Smedia
+Serial number: cdb5213
+Valid from: Tue Apr 22 20:56:17 AEST 2014 until: Sat Apr 16 20:56:17 AEST 2039
+Certificate fingerprints:
+	 SHA1: 4B:B2:70:80:1A:F6:E5:79:50:6C:04:5C:BE:05:38:47:B7:A0:88:CC
+	 SHA256: 17:A1:19:04:90:D8:20:92:28:56:A1:65:D6:9E:81:34:EA:34:F0:02:98:54:8C:6A:1D:1E:6D:96:53:1A:5B:9F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 06 3D DC C8 8C 8C EF 41   68 03 2D AB EE 83 A7 0F  .=.....Ah.-.....
+0010: 43 1D C9 52                                        C..R
+]
+]
+
+

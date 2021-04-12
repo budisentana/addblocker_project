@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 504e2c42
+Valid from: Tue Sep 11 04:06:58 AEST 2012 until: Mon Sep 12 04:06:58 AEST 2112
+Certificate fingerprints:
+	 SHA1: 33:B2:8E:AF:DF:43:DE:A4:FF:5D:C3:DB:D9:E5:A5:23:F6:7F:6B:B1
+	 SHA256: 32:A2:FC:74:D7:31:10:58:59:E5:A8:5D:F1:6D:95:F1:02:D8:5B:22:09:9B:80:64:C5:D8:91:5C:61:DA:D1:E0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

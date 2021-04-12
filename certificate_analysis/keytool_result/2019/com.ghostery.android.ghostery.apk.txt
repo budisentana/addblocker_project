@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Michael Carrano, OU=Technology, O="Evidon, Inc.", L=New York, ST=New York, C=US
+Issuer: CN=Michael Carrano, OU=Technology, O="Evidon, Inc.", L=New York, ST=New York, C=US
+Serial number: 517fea3c
+Valid from: Wed May 01 01:58:52 AEST 2013 until: Sun Sep 16 01:58:52 AEST 2040
+Certificate fingerprints:
+	 SHA1: D3:82:30:6C:99:B8:A2:18:3C:70:27:2D:E7:51:DC:F6:86:7A:CD:BA
+	 SHA256: C0:1E:1B:BD:4A:65:BD:8B:FC:7A:B4:EF:E8:0C:04:DC:57:D3:3F:84:9F:01:2A:9E:91:DE:1B:FF:13:8A:D2:E2
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

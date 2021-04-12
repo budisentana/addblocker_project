@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Palo Alto Networks, OU=GlobalProtect, O="Palo Alto Networks, Inc.", L=Santa Clara, ST=CA, C=US
+Issuer: CN=Palo Alto Networks, OU=GlobalProtect, O="Palo Alto Networks, Inc.", L=Santa Clara, ST=CA, C=US
+Serial number: 513e220f
+Valid from: Tue Mar 12 05:27:27 AEDT 2013 until: Sat Jul 28 04:27:27 AEST 2040
+Certificate fingerprints:
+	 SHA1: 90:93:85:78:0F:8D:49:A5:F0:7C:18:46:E7:5E:DF:53:69:A4:BC:AC
+	 SHA256: 6A:9F:FA:30:45:57:69:51:FE:3C:D2:5F:3D:00:74:CE:D1:AC:A3:3E:4D:12:3C:C7:71:E1:36:9A:58:9C:87:4F
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

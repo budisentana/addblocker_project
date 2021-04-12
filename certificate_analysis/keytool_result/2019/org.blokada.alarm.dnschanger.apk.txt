@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=blokada.org
+Issuer: CN=blokada.org
+Serial number: 73a06916
+Valid from: Mon Aug 01 21:41:25 AEST 2016 until: Fri Jul 26 21:41:25 AEST 2041
+Certificate fingerprints:
+	 SHA1: 55:2A:FF:E3:F8:63:56:9F:9E:D0:51:25:D5:29:91:C2:74:4D:2B:B3
+	 SHA256: 96:FC:66:8A:9F:97:F3:36:9F:98:03:B4:AF:0A:F0:B2:9A:E0:6C:E2:7B:CE:22:CE:F4:0C:C4:4D:0C:43:3A:F9
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CB 0A 19 18 DE E2 EF FD   36 02 BC DB E5 38 D7 9D  ........6....8..
+0010: 7C 10 81 4E                                        ...N
+]
+]
+
+

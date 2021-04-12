@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=TTDesign
+Issuer: O=TTDesign
+Serial number: 5089751
+Valid from: Wed Feb 06 04:15:31 AEDT 2019 until: Tue Jun 09 03:15:31 AEST 3018
+Certificate fingerprints:
+	 SHA1: E5:7D:65:25:0A:8C:01:1C:77:40:B9:48:61:6B:6D:9D:92:1D:C2:C0
+	 SHA256: 09:9A:6A:49:16:B5:9C:D1:2B:61:62:DD:BF:C3:74:0F:FC:A2:A6:88:DB:EB:67:75:44:38:C2:AB:42:45:CE:0D
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4E DA 2D 0E EC 55 F1 F2   3F BB 39 0C 3E 98 92 F0  N.-..U..?.9.>...
+0010: B3 6D 4A 9D                                        .mJ.
+]
+]
+
+

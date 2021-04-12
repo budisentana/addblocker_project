@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Alex, OU=PrismLab
+Issuer: CN=Alex, OU=PrismLab
+Serial number: 3c9d5be8
+Valid from: Fri Aug 17 15:49:12 AEST 2018 until: Sun Aug 09 15:49:12 AEST 2048
+Certificate fingerprints:
+	 SHA1: 80:8A:EF:07:E4:E0:75:26:6D:87:28:0B:6E:1E:27:EF:B5:80:3C:93
+	 SHA256: 87:09:D2:4F:90:7F:1C:64:E8:8C:23:3D:E4:9C:64:34:77:A9:9F:4F:A9:E8:31:E6:A6:87:7E:28:50:3B:C9:36
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 64 90 04 C7 B9 5E F5 86   CC CE C6 67 19 1B 06 FD  d....^.....g....
+0010: 78 2D 89 9F                                        x-..
+]
+]
+
+

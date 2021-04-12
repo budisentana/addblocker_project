@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=browser, OU=browser, O=browser, L=Chennai, ST=TN, C=IN
+Issuer: CN=browser, OU=browser, O=browser, L=Chennai, ST=TN, C=IN
+Serial number: 54635981
+Valid from: Wed Nov 12 23:58:41 AEDT 2014 until: Sun Mar 30 23:58:41 AEDT 2042
+Certificate fingerprints:
+	 SHA1: B6:A7:8F:63:DB:E4:0B:2C:57:92:0E:CE:47:F1:C4:1E:49:0A:40:93
+	 SHA256: 06:6C:21:24:CD:8C:C0:54:37:1B:F5:BA:3C:6C:A1:C1:D0:C4:08:BF:C1:71:99:2B:4A:D6:95:18:92:A5:12:02
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

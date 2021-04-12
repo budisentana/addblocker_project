@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Emo Ltd Tic. Şti., OU=Emo Ltd Tic. Şti., O=Emo Ltd Tic. Şti., L=izmir, ST=Turkey, C=TR
+Issuer: CN=Emo Ltd Tic. Şti., OU=Emo Ltd Tic. Şti., O=Emo Ltd Tic. Şti., L=izmir, ST=Turkey, C=TR
+Serial number: 7a8a1677
+Valid from: Sat Sep 12 04:59:27 AEST 2015 until: Wed Sep 05 04:59:27 AEST 2040
+Certificate fingerprints:
+	 SHA1: 09:9B:91:FF:FB:15:A7:47:CA:39:3D:D0:94:FB:E5:54:F9:D8:E5:36
+	 SHA256: A3:E4:47:B0:18:40:09:4E:EF:1F:F9:4F:1E:2C:A7:62:F1:3A:CA:D7:CC:F8:7B:90:7F:5F:61:A8:83:15:58:B5
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 65 32 D8 31 6E E9 23 27   BC E8 41 1F 9C 46 14 D8  e2.1n.#'..A..F..
+0010: 32 1D CB 71                                        2..q
+]
+]
+
+

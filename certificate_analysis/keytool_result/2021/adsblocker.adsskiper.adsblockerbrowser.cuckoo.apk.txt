@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: C=9`1
+Issuer: C=9`1
+Serial number: 33efb093
+Valid from: Wed Mar 27 23:09:59 AEDT 2019 until: Sun Mar 20 23:09:59 AEDT 2044
+Certificate fingerprints:
+	 SHA1: F4:03:A9:8C:1C:10:5E:AF:7D:F3:94:24:F4:67:24:36:73:57:9A:AA
+	 SHA256: AB:69:FF:02:72:66:79:5D:97:03:16:06:30:8A:46:5D:E9:2C:CA:80:11:5A:0D:40:04:E5:2F:E1:80:2A:5A:D6
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CC 11 80 DC C2 11 97 41   46 C5 94 3C D2 0B A2 37  .......AF..<...7
+0010: DF DE 1A D0                                        ....
+]
+]
+
+

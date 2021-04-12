@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=HanDevStudio, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=HanDevStudio, L=Beijing, ST=Beijing, C=CN
+Serial number: 40884712
+Valid from: Mon Dec 19 01:00:45 AEDT 2016 until: Fri Dec 13 01:00:45 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 17:16:5F:14:99:DC:F2:E9:B4:E8:A3:2D:E1:A6:5F:3A:38:90:1C:82
+	 SHA256: 1B:42:41:76:A9:9C:38:D5:85:50:95:97:E5:4A:4F:8A:A5:A6:6D:B2:F2:6F:2F:AC:B2:3B:53:7D:1F:A8:5D:2E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FE 6B C8 5E BA B2 F0 50   84 00 B3 62 8F AD 77 35  .k.^...P...b..w5
+0010: 0A 00 4B 0F                                        ..K.
+]
+]
+
+

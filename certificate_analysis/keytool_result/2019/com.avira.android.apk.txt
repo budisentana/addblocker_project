@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Tjark Auerbach, OU=Technical Operations, O=Avira Operations GmbH & Co. KG, L=Tettnang, ST=Baden-Wuerttemberg, C=DE
+Issuer: CN=Tjark Auerbach, OU=Technical Operations, O=Avira Operations GmbH & Co. KG, L=Tettnang, ST=Baden-Wuerttemberg, C=DE
+Serial number: 4f46e38f
+Valid from: Fri Feb 24 12:10:39 AEDT 2012 until: Tue Jul 12 11:10:39 AEST 2039
+Certificate fingerprints:
+	 SHA1: 1B:3C:8B:56:6D:5B:80:54:1C:75:14:4A:9B:B1:60:57:B7:1D:CB:9D
+	 SHA256: 71:A0:2A:98:5F:E1:4C:1A:EE:69:7A:27:ED:76:56:DF:19:4E:9C:F6:A2:2C:FB:AB:3F:75:1E:6F:54:AF:ED:57
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+

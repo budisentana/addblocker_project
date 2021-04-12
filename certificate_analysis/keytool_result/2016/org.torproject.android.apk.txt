@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Tor Project, OU=TorProject.org, O=TorProject.org, L=New York, ST=NY, C=US
+Issuer: CN=Tor Project, OU=TorProject.org, O=TorProject.org, L=New York, ST=NY, C=US
+Serial number: 4b835400
+Valid from: Tue Feb 23 15:05:20 AEDT 2010 until: Sat Jul 11 14:05:20 AEST 2037
+Certificate fingerprints:
+	 SHA1: CD:14:2A:CC:DE:63:FE:57:C1:C5:28:58:E1:9D:1B:37:C7:64:22:CE
+	 SHA256: A4:54:B8:7A:18:47:A8:9E:D7:F5:E7:0F:BA:6B:BA:96:F3:EF:29:C2:6E:09:81:20:4F:E3:47:BF:23:1D:FD:5B
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

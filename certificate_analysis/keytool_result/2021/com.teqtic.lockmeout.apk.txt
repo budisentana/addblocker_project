@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Flaviu Ciobanu, OU=TeqTic, O=TeqTic, L=Toronto, ST=Ontario, C=01
+Issuer: CN=Flaviu Ciobanu, OU=TeqTic, O=TeqTic, L=Toronto, ST=Ontario, C=01
+Serial number: 5db5671b
+Valid from: Thu Apr 17 12:06:43 AEST 2014 until: Wed Aug 18 12:06:43 AEST 3013
+Certificate fingerprints:
+	 SHA1: 6E:A7:CC:EB:80:4F:BD:62:AC:91:CF:1D:5F:6E:C9:5A:6D:E5:64:5A
+	 SHA256: 67:A8:67:34:6D:D0:F0:71:41:B2:47:83:14:90:C0:1F:75:CB:3B:B7:C8:46:A6:30:F9:4A:4F:20:10:12:34:8C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 14 EC B7 15 E7 08 71 11   28 45 77 55 6B 48 AA F9  ......q.(EwUkH..
+0010: D0 6E 60 12                                        .n`.
+]
+]
+
+

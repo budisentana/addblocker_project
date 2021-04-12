@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Mobisoft LLC
+Issuer: O=Mobisoft LLC
+Serial number: 787c516d
+Valid from: Sat Dec 28 00:14:53 AEDT 2013 until: Mon Dec 21 00:14:53 AEDT 2043
+Certificate fingerprints:
+	 SHA1: F7:2F:9A:9F:26:1F:83:0B:55:91:7A:2E:E2:6E:76:7B:08:7C:19:03
+	 SHA256: 9A:FA:A0:B8:43:26:84:67:9A:3D:D8:D9:8C:EB:5C:11:59:E5:B5:50:C6:45:2D:B8:09:91:39:CB:49:B3:42:FA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D1 E3 81 F1 DA AA B5 3D   49 E9 ED FA B2 16 30 2D  .......=I.....0-
+0010: E6 CA 7E 9A                                        ....
+]
+]
+
+

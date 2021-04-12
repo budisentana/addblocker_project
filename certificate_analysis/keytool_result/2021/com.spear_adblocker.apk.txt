@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Joowon Ryoo, OU=Joowon, O=Joowon, L=City, ST=Korea, C=KR
+Issuer: CN=Joowon Ryoo, OU=Joowon, O=Joowon, L=City, ST=Korea, C=KR
+Serial number: 5d1348d0
+Valid from: Wed Feb 13 05:25:59 AEDT 2019 until: Sun Feb 07 05:25:59 AEDT 2044
+Certificate fingerprints:
+	 SHA1: EA:64:49:01:44:35:6B:89:74:48:D2:7E:AF:78:FF:DA:AD:CF:D5:5B
+	 SHA256: F4:0F:83:F2:66:B4:E2:75:F2:AC:47:60:74:D8:CB:C0:6A:B8:C1:C5:C8:D2:94:48:8E:A2:C7:DC:1B:E3:DE:32
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 80 6A E8 DB BA E5 21 84   A6 15 19 E5 8B D0 81 6B  .j....!........k
+0010: 78 50 D7 40                                        xP.@
+]
+]
+
+

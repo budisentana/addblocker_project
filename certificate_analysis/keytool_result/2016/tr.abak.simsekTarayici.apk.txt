@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Alpaslan Bak
+Issuer: CN=Alpaslan Bak
+Serial number: 57176898
+Valid from: Wed Apr 20 21:31:36 AEST 2016 until: Sun Apr 14 21:31:36 AEST 2041
+Certificate fingerprints:
+	 SHA1: F0:39:41:AC:B7:D5:E4:C7:9C:0E:58:9B:C9:86:09:5A:BD:52:0C:E2
+	 SHA256: 18:C2:C5:F2:AE:19:6C:F3:87:84:33:EE:4E:C9:32:06:D7:8F:AD:6B:35:E6:3D:3A:48:05:6F:FB:EB:56:42:6B
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

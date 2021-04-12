@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=StealthBrowser
+Issuer: CN=StealthBrowser
+Serial number: 3f51937c
+Valid from: Thu Jul 30 12:27:57 AEST 2015 until: Mon Jul 23 12:27:57 AEST 2040
+Certificate fingerprints:
+	 SHA1: 0F:96:BA:0F:0A:28:98:BD:14:FD:DE:CC:F6:9A:50:5C:8A:07:A7:34
+	 SHA256: 76:AF:70:44:2B:ED:3A:F5:FE:F4:0C:15:53:D2:04:BA:7C:AC:25:0A:A0:2F:7A:74:D9:E1:9E:CB:52:AD:84:E8
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C1 67 BE 3B 2A CB 9D C9   E1 28 D0 D5 AE 57 FD D1  .g.;*....(...W..
+0010: 76 4B 0A 05                                        vK..
+]
+]
+
+

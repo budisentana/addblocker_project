@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Sputnik, L=Moscow, C=ru
+Issuer: O=Sputnik, L=Moscow, C=ru
+Serial number: 1e71eb9b
+Valid from: Tue Apr 22 18:04:45 AEST 2014 until: Wed Apr 09 18:04:45 AEST 2064
+Certificate fingerprints:
+	 SHA1: A5:31:1E:98:32:FA:7D:B3:D6:95:C5:82:46:59:7E:5A:E7:C8:F1:18
+	 SHA256: 49:76:DC:1D:6C:98:A8:A1:4A:CA:C8:43:6F:F2:BC:00:3A:B0:9B:F5:FC:2D:E0:01:69:E9:5E:81:80:49:0F:C4
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 93 69 E1 79 81 F4 CC 44   8B C7 CA 24 3A 5A 0B FD  .i.y...D...$:Z..
+0010: 89 55 3D F0                                        .U=.
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Leo R, OU=Apps, O=leo-r.com
+Issuer: CN=Leo R, OU=Apps, O=leo-r.com
+Serial number: 1c216f35
+Valid from: Sat May 24 15:10:01 AEST 2014 until: Mon May 16 15:10:01 AEST 2044
+Certificate fingerprints:
+	 SHA1: 4C:64:A3:1F:56:82:16:7A:BE:55:B7:CD:AE:B7:D4:A3:12:EB:56:CC
+	 SHA256: 6E:1D:37:A8:95:B2:B9:80:EB:4F:65:28:31:FB:D3:EC:A0:ED:BE:12:2A:E3:D3:40:FB:C0:6F:57:C2:6C:D4:2E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C9 5F D7 6D 8B 5D 45 8D   83 DC 09 C3 CF F4 27 37  ._.m.]E.......'7
+0010: 90 1C 61 89                                        ..a.
+]
+]
+
+

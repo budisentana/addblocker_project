@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=zer0lab dev, OU=zer0lab dev, O=zer0lab dev, L=Bologna, ST=Italy, C=IT
+Issuer: CN=zer0lab dev, OU=zer0lab dev, O=zer0lab dev, L=Bologna, ST=Italy, C=IT
+Serial number: fc1cd7e
+Valid from: Tue Dec 02 02:34:54 AEDT 2014 until: Thu Nov 08 02:34:54 AEDT 2114
+Certificate fingerprints:
+	 SHA1: BF:A0:E7:CA:87:B7:5C:72:E6:CA:A2:2A:95:8A:65:44:97:B6:73:FF
+	 SHA256: 4D:3F:17:06:0A:4F:D4:F5:8B:15:5B:73:B7:64:D0:A6:2F:65:AE:BD:97:22:2C:4E:DB:51:54:CD:90:1C:68:22
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 61 41 3C D4 76 17 77 6A   01 8B 1E D9 0E 67 3C 9D  aA<.v.wj.....g<.
+0010: 30 C6 4B 62                                        0.Kb
+]
+]
+
+

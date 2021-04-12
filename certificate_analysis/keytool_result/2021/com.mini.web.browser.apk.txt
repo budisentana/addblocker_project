@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=ume, L=sh
+Issuer: O=ume, L=sh
+Serial number: 138d2dbe
+Valid from: Thu Dec 12 19:52:48 AEDT 2019 until: Fri Nov 29 19:52:48 AEDT 2069
+Certificate fingerprints:
+	 SHA1: 85:7E:00:CB:6E:2C:EF:CB:53:62:D8:6F:E3:CD:05:35:37:08:AC:FA
+	 SHA256: 22:14:2D:7A:AD:E2:58:FD:0F:0B:B6:A0:65:31:C3:FA:A7:F3:AE:53:A9:18:CB:D0:48:7D:4F:4E:A6:89:18:46
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 77 D7 67 A2 2F 07 72 74   1E E1 0C 86 8E 51 37 17  w.g./.rt.....Q7.
+0010: B6 2D EC 88                                        .-..
+]
+]
+
+

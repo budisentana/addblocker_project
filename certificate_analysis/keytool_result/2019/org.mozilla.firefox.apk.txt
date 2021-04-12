@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Release Engineering, OU=Release Engineering, O=Mozilla Corporation, L=Mountain View, ST=California, C=US
+Issuer: CN=Release Engineering, OU=Release Engineering, O=Mozilla Corporation, L=Mountain View, ST=California, C=US
+Serial number: 4c72fd88
+Valid from: Tue Aug 24 09:00:24 AEST 2010 until: Sat Jan 09 10:00:24 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 92:0F:48:76:A6:A5:7B:4A:6A:2F:4C:CA:F6:5F:7D:29:CE:26:FF:2C
+	 SHA256: A7:8B:62:A5:16:5B:44:94:B2:FE:AD:9E:76:A2:80:D2:2D:93:7F:EE:62:51:AE:CE:59:94:46:B2:EA:31:9B:04
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

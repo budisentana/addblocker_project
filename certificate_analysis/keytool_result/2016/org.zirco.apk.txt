@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Jérémie Devauchelle
+Issuer: CN=Jérémie Devauchelle
+Serial number: 4bdf1950
+Valid from: Tue May 04 04:43:28 AEST 2010 until: Thu Apr 10 04:43:28 AEST 2110
+Certificate fingerprints:
+	 SHA1: F8:FB:1D:B9:D4:53:A3:63:01:C5:95:49:DA:3F:2C:92:3D:E7:7B:E2
+	 SHA256: CD:8F:41:43:F8:94:65:4B:F2:B5:0E:2D:56:0F:3E:FA:51:06:34:BF:99:74:41:06:C9:B3:24:6A:33:3F:B3:08
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: L=Palo Alto
+Issuer: L=Palo Alto
+Serial number: 7368ccb8
+Valid from: Tue Mar 31 09:37:08 AEDT 2015 until: Mon Mar 12 09:37:08 AEDT 2091
+Certificate fingerprints:
+	 SHA1: BD:C2:C9:BB:F2:D4:37:BA:9D:B8:7B:52:3B:61:7F:A0:7F:17:95:E1
+	 SHA256: 73:C4:04:A3:C4:10:8F:5C:90:9D:E5:D3:9F:1B:62:E3:97:3E:03:85:6E:23:ED:4B:D2:3C:6D:BA:D2:F2:E2:DC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5C A0 B2 62 7B 3C 45 65   2C 75 1A 6C 1B 63 72 16  \..b.<Ee,u.l.cr.
+0010: 58 AF 69 1B                                        X.i.
+]
+]
+
+

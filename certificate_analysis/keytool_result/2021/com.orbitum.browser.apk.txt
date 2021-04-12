@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Orbitum, OU=Orbitum, C=RU
+Issuer: CN=Orbitum, OU=Orbitum, C=RU
+Serial number: 545fb055
+Valid from: Mon Nov 10 05:20:05 AEDT 2014 until: Fri Nov 04 05:20:05 AEDT 2039
+Certificate fingerprints:
+	 SHA1: DE:40:72:DF:32:7A:E6:6F:2A:EA:9F:B2:E8:C7:39:5E:22:1B:E2:AE
+	 SHA256: 21:5A:FB:8B:B7:EA:39:01:2B:C8:9E:DC:4E:BC:FF:72:04:52:B4:D8:07:41:B8:3E:97:03:0C:C2:DF:2F:3F:E0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

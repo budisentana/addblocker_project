@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Waqas Ahmed Mir, OU=Bravo, O=Bravo Developer
+Issuer: CN=Waqas Ahmed Mir, OU=Bravo, O=Bravo Developer
+Serial number: 221a4576
+Valid from: Sat Mar 02 06:22:37 AEDT 2019 until: Wed Feb 24 06:22:37 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 82:33:66:63:9C:BD:60:98:62:D4:0D:97:A0:77:38:68:1A:D1:3A:4F
+	 SHA256: C5:35:1A:0D:3D:5A:FD:7D:58:F0:2F:0A:25:14:90:CF:28:EE:FA:FF:02:39:79:29:90:52:FB:50:00:6E:71:5B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E2 9C A7 B3 80 E9 94 5C   5E DE DE CD C4 B4 E2 AC  .......\^.......
+0010: 76 6F 26 64                                        vo&d
+]
+]
+
+

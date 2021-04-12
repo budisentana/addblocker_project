@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Opera Software, OU=Unknown, O=Opera, L=Unknown, ST=Unknown, C=NO
+Issuer: CN=Opera Software, OU=Unknown, O=Opera, L=Unknown, ST=Unknown, C=NO
+Serial number: 4b8d34db
+Valid from: Wed Mar 03 02:55:07 AEDT 2010 until: Sun Jul 19 01:55:07 AEST 2037
+Certificate fingerprints:
+	 SHA1: EB:E9:F9:02:C7:E1:FB:06:8D:7E:A4:0D:C4:F2:D8:3A:6F:FC:A4:1E
+	 SHA256: 5D:6A:FB:F8:7F:65:2A:F0:46:47:AD:A0:DF:63:4C:F2:23:70:90:0B:16:4B:09:D5:0B:D2:3A:A2:CB:52:85:B8
+Signature algorithm name: SHA1withDSA (weak)
+Subject Public Key Algorithm: 1024-bit DSA key (weak)
+Version: 3
+

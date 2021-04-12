@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: C=US, ST=california, L=san francisco, O=fast web explorer, OU=4g fast browser, CN=internet explorer
+Issuer: C=US, ST=california, L=san francisco, O=fast web explorer, OU=4g fast browser, CN=internet explorer
+Serial number: 25d72ded
+Valid from: Tue Apr 21 10:00:00 AEST 2015 until: Sun Apr 21 10:00:00 AEST 2047
+Certificate fingerprints:
+	 SHA1: 3E:A8:B4:48:AB:76:CD:1D:D7:A2:8C:4E:73:0C:98:73:AD:2D:AE:D0
+	 SHA256: 79:AC:5B:7D:9A:60:F7:0A:5F:C2:68:27:4B:8B:04:21:85:3D:FE:A2:03:23:70:81:EC:02:A5:57:0B:75:AD:9B
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 1
+

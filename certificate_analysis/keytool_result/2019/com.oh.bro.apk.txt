@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Jayachithta, OU=Dev, O=Android, STREET="11/8, Ezhil Nagar, Round Road Pudhur,", L=Dindigul, ST=Tamilnadu, C=91
+Issuer: CN=Jayachithta, OU=Dev, O=Android, STREET="11/8, Ezhil Nagar, Round Road Pudhur,", L=Dindigul, ST=Tamilnadu, C=91
+Serial number: 734b4090
+Valid from: Mon May 14 23:01:57 AEST 2018 until: Thu Jul 28 23:01:57 AEST 2078
+Certificate fingerprints:
+	 SHA1: C3:6F:0B:C8:C2:56:72:55:58:BF:43:27:14:42:D1:2B:FF:0F:B8:88
+	 SHA256: 01:17:8C:F1:23:CD:7C:A6:DA:4B:C8:6F:14:80:9C:0E:7B:57:0F:F6:23:5E:CB:76:83:FE:CC:44:3D:2B:A6:38
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Dmitri Khoudiakov, OU=DMKHO software, O=DMKHO, L=Copenhagen, ST=Copenhagen, C=DA
+Issuer: CN=Dmitri Khoudiakov, OU=DMKHO software, O=DMKHO, L=Copenhagen, ST=Copenhagen, C=DA
+Serial number: 4f38150b
+Valid from: Mon Feb 13 06:37:47 AEDT 2012 until: Fri Jul 01 05:37:47 AEST 2039
+Certificate fingerprints:
+	 SHA1: 00:8C:EA:A6:5A:E6:D9:1C:ED:93:24:F6:E6:3A:02:85:F4:70:4F:31
+	 SHA256: E5:3C:FE:D1:DD:A0:C6:7A:33:64:3F:20:1D:BB:A8:BF:E7:3A:79:74:14:16:9D:CD:4E:D9:A5:90:C7:4B:5C:DC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=olyfox
+Issuer: CN=olyfox
+Serial number: 83eba61
+Valid from: Tue Jul 03 18:37:27 AEST 2018 until: Sat Jun 27 18:37:27 AEST 2043
+Certificate fingerprints:
+	 SHA1: 14:12:14:58:3D:ED:EB:51:98:88:34:7C:CA:23:12:73:24:04:51:88
+	 SHA256: E4:C3:DD:82:22:64:D1:12:D1:04:2D:49:78:91:AE:1E:9D:B2:9F:C1:61:72:5E:4B:A8:DE:23:AF:41:3E:17:17
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4A 98 6A 56 3A 98 1F AC   CE 34 1D C1 F6 3B 02 01  J.jV:....4...;..
+0010: F8 BC D5 CB                                        ....
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Mobilob Bilişim ve Ticaret Ltd. Şti., OU=Mobilob, O=Mobilob, L=Istanbul, C=TR
+Issuer: CN=Mobilob Bilişim ve Ticaret Ltd. Şti., OU=Mobilob, O=Mobilob, L=Istanbul, C=TR
+Serial number: 6f192bc6
+Valid from: Thu Aug 14 21:24:13 AEST 2014 until: Mon Aug 08 21:24:13 AEST 2039
+Certificate fingerprints:
+	 SHA1: C0:D9:02:CB:A0:31:72:30:ED:BB:15:F3:0A:57:22:78:AF:BB:60:7D
+	 SHA256: 2E:D5:13:2F:77:79:A8:35:4C:64:AE:0B:28:11:75:6A:40:FE:53:BF:E6:74:17:8F:68:13:37:09:D2:A6:4E:97
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 1F 77 E6 14 0D F2 85 A2   4B 19 24 CB 04 39 0E 43  .w......K.$..9.C
+0010: F1 0B 65 44                                        ..eD
+]
+]
+
+

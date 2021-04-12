@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Sibi Mobile Lab, OU=Dev, O=Sibi Mobile Lab, L=Hanoi, ST=Hanoi, C=84
+Issuer: CN=Sibi Mobile Lab, OU=Dev, O=Sibi Mobile Lab, L=Hanoi, ST=Hanoi, C=84
+Serial number: 6c5c93bd
+Valid from: Thu Oct 27 20:08:06 AEDT 2016 until: Mon Oct 19 20:08:06 AEDT 2048
+Certificate fingerprints:
+	 SHA1: 97:09:0C:DB:5C:03:3C:5B:AE:14:73:55:52:9B:B7:99:2C:D9:71:E9
+	 SHA256: 3D:A0:5D:47:83:FF:B7:A7:DD:2A:A6:9D:59:AA:45:74:3C:85:0C:91:2E:E0:67:8F:A0:BF:98:95:64:C8:B5:5F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 52 CF 74 B3 69 A7 18 AC   5B 54 CA 8D 48 52 CF 39  R.t.i...[T..HR.9
+0010: BB EF 82 81                                        ....
+]
+]
+
+

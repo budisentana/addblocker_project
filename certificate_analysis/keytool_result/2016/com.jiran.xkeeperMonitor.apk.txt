@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Jiransoft, O=xkeeperMonitor, L=Seoul, C=ko
+Issuer: CN=Jiransoft, O=xkeeperMonitor, L=Seoul, C=ko
+Serial number: 3f04e680
+Valid from: Wed Aug 01 15:45:15 AEST 2012 until: Thu Jul 20 15:45:15 AEST 2062
+Certificate fingerprints:
+	 SHA1: C6:C8:CE:E1:20:23:F4:1F:7A:23:73:46:88:32:26:46:EF:07:E8:AA
+	 SHA256: DB:D8:9C:69:AD:16:4C:04:EA:BE:4B:EE:45:BD:ED:E8:28:85:3C:5F:1C:00:FC:08:19:25:32:15:0E:B5:67:80
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7D AC 9E 22 77 6A EC A6   B0 1E DE 3F 23 C1 52 69  ..."wj.....?#.Ri
+0010: AB C3 AF B9                                        ....
+]
+]
+
+

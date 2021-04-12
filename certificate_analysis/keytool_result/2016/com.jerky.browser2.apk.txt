@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Jerky
+Issuer: O=Jerky
+Serial number: 52e681e2
+Valid from: Tue Jan 28 02:57:22 AEDT 2014 until: Sat Jan 22 02:57:22 AEDT 2039
+Certificate fingerprints:
+	 SHA1: 41:A5:DF:D7:2D:A2:88:AB:2C:2D:9A:EA:17:8E:57:C5:22:1F:BC:79
+	 SHA256: 5A:AC:7D:FC:00:DF:A8:35:52:43:C5:30:BA:CD:5B:91:CA:8C:1C:AA:DC:E4:E1:D1:F9:CA:94:7D:57:51:E6:1B
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

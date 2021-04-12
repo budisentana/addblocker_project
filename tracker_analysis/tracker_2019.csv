@@ -1,0 +1,721 @@
+file_name,tracker_name,reference
+adblock.browser.lightning.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+adblock.browser.lightning.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+adblock.browser.lightning.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+adblock.browser.lightning.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+adblock.browser.lightning.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+adblock.browser.lightning.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+adblock.browser.lightning.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+adblock.browser.lightning.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+adblock.browser.lightning.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.hsv.powerbrowser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.hsv.powerbrowser.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+com.hsv.powerbrowser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.hsv.powerbrowser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.hsv.powerbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.hsv.powerbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.hsv.powerbrowser.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+com.hsv.powerbrowser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.hsv.powerbrowser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.symantec.securewifi.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.symantec.securewifi.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.symantec.securewifi.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.symantec.securewifi.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.symantec.securewifi.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.symantec.securewifi.apk.json,MixPanel,https://reports.exodus-privacy.eu.org/trackers/118
+com.browsers.pegasus.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.browsers.pegasus.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+browser.blockpornbrowser.adblocker.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+browser.blockpornbrowser.adblocker.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+browser.blockpornbrowser.adblocker.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.HalfAppit.techblocker.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.HalfAppit.techblocker.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.HalfAppit.techblocker.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.HalfAppit.techblocker.apk.json,Tune,https://reports.exodus-privacy.eu.org/trackers/38
+uk.co.mangofish.zest.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+kr.co.lylstudio.unicorn.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+kr.co.lylstudio.unicorn.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ume.browser.international.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.ume.browser.international.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.ume.browser.international.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ume.browser.international.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.ume.browser.international.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ume.browser.international.apk.json,Taboola,https://reports.exodus-privacy.eu.org/trackers/173
+com.transsion.phoenix.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.transsion.phoenix.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.transsion.phoenix.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.transsion.phoenix.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.sibimobilelab.amazebrowser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.sibimobilelab.amazebrowser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.gam.antipornoblockerbrowser.apk.json,AppBrain,https://reports.exodus-privacy.eu.org/trackers/136
+net.bluehack.blu.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+net.bluehack.blu.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+net.bluehack.blu.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+net.bluehack.blu.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Tappx,https://reports.exodus-privacy.eu.org/trackers/380
+com.NewSpeedXBrowser2019SuperFastAdBlocker_9197.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.indian.browser.fast.web.browsing.free.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.indian.browser.fast.web.browsing.free.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+tr.abak.simsekTarayici.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+tr.abak.simsekTarayici.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+tr.abak.simsekTarayici.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+org.dotcode.datablocker.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+org.dotcode.datablocker.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.dolphin.browser.android.jp.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.dolphin.browser.android.jp.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kidoz.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.kidoz.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kidoz.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.kidoz.apk.json,KIDOZ,https://reports.exodus-privacy.eu.org/trackers/235
+com.ghostery.android.ghostery.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.ghostery.android.ghostery.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.joettaapps.adblocker.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.yandex.browser.alpha.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.yandex.browser.alpha.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.yandex.browser.alpha.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.yandex.browser.alpha.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.yandex.browser.alpha.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.yandex.browser.alpha.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.cmcm.freevpn.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+com.cmcm.freevpn.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.cmcm.freevpn.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.cmcm.freevpn.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.avira.android.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.avira.android.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.avira.android.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.avira.android.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.avira.android.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.avira.android.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.avira.android.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.avira.android.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.avira.android.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.avira.android.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.avira.android.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.avira.android.apk.json,MixPanel,https://reports.exodus-privacy.eu.org/trackers/118
+net.upx.proxy.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+org.adblockplus.browser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+org.adblockplus.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+org.adblockplus.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+org.adblockplus.browser.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+ads.blocker.browser.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+ads.blocker.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+ads.blocker.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+ads.blocker.browser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.baidu.browser.inter.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.baidu.browser.inter.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.baidu.browser.inter.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.baidu.browser.inter.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.baidu.browser.inter.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.blackbrowser.newsoft.blackbrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.blackbrowser.newsoft.blackbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kwah.privatebrowser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.kwah.privatebrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.kwah.privatebrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.kwah.privatebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kwah.privatebrowser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.kwah.privatebrowser.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.kwah.privatebrowser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.kwah.privatebrowser.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.fastbrowser.videodownload.privatebrowser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.fastbrowser.videodownload.privatebrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.fastbrowser.videodownload.privatebrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.fastbrowser.videodownload.privatebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.cake.browser.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.cake.browser.apk.json,Branch,https://reports.exodus-privacy.eu.org/trackers/167
+com.cake.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.cake.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.cake.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.cake.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.cake.browser.apk.json,Keen,https://reports.exodus-privacy.eu.org/trackers/262
+com.cake.browser.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.ume.browser.bose.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.ume.browser.bose.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.ume.browser.bose.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ume.browser.bose.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.ume.browser.bose.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ume.browser.bose.apk.json,Taboola,https://reports.exodus-privacy.eu.org/trackers/173
+com.ucturbo.apk.json,AutoNavi / Amap,https://reports.exodus-privacy.eu.org/trackers/361
+com.ucturbo.apk.json,Tencent Stats,https://reports.exodus-privacy.eu.org/trackers/116
+com.alohamobile.browser.lite.apk.json,Amplitude,https://reports.exodus-privacy.eu.org/trackers/125
+com.alohamobile.browser.lite.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.alohamobile.browser.lite.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.alohamobile.browser.lite.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.alohamobile.browser.lite.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.alohamobile.browser.lite.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.alohamobile.browser.lite.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.alohamobile.browser.lite.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.alohamobile.browser.lite.apk.json,Taboola,https://reports.exodus-privacy.eu.org/trackers/173
+com.alohamobile.browser.lite.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.kms.free.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.kms.free.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.kms.free.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.kms.free.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kms.free.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.wBROWSERID_8285526.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.wBROWSERID_8285526.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.wBROWSERID_8285526.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.wBROWSERID_8285526.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.wBROWSERID_8285526.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.wBROWSERID_8285526.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.wBROWSERID_8285526.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.wBROWSERID_8285526.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.wBROWSERID_8285526.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.wBROWSERID_8285526.apk.json,Tappx,https://reports.exodus-privacy.eu.org/trackers/380
+com.wBROWSERID_8285526.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+cc.lapstudio.dnsplus.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+cc.lapstudio.dnsplus.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk.json,Bugly,https://reports.exodus-privacy.eu.org/trackers/190
+com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.cloudflare.onedotonedotonedotone.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.cloudflare.onedotonedotonedotone.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.cloudflare.onedotonedotonedotone.apk.json,Instabug,https://reports.exodus-privacy.eu.org/trackers/206
+info.guardianproject.orfox.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+info.guardianproject.orfox.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+info.guardianproject.orfox.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+info.guardianproject.orfox.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.opera.browser.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.opera.browser.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.opera.browser.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.opera.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.opera.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.opera.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.opera.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.opera.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.opera.browser.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+com.opera.browser.apk.json,Mintegral,https://reports.exodus-privacy.eu.org/trackers/200
+com.opera.browser.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.opera.browser.apk.json,myTarget,https://reports.exodus-privacy.eu.org/trackers/198
+com.noxgroup.app.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.noxgroup.app.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.noxgroup.app.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.luna.vpn.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.luna.vpn.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.VEB_VandeEarth_Browser.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.VEB_VandeEarth_Browser.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.VEB_VandeEarth_Browser.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.VEB_VandeEarth_Browser.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.VEB_VandeEarth_Browser.apk.json,Cuebiq,https://reports.exodus-privacy.eu.org/trackers/57
+com.VEB_VandeEarth_Browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.VEB_VandeEarth_Browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.VEB_VandeEarth_Browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.VEB_VandeEarth_Browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.VEB_VandeEarth_Browser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.VEB_VandeEarth_Browser.apk.json,MobFox,https://reports.exodus-privacy.eu.org/trackers/185
+com.VEB_VandeEarth_Browser.apk.json,OneAudience,https://reports.exodus-privacy.eu.org/trackers/355
+com.VEB_VandeEarth_Browser.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+s.sdownload.adblockerultimatebrowser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+s.sdownload.adblockerultimatebrowser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+s.sdownload.adblockerultimatebrowser.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+s.sdownload.adblockerultimatebrowser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+s.sdownload.adblockerultimatebrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+s.sdownload.adblockerultimatebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kiddoware.kidsafebrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.kiddoware.kidsafebrowser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.kiddoware.kidsafebrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.kiddoware.kidsafebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.kiddoware.kidsafebrowser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.kiddoware.kidsafebrowser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.kiddoware.kidsafebrowser.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.kiddoware.kidsafebrowser.apk.json,SuperAwesome,https://reports.exodus-privacy.eu.org/trackers/378
+com.antiporn.pornoblock.safebrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.antiporn.pornoblock.safebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.mc.browser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.mc.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.mc.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.mc.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.mc.browser.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.mc.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.mc.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.mc.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.mc.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.mc.browser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.OlyFox.webbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.yandex.browser.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.yandex.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.yandex.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.yandex.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.yandex.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.yandex.browser.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.cliqz.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.opera.browser.beta.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.opera.browser.beta.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.opera.browser.beta.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.opera.browser.beta.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.opera.browser.beta.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.opera.browser.beta.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.opera.browser.beta.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.opera.browser.beta.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.opera.browser.beta.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.opera.browser.beta.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+com.opera.browser.beta.apk.json,Mintegral,https://reports.exodus-privacy.eu.org/trackers/200
+com.opera.browser.beta.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.opera.browser.beta.apk.json,myTarget,https://reports.exodus-privacy.eu.org/trackers/198
+com.hsv.freeadblockerbrowser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.hsv.freeadblockerbrowser.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+com.hsv.freeadblockerbrowser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.hsv.freeadblockerbrowser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.hsv.freeadblockerbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.hsv.freeadblockerbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.hsv.freeadblockerbrowser.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+com.hsv.freeadblockerbrowser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.hsv.freeadblockerbrowser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.kawkaw.pornblocker.safebrowser.up.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.kawkaw.pornblocker.safebrowser.up.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.cloudmosa.puffin.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.cloudmosa.puffin.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+org.mozilla.focus.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+org.mozilla.focus.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.alohamobile.browser.apk.json,Amplitude,https://reports.exodus-privacy.eu.org/trackers/125
+com.alohamobile.browser.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.alohamobile.browser.apk.json,Branch,https://reports.exodus-privacy.eu.org/trackers/167
+com.alohamobile.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.alohamobile.browser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.alohamobile.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.alohamobile.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.alohamobile.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.alohamobile.browser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.alohamobile.browser.apk.json,Taboola,https://reports.exodus-privacy.eu.org/trackers/173
+com.alohamobile.browser.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.apusapps.browser.apk.json,AppLovin (MAX and SparkLabs),https://reports.exodus-privacy.eu.org/trackers/72
+com.apusapps.browser.apk.json,Branch,https://reports.exodus-privacy.eu.org/trackers/167
+com.apusapps.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.apusapps.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.apusapps.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.apusapps.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.apusapps.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.apusapps.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.apusapps.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.apusapps.browser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.apusapps.browser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.apusapps.browser.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+trim.altict.com.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+trim.altict.com.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+trim.altict.com.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+org.torproject.torbrowser_alpha.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.opera.mini.native.beta.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.opera.mini.native.beta.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.opera.mini.native.beta.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.opera.mini.native.beta.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.opera.mini.native.beta.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.opera.mini.native.beta.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.opera.mini.native.beta.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+com.opera.mini.native.beta.apk.json,Mintegral,https://reports.exodus-privacy.eu.org/trackers/200
+com.opera.mini.native.beta.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.opera.mini.native.beta.apk.json,myTarget,https://reports.exodus-privacy.eu.org/trackers/198
+com.opera.mini.native.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.opera.mini.native.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.opera.mini.native.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.opera.mini.native.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.opera.mini.native.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.opera.mini.native.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.opera.mini.native.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+com.opera.mini.native.apk.json,Mintegral,https://reports.exodus-privacy.eu.org/trackers/200
+com.opera.mini.native.apk.json,Yandex Ad,https://reports.exodus-privacy.eu.org/trackers/124
+com.opera.mini.native.apk.json,myTarget,https://reports.exodus-privacy.eu.org/trackers/198
+org.mozilla.firefox.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+org.mozilla.firefox.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+org.mozilla.firefox.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.trendmicro.freetmms.gmobi.apk.json,Bugly,https://reports.exodus-privacy.eu.org/trackers/190
+com.trendmicro.freetmms.gmobi.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.trendmicro.freetmms.gmobi.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.trendmicro.freetmms.gmobi.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.trendmicro.freetmms.gmobi.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.trendmicro.freetmms.gmobi.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.trendmicro.freetmms.gmobi.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.trendmicro.freetmms.gmobi.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.trendmicro.freetmms.gmobi.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.trendmicro.freetmms.gmobi.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.trendmicro.freetmms.gmobi.apk.json,Instabug,https://reports.exodus-privacy.eu.org/trackers/206
+com.trendmicro.freetmms.gmobi.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.ecosia.android.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+fast.explorer.web.browser.apk.json,Baidu Location,https://reports.exodus-privacy.eu.org/trackers/97
+fast.explorer.web.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.secore.privacyshield.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.secore.privacyshield.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.internetexplorer.browser.web.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.internetexplorer.browser.web.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.internetexplorer.browser.web.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.internetexplorer.browser.web.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.internetexplorer.browser.web.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.internetexplorer.browser.web.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.internetexplorer.browser.web.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.internetexplorer.browser.web.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.internetexplorer.browser.web.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.drweb.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.drweb.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.gikix.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.gikix.browser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.gikix.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.gikix.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ksmobile.cb.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+com.ksmobile.cb.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ksmobile.cb.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.ksmobile.cb.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+web.browser.navigateur.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+web.browser.navigateur.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+web.browser.navigateur.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+web.browser.navigateur.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+web.browser.navigateur.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+web.browser.navigateur.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+web.browser.navigateur.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+web.browser.navigateur.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+web.browser.navigateur.apk.json,Mobvista,https://reports.exodus-privacy.eu.org/trackers/159
+com.mebrowsermini.webapp.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.mebrowsermini.webapp.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.mebrowsermini.webapp.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.mebrowsermini.webapp.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.mebrowsermini.webapp.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.mebrowsermini.webapp.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.mebrowsermini.webapp.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.mebrowsermini.webapp.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.mebrowsermini.webapp.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.google.android.apps.freighter.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.orbitum.browser.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.orbitum.browser.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.orbitum.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.orbitum.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.orbitum.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.orbitum.browser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.orbitum.browser.apk.json,VKontakte SDK,https://reports.exodus-privacy.eu.org/trackers/382
+com.androidbull.incognito.browser.apk.json,AppSee,https://reports.exodus-privacy.eu.org/trackers/126
+com.androidbull.incognito.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.androidbull.incognito.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.androidbull.incognito.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.androidbull.incognito.browser.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.androidbull.incognito.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.androidbull.incognito.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.androidbull.incognito.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.androidbull.incognito.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.comodo.cisme.antivirus.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.comodo.cisme.antivirus.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.comodo.cisme.antivirus.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.comodo.cisme.antivirus.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.comodo.cisme.antivirus.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.comodo.cisme.antivirus.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.comodo.cisme.antivirus.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.comodo.cisme.antivirus.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.comodo.cisme.antivirus.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.comodo.cisme.antivirus.apk.json,MixPanel,https://reports.exodus-privacy.eu.org/trackers/118
+com.comodo.cisme.antivirus.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.comodo.cisme.antivirus.apk.json,Tapjoy,https://reports.exodus-privacy.eu.org/trackers/199
+reactivephone.msearch.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+reactivephone.msearch.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+reactivephone.msearch.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.quark.browser.apk.json,AutoNavi / Amap,https://reports.exodus-privacy.eu.org/trackers/361
+com.quark.browser.apk.json,Tencent Stats,https://reports.exodus-privacy.eu.org/trackers/116
+com.hsv.privatebrowser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.hsv.privatebrowser.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+com.hsv.privatebrowser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.hsv.privatebrowser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.hsv.privatebrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.hsv.privatebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.hsv.privatebrowser.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+com.hsv.privatebrowser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.hsv.privatebrowser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.appsisland.ads.shield.content.blocker.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.qk.search.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.qk.search.browser.apk.json,Umeng Analytics,https://reports.exodus-privacy.eu.org/trackers/119
+br.marcelo.monumentbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+fast.download.privacy.internet.explorer.im.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+fast.download.privacy.internet.explorer.im.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+fast.download.privacy.internet.explorer.im.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.magellanbrowser.adblocker.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.hotspotvpn.android.apk.json,Amplitude,https://reports.exodus-privacy.eu.org/trackers/125
+com.hotspotvpn.android.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.hotspotvpn.android.apk.json,Branch,https://reports.exodus-privacy.eu.org/trackers/167
+com.hotspotvpn.android.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.hotspotvpn.android.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.hotspotvpn.android.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.hotspotvpn.android.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.hotspotvpn.android.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.hotspotvpn.android.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.nationaledtech.spinbrowser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.nationaledtech.spinbrowser.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+org.mozilla.firefox_beta.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+org.mozilla.firefox_beta.apk.json,LeanPlum,https://reports.exodus-privacy.eu.org/trackers/28
+org.mozilla.firefox_beta.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.opera.touch.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.opera.touch.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.opera.touch.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.microsoft.emmx.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.microsoft.emmx.apk.json,Braze (formerly Appboy),https://reports.exodus-privacy.eu.org/trackers/17
+com.microsoft.emmx.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.microsoft.emmx.apk.json,HockeyApp,https://reports.exodus-privacy.eu.org/trackers/26
+io.friendly.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+io.friendly.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+adblock.browser.no.ads.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+adblock.browser.no.ads.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+adblock.browser.no.ads.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+adblock.browser.no.ads.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+adblock.browser.no.ads.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+adblock.browser.no.ads.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+adblock.browser.no.ads.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+adblock.browser.no.ads.apk.json,Mobvista,https://reports.exodus-privacy.eu.org/trackers/159
+adblock.browser.no.ads.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.trendmicro.tmmspersonal.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.trendmicro.tmmspersonal.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.trendmicro.tmmspersonal.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.trendmicro.tmmspersonal.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.trendmicro.tmmspersonal.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.trendmicro.tmmspersonal.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.trendmicro.tmmspersonal.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.trendmicro.tmmspersonal.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.uc.browser.en.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.keepsolid.privatebrowser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.keepsolid.privatebrowser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.keepsolid.privatebrowser.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.keepsolid.privatebrowser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.keepsolid.privatebrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.keepsolid.privatebrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.browser.tssomas.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.browser.tssomas.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.ehawk.antivirus.applock.wifi.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.ehawk.antivirus.applock.wifi.apk.json,Criteo,https://reports.exodus-privacy.eu.org/trackers/170
+com.ehawk.antivirus.applock.wifi.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.ehawk.antivirus.applock.wifi.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.ehawk.antivirus.applock.wifi.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.ehawk.antivirus.applock.wifi.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.ehawk.antivirus.applock.wifi.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.ehawk.antivirus.applock.wifi.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.ehawk.antivirus.applock.wifi.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ehawk.antivirus.applock.wifi.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.ehawk.antivirus.applock.wifi.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ehawk.antivirus.applock.wifi.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.ehawk.antivirus.applock.wifi.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.ehawk.antivirus.applock.wifi.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.ehawk.antivirus.applock.wifi.apk.json,MobPower,https://reports.exodus-privacy.eu.org/trackers/215
+com.ehawk.antivirus.applock.wifi.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.getfilefrom.browserdownloader.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.getfilefrom.browserdownloader.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.rabbit.incognito.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.rabbit.incognito.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.rabbit.incognito.browser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.rabbit.incognito.browser.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.rabbit.incognito.browser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.jimeem.fast.lite.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.mi.globalbrowser.mini.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.mi.globalbrowser.mini.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.mi.globalbrowser.mini.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.mi.globalbrowser.mini.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.mi.globalbrowser.mini.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.mi.globalbrowser.mini.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.mi.globalbrowser.mini.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.mi.globalbrowser.mini.apk.json,Sensors Analytics,https://reports.exodus-privacy.eu.org/trackers/248
+net.onecook.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.nordvpn.android.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.nordvpn.android.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.nordvpn.android.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.nordvpn.android.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.nordvpn.android.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+jp.myumyu.piggybrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ume.browser.oemtn.apk.json,Duapps,https://reports.exodus-privacy.eu.org/trackers/191
+com.ume.browser.oemtn.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.ume.browser.oemtn.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.ume.browser.oemtn.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.ume.browser.oemtn.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.ume.browser.oemtn.apk.json,Taboola,https://reports.exodus-privacy.eu.org/trackers/173
+com.adblocker.turbo.browser.apk.json,MixPanel,https://reports.exodus-privacy.eu.org/trackers/118
+com.browser.yo.indian.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.browser.yo.indian.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.browser.yo.indian.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.psafe.vpn.apk.json,Amazon Advertisement,https://reports.exodus-privacy.eu.org/trackers/92
+com.psafe.vpn.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.psafe.vpn.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.psafe.vpn.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.psafe.vpn.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.psafe.vpn.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.psafe.vpn.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.psafe.vpn.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.psafe.vpn.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.psafe.vpn.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.psafe.vpn.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.psafe.vpn.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.psafe.vpn.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.psafe.vpn.apk.json,Millennial Media,https://reports.exodus-privacy.eu.org/trackers/107
+com.psafe.vpn.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.psafe.vpn.apk.json,MobFox,https://reports.exodus-privacy.eu.org/trackers/185
+com.psafe.vpn.apk.json,Mobvista,https://reports.exodus-privacy.eu.org/trackers/159
+com.psafe.vpn.apk.json,Rubicon Project,https://reports.exodus-privacy.eu.org/trackers/145
+com.psafe.vpn.apk.json,Smaato,https://reports.exodus-privacy.eu.org/trackers/83
+com.psafe.vpn.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.lostnet.fw.free.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.lostnet.fw.free.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.browser.securebrowser.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+browser4g.fast.internetwebexplorer.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+browser4g.fast.internetwebexplorer.apk.json,Cheetah Ads,https://reports.exodus-privacy.eu.org/trackers/168
+browser4g.fast.internetwebexplorer.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+browser4g.fast.internetwebexplorer.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+browser4g.fast.internetwebexplorer.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+browser4g.fast.internetwebexplorer.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+browser4g.fast.internetwebexplorer.apk.json,Mobvista,https://reports.exodus-privacy.eu.org/trackers/159
+com.eagle.web.browser.internet.privacy.browser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+com.eagle.web.browser.internet.privacy.browser.apk.json,Bugly,https://reports.exodus-privacy.eu.org/trackers/190
+com.eagle.web.browser.internet.privacy.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.eagle.web.browser.internet.privacy.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.eagle.web.browser.internet.privacy.browser.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.modi.indianbrowser.makeinindia.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.fulldive.mobile.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.fulldive.mobile.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.fulldive.mobile.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.fulldive.mobile.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.fulldive.mobile.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.fulldive.mobile.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.fulldive.mobile.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.nitron.mintbrowser.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.nitron.mintbrowser.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.nitron.mintbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.nitron.mintbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+mark.via.gp.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+com.wEnergy_8014098.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.wEnergy_8014098.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.wEnergy_8014098.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.wEnergy_8014098.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.wEnergy_8014098.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.wEnergy_8014098.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.wEnergy_8014098.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.wEnergy_8014098.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.wEnergy_8014098.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.wEnergy_8014098.apk.json,Tappx,https://reports.exodus-privacy.eu.org/trackers/380
+com.wEnergy_8014098.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+app.stampy.browser.apk.json,Adjust,https://reports.exodus-privacy.eu.org/trackers/52
+app.stampy.browser.apk.json,Mozilla Telemetry,https://reports.exodus-privacy.eu.org/trackers/221
+com.sec.android.app.sbrowser.beta.apk.json,Baidu Mobile Stat,https://reports.exodus-privacy.eu.org/trackers/101
+com.sec.android.app.sbrowser.beta.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.github.xfalcon.vhosts.apk.json,Baidu Mobile Stat,https://reports.exodus-privacy.eu.org/trackers/101
+fast.secure.light.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+fast.secure.light.browser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+fast.secure.light.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.wFroggiBrowser_7729895.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.wFroggiBrowser_7729895.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.wFroggiBrowser_7729895.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.wFroggiBrowser_7729895.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.wFroggiBrowser_7729895.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.wFroggiBrowser_7729895.apk.json,Fyber,https://reports.exodus-privacy.eu.org/trackers/104
+com.wFroggiBrowser_7729895.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.wFroggiBrowser_7729895.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.wFroggiBrowser_7729895.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.wFroggiBrowser_7729895.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.wFroggiBrowser_7729895.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.wFroggiBrowser_7729895.apk.json,Tappx,https://reports.exodus-privacy.eu.org/trackers/380
+com.wFroggiBrowser_7729895.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.seven.adclear.fsb.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.seven.adclear.fsb.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.seven.adclear.fsb.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.seven.adclear.fsb.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.chimbori.hermitcrab.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.chimbori.hermitcrab.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.wsandroid.suite.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.wsandroid.suite.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.wsandroid.suite.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.wsandroid.suite.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.wsandroid.suite.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.wsandroid.suite.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.wsandroid.suite.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.wsandroid.suite.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.wsandroid.suite.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.wsandroid.suite.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.wsandroid.suite.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.wsandroid.suite.apk.json,MoEngage,https://reports.exodus-privacy.eu.org/trackers/268
+com.oorweb.uc.Activity.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.oorweb.uc.Activity.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.oorweb.uc.Activity.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.oorweb.uc.Activity.apk.json,Supersonic Ads,https://reports.exodus-privacy.eu.org/trackers/110
+com.hawk.android.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.hawk.android.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.hawk.android.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.lookout.apk.json,Braze (formerly Appboy),https://reports.exodus-privacy.eu.org/trackers/17
+com.lookout.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.lookout.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.lookout.apk.json,mParticle,https://reports.exodus-privacy.eu.org/trackers/18
+co.madseven.browser.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+co.madseven.browser.apk.json,Flurry,https://reports.exodus-privacy.eu.org/trackers/25
+co.madseven.browser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+co.madseven.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.coccoc.trinhduyet.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.coccoc.trinhduyet.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.coccoc.trinhduyet.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.coccoc.trinhduyet.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.coccoc.trinhduyet.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.coccoc.trinhduyet.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+org.malwarebytes.antimalware.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+org.malwarebytes.antimalware.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+org.malwarebytes.antimalware.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+org.malwarebytes.antimalware.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+org.malwarebytes.antimalware.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.mebrowser.webapp.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.mebrowser.webapp.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.mebrowser.webapp.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.mebrowser.webapp.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.funn24time.fanbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.sec.android.app.sbrowser.apk.json,Baidu Mobile Stat,https://reports.exodus-privacy.eu.org/trackers/101
+com.sec.android.app.sbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.omigo.app.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.omigo.app.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.omigo.app.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.omigo.app.apk.json,Facebook Places,https://reports.exodus-privacy.eu.org/trackers/69
+com.omigo.app.apk.json,Facebook Share,https://reports.exodus-privacy.eu.org/trackers/70
+com.omigo.app.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.omigo.app.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.omigo.app.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+mobi.mgeek.TunnyBrowser.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+mobi.mgeek.TunnyBrowser.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+mobi.mgeek.TunnyBrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+mobi.mgeek.TunnyBrowser.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+mobi.mgeek.TunnyBrowser.apk.json,MixPanel,https://reports.exodus-privacy.eu.org/trackers/118
+com.rocketshipapps.adblockfast.apk.json,Google Analytics,https://reports.exodus-privacy.eu.org/trackers/48
+com.rocketshipapps.adblockfast.apk.json,Google Tag Manager,https://reports.exodus-privacy.eu.org/trackers/105
+com.bravo.rebbitbrowser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.bravo.rebbitbrowser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.udicorn.proxybrowser.unblockwebsites.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.udicorn.proxybrowser.unblockwebsites.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.udicorn.proxybrowser.unblockwebsites.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.eset.ems2.gp.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.eset.ems2.gp.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.wTricera_7848804.apk.json,AltBeacon,https://reports.exodus-privacy.eu.org/trackers/219
+com.wTricera_7848804.apk.json,AppMetrica,https://reports.exodus-privacy.eu.org/trackers/140
+com.wTricera_7848804.apk.json,Appnext,https://reports.exodus-privacy.eu.org/trackers/184
+com.wTricera_7848804.apk.json,AppsGeyser,https://reports.exodus-privacy.eu.org/trackers/369
+com.wTricera_7848804.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.wTricera_7848804.apk.json,Fyber,https://reports.exodus-privacy.eu.org/trackers/104
+com.wTricera_7848804.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.wTricera_7848804.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.wTricera_7848804.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.wTricera_7848804.apk.json,OneSignal,https://reports.exodus-privacy.eu.org/trackers/193
+com.wTricera_7848804.apk.json,Startapp,https://reports.exodus-privacy.eu.org/trackers/195
+com.wTricera_7848804.apk.json,Tappx,https://reports.exodus-privacy.eu.org/trackers/380
+com.wTricera_7848804.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.evda.connecttor.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.evda.connecttor.apk.json,Google CrashLytics,https://reports.exodus-privacy.eu.org/trackers/27
+com.evda.connecttor.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.insafedev.browser.apk.json,AppLovin (MAX and SparkLabs),https://reports.exodus-privacy.eu.org/trackers/72
+com.insafedev.browser.apk.json,Branch,https://reports.exodus-privacy.eu.org/trackers/167
+com.insafedev.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.insafedev.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.insafedev.browser.apk.json,Inmobi,https://reports.exodus-privacy.eu.org/trackers/106
+com.insafedev.browser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.insafedev.browser.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.omigo.browser.apk.json,AppLovin (MAX and SparkLabs),https://reports.exodus-privacy.eu.org/trackers/72
+com.omigo.browser.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.omigo.browser.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.omigo.browser.apk.json,Google Firebase Analytics,https://reports.exodus-privacy.eu.org/trackers/49
+com.omigo.browser.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.omigo.browser.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61
+com.omigo.browser.apk.json,Twitter MoPub,https://reports.exodus-privacy.eu.org/trackers/35
+com.UCMobile.intl.apk.json,AppsFlyer,https://reports.exodus-privacy.eu.org/trackers/12
+com.UCMobile.intl.apk.json,AutoNavi / Amap,https://reports.exodus-privacy.eu.org/trackers/361
+com.UCMobile.intl.apk.json,Facebook Ads,https://reports.exodus-privacy.eu.org/trackers/65
+com.UCMobile.intl.apk.json,Facebook Analytics,https://reports.exodus-privacy.eu.org/trackers/66
+com.UCMobile.intl.apk.json,Facebook Login,https://reports.exodus-privacy.eu.org/trackers/67
+com.UCMobile.intl.apk.json,Google AdMob,https://reports.exodus-privacy.eu.org/trackers/312
+com.UCMobile.intl.apk.json,Integral Ad Science,https://reports.exodus-privacy.eu.org/trackers/218
+com.UCMobile.intl.apk.json,Moat,https://reports.exodus-privacy.eu.org/trackers/61

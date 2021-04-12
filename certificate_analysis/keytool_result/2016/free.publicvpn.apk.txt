@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Fethuur Raheem, OU=999, O=Fetih 1453 LTD, L=kudus, ST=jawa tengah, C=62
+Issuer: CN=Fethuur Raheem, OU=999, O=Fetih 1453 LTD, L=kudus, ST=jawa tengah, C=62
+Serial number: 418cab97
+Valid from: Fri Mar 13 17:19:24 AEDT 2015 until: Wed Jul 14 16:19:24 AEST 3013
+Certificate fingerprints:
+	 SHA1: C8:F5:8C:8B:5D:16:FF:A6:AF:61:1A:4A:65:E0:DE:35:51:CF:5C:16
+	 SHA256: AA:29:87:71:F7:E0:DB:A3:78:2B:80:8E:51:27:20:F7:2F:0E:BD:3F:52:C9:EF:2F:1D:F6:08:40:F6:5E:AE:6A
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CB 0D 6B 00 04 7C 2C 96   34 D5 3D 6F 63 F1 16 D5  ..k...,.4.=oc...
+0010: B7 58 85 94                                        .X..
+]
+]
+
+

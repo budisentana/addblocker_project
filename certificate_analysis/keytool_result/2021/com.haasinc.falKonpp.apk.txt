@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=DilipKumar Sripuram, O=HaasInc.
+Issuer: CN=DilipKumar Sripuram, O=HaasInc.
+Serial number: 7414f0d0
+Valid from: Tue Feb 25 06:28:14 AEDT 2014 until: Sat Feb 19 06:28:14 AEDT 2039
+Certificate fingerprints:
+	 SHA1: 1E:04:D5:77:E1:7E:8B:AD:8B:23:82:16:8D:ED:33:E4:85:E7:48:70
+	 SHA256: 1C:A7:C0:21:E4:83:2D:3C:D5:17:50:9A:58:1B:F4:F8:80:DA:95:3C:2B:A4:96:0B:61:01:2C:9C:C2:22:56:50
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A4 5D CE FB 04 7D C9 0F   D7 2D 15 6F 7B 9C A3 CF  .].......-.o....
+0010: A2 C1 4C BB                                        ..L.
+]
+]
+
+

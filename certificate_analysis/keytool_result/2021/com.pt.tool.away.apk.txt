@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=pt
+Issuer: CN=pt
+Serial number: 20e3e49
+Valid from: Thu Mar 26 15:42:24 AEDT 2020 until: Mon Mar 20 15:42:24 AEDT 2045
+Certificate fingerprints:
+	 SHA1: 87:67:8B:50:92:F2:40:48:1B:2E:A2:C2:D4:EA:39:01:BE:EC:8D:F7
+	 SHA256: 18:84:E6:02:9E:B7:45:40:9C:59:9F:76:A9:8E:03:6B:3F:A4:E2:DD:97:7C:D5:09:9F:D2:A3:79:5A:A2:7A:54
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0D 40 BE 51 0F 35 3C 11   2A B3 EF 84 EA F8 A7 E5  .@.Q.5<.*.......
+0010: EC C8 74 08                                        ..t.
+]
+]
+
+

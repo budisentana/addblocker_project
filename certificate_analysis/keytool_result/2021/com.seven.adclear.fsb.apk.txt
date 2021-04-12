@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Seven Networks, OU=Seven Networks, O=Seven Networks, L=Redwood City, ST=California, C=US
+Issuer: CN=Seven Networks, OU=Seven Networks, O=Seven Networks, L=Redwood City, ST=California, C=US
+Serial number: 49a3d49e
+Valid from: Tue Feb 24 22:06:06 AEDT 2009 until: Sat Jul 12 21:06:06 AEST 2036
+Certificate fingerprints:
+	 SHA1: FA:C7:C8:C5:E0:7C:3C:92:8C:50:2D:5D:88:61:F7:74:1E:51:62:4F
+	 SHA256: 22:50:A0:A0:49:56:03:4A:B6:8E:7E:54:B6:5A:89:F0:D7:24:BF:D6:05:4F:F0:DD:16:BC:B2:1E:A5:6A:B4:67
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Gabriel Omizollo, OU=Diretor, O=GRVSoftware, L=vinhedo, ST=sp, C=55
+Issuer: CN=Gabriel Omizollo, OU=Diretor, O=GRVSoftware, L=vinhedo, ST=sp, C=55
+Serial number: 1a0ecb91
+Valid from: Sat May 03 05:43:14 AEST 2014 until: Wed May 04 05:43:14 AEST 2039
+Certificate fingerprints:
+	 SHA1: AE:F1:E8:86:D9:D5:0E:6C:CE:34:51:8E:97:41:10:D6:7C:6B:54:3D
+	 SHA256: F6:E5:A0:2D:D3:7D:9D:BE:43:09:3B:E3:F7:AD:58:83:FB:F5:08:3F:83:BB:89:B8:F8:E6:B7:B2:97:41:05:9D
+Signature algorithm name: MD5withRSA (disabled)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 63 57 0C 6E 70 7F 41 BF   6C 89 92 09 2C B3 AC FB  cW.np.A.l...,...
+0010: 18 7A A1 3F                                        .z.?
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=appsisland, OU=appsisland, O=appsisland, L=Islamabad, ST=Pakistan, C=92
+Issuer: CN=appsisland, OU=appsisland, O=appsisland, L=Islamabad, ST=Pakistan, C=92
+Serial number: 6d4ca785
+Valid from: Thu Jan 05 00:11:41 AEDT 2017 until: Fri Dec 24 00:11:41 AEDT 2066
+Certificate fingerprints:
+	 SHA1: 1F:F9:D1:D0:65:51:E2:98:87:D3:3E:83:1F:47:9F:9C:5C:08:45:20
+	 SHA256: 86:A3:64:FC:22:FE:20:83:57:51:60:54:14:82:21:2D:6A:A0:9A:DE:6D:8D:22:D1:F5:A0:0E:CC:17:0C:7B:D1
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FD 5C B3 EF 0A CC 2F 21   4A 88 B2 9A 0C 78 0D E0  .\..../!J....x..
+0010: 08 6E 81 BE                                        .n..
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Adblock Plus, OU=Adblock Plus Development, O=Adblock Plus, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=Adblock Plus, OU=Adblock Plus Development, O=Adblock Plus, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 5028f3ca
+Valid from: Mon Aug 13 22:32:10 AEST 2012 until: Wed Jul 20 22:32:10 AEST 2112
+Certificate fingerprints:
+	 SHA1: 5F:8F:93:E7:13:52:01:45:5B:82:B5:43:34:73:8F:D4:6B:59:39:AC
+	 SHA256: 7B:ED:00:40:28:BA:E3:CB:58:05:D1:0D:1B:F5:EC:07:31:E3:7A:94:10:EC:1A:C9:59:DA:50:FA:2F:CA:D4:C4
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

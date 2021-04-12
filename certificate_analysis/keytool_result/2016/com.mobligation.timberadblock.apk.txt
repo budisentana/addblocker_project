@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=mobligation
+Issuer: O=mobligation
+Serial number: 67c34c27
+Valid from: Tue Feb 23 18:32:47 AEDT 2016 until: Sun Jun 26 17:32:47 AEST 3014
+Certificate fingerprints:
+	 SHA1: CD:FB:18:90:19:8A:26:7A:59:53:27:0C:A4:06:83:89:DD:87:61:49
+	 SHA256: 00:9E:AF:8A:44:D0:F4:A5:A9:99:75:77:2A:4E:70:F6:12:70:C3:E4:AF:35:B2:C1:2C:AC:8D:FA:8E:AE:4A:2B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C7 77 AC 76 B1 9F 86 C4   E6 73 D4 42 37 68 C3 2F  .w.v.....s.B7h./
+0010: 31 6E 4E 52                                        1nNR
+]
+]
+
+

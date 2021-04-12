@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AC Browser Inc, OU=AC Web browser, O=AC Browser Inc, L=Montreal, ST=Canada, C=QC
+Issuer: CN=AC Browser Inc, OU=AC Web browser, O=AC Browser Inc, L=Montreal, ST=Canada, C=QC
+Serial number: 397738c1
+Valid from: Fri Jul 15 03:56:43 AEST 2016 until: Fri Jul 07 03:56:43 AEST 2051
+Certificate fingerprints:
+	 SHA1: 2F:41:F2:18:09:6B:FF:E8:80:3D:D6:88:93:86:EC:D8:C5:96:11:66
+	 SHA256: B2:8D:19:08:68:11:56:FD:17:58:E3:A9:F0:62:33:01:C9:B7:88:12:BB:86:3E:B5:61:17:0F:4B:96:6C:12:A5
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5A 0E BF 84 37 92 14 9A   C3 6D 25 51 6F 7E C1 F5  Z...7....m%Qo...
+0010: C9 70 A7 6C                                        .p.l
+]
+]
+
+

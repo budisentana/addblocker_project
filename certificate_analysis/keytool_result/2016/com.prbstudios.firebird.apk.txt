@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Prabin E'Bhusal, O=prbstudios
+Issuer: CN=Prabin E'Bhusal, O=prbstudios
+Serial number: 2278f518
+Valid from: Sun May 10 19:06:41 AEST 2015 until: Tue Apr 16 19:06:41 AEST 2115
+Certificate fingerprints:
+	 SHA1: A4:DB:3D:7C:6B:FC:16:5B:DF:4F:8A:A3:24:FC:9C:08:65:B0:A3:2D
+	 SHA256: A5:22:22:E2:6D:D9:ED:F0:EB:06:87:56:54:4F:57:F0:5C:D1:EA:23:59:C9:92:DA:96:B2:5B:CE:71:73:BB:92
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 88 68 68 99 9A 1F AD C6   2E F6 CF F8 CA 15 06 51  .hh............Q
+0010: EA 24 DE 53                                        .$.S
+]
+]
+
+

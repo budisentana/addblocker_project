@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Jon Coudron, OU=Mobile, O=BrowseTech LLC, L=Austin, ST=Texas, C=US
+Issuer: CN=Jon Coudron, OU=Mobile, O=BrowseTech LLC, L=Austin, ST=Texas, C=US
+Serial number: 1395f5ec
+Valid from: Fri May 03 01:05:06 AEST 2019 until: Tue Apr 26 01:05:06 AEST 2044
+Certificate fingerprints:
+	 SHA1: 77:3A:4D:3C:15:7C:AC:D5:A6:40:97:2E:C0:13:EE:7F:01:B2:56:78
+	 SHA256: 0F:B2:7F:4D:62:32:EE:4F:77:8F:A0:70:99:86:7F:6E:3A:90:72:41:BF:98:EC:72:5C:35:B2:E7:2A:14:D2:D1
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6E 82 12 C2 BA CF 59 0F   3E 78 6E E1 54 3C BE 62  n.....Y.>xn.T<.b
+0010: E1 70 97 0C                                        .p..
+]
+]
+
+

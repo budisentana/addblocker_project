@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: C=DE
+Issuer: C=DE
+Serial number: 7e3a4bb0
+Valid from: Thu Jan 14 23:20:37 AEDT 2016 until: Mon Jan 07 23:20:37 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 65:53:DE:6E:46:1C:FD:04:CA:3E:2E:6D:EF:9B:82:68:F2:83:D6:35
+	 SHA256: 62:51:56:96:E8:59:A2:8F:11:20:E4:44:41:13:89:05:74:A2:2E:0C:08:73:60:1D:25:48:11:91:BF:95:A3:95
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F7 44 1A D1 A9 DB 00 65   A7 46 7D 92 D9 A1 02 99  .D.....e.F......
+0010: 44 EF 67 6F                                        D.go
+]
+]
+
+

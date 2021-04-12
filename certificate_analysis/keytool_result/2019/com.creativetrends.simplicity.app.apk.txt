@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Jorell Rutledge, OU=CEO, O=Creative Trendz, L=Bradley Beach, ST=NJ, C=07720
+Issuer: CN=Jorell Rutledge, OU=CEO, O=Creative Trendz, L=Bradley Beach, ST=NJ, C=07720
+Serial number: 7af9aa8a
+Valid from: Fri Jan 23 12:39:46 AEDT 2015 until: Sun Jan 15 12:39:46 AEDT 2045
+Certificate fingerprints:
+	 SHA1: 2C:95:42:84:A7:14:7A:A3:9B:05:51:E5:02:BD:2F:2D:B1:0B:D7:12
+	 SHA256: F4:6F:31:19:99:01:94:44:20:05:49:EF:79:84:B2:79:2A:D3:90:2A:05:AD:72:CF:98:6A:A4:80:54:4C:16:D9
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A8 4E D5 70 F3 19 AB 2F   97 39 49 1A 2E 05 39 23  .N.p.../.9I...9#
+0010: DA 54 FF 3A                                        .T.:
+]
+]
+
+

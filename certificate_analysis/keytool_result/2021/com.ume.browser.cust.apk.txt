@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=ume, O=ume
+Issuer: OU=ume, O=ume
+Serial number: 6ac08478
+Valid from: Fri May 26 18:12:15 AEST 2017 until: Sat May 14 18:12:15 AEST 2067
+Certificate fingerprints:
+	 SHA1: 4A:B0:E8:DC:89:5C:02:56:44:70:5D:86:0A:26:5B:54:18:48:13:59
+	 SHA256: 0F:A4:E7:7A:1E:38:45:7D:57:03:1D:0C:80:EF:AB:EB:6F:DC:73:2F:0D:7A:05:5B:1D:81:6E:A8:46:54:83:78
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9C F7 F3 CE C7 29 8F 75   D0 92 7B D6 C8 85 A4 F6  .....).u........
+0010: 33 BE 0F B5                                        3...
+]
+]
+
+

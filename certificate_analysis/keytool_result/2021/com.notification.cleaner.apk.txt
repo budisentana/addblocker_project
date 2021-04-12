@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Cleaner Developer, C=US
+Issuer: CN=Cleaner Developer, C=US
+Serial number: 2cfe2906
+Valid from: Mon Mar 18 06:01:31 AEDT 2019 until: Fri Mar 11 06:01:31 AEDT 2044
+Certificate fingerprints:
+	 SHA1: B5:C1:DA:71:8D:7C:55:35:AC:01:CC:DE:17:16:C0:C3:33:E6:29:6D
+	 SHA256: 0C:70:DB:A7:86:88:F5:49:D4:9A:CD:D0:88:8D:D6:79:E4:39:D1:0B:F2:7A:60:C9:2D:04:11:4D:74:8D:C5:46
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6C 37 F6 54 48 03 C3 77   62 94 59 83 FC 93 69 C3  l7.TH..wb.Y...i.
+0010: F1 F2 44 D7                                        ..D.
+]
+]
+
+

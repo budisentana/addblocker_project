@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Browsetechsolutions
+Issuer: O=Browsetechsolutions
+Serial number: 2f14e5d7
+Valid from: Wed Nov 07 05:08:42 AEDT 2018 until: Sun Nov 01 05:08:42 AEDT 2043
+Certificate fingerprints:
+	 SHA1: 52:E1:2F:A5:DC:19:DC:CF:7A:0C:B2:16:5D:06:49:67:67:07:F1:8D
+	 SHA256: 87:E8:81:4A:1A:82:16:05:AB:FC:F2:8F:EC:EA:46:0E:A6:FA:00:24:C0:92:0B:20:CF:5B:8B:1E:F1:8C:70:C2
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 71 22 96 39 00 D6 58 A7   5C EC EB 79 F1 0B 63 48  q".9..X.\..y..cH
+0010: 3E D8 38 B1                                        >.8.
+]
+]
+
+

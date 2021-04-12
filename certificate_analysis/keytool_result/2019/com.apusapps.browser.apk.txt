@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Apus Launcher, OU=Apus Apps, O=Apus Group, L=Interlaken, ST=Interlaken, C=CH
+Issuer: CN=Apus Launcher, OU=Apus Apps, O=Apus Group, L=Interlaken, ST=Interlaken, C=CH
+Serial number: 53b2bf56
+Valid from: Wed Jul 02 00:01:58 AEST 2014 until: Thu Jun 19 00:01:58 AEST 2064
+Certificate fingerprints:
+	 SHA1: 3E:76:26:81:50:24:D1:24:45:3B:EF:11:EF:67:48:C1:19:C6:3B:2A
+	 SHA256: 22:40:26:B8:F2:CE:B7:21:95:46:6F:BA:B5:6C:78:9D:DC:35:66:31:8F:18:41:70:B0:50:A4:38:7A:E4:7A:87
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

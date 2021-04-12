@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Zizi, OU=GPaddy Mobile, O=GPaddy, L=Ha Noi, C=84
+Issuer: CN=Zizi, OU=GPaddy Mobile, O=GPaddy, L=Ha Noi, C=84
+Serial number: 2a57851c
+Valid from: Wed Mar 23 14:50:00 AEDT 2016 until: Sun Mar 17 14:50:00 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 25:60:27:E7:3A:55:23:DB:38:68:C3:E1:9D:32:C9:74:34:AF:C6:AA
+	 SHA256: 64:7F:EF:66:2C:E4:67:B2:D1:00:9D:44:19:1C:20:40:29:83:EA:4E:DF:20:83:EF:3C:78:0A:FC:50:B4:B5:70
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 90 06 97 BC 83 57 66 51   26 48 6F F5 C0 C4 9F F6  .....WfQ&Ho.....
+0010: CF 26 D0 79                                        .&.y
+]
+]
+
+

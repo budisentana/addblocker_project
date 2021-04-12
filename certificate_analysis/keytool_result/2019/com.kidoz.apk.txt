@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=kidoz
+Issuer: CN=kidoz
+Serial number: 7e4f1701
+Valid from: Thu Jul 12 20:35:16 AEST 2012 until: Sat Jun 18 20:35:16 AEST 2112
+Certificate fingerprints:
+	 SHA1: 1D:0D:67:EE:FE:A6:B4:70:46:C1:88:33:59:BC:93:89:08:D0:50:DC
+	 SHA256: 03:34:57:D5:FA:83:DA:AF:E3:91:03:15:84:47:AA:F3:9A:5D:96:45:54:35:F6:3A:84:E2:83:89:2B:48:2A:79
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CA 8A 5A CA AF 59 33 5E   AC C8 87 A1 CF 04 56 3B  ..Z..Y3^......V;
+0010: 1A C4 9D 31                                        ...1
+]
+]
+
+

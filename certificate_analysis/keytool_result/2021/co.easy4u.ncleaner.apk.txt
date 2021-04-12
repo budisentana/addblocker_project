@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=NCleaner, O=NCleaner, C=HK
+Issuer: CN=NCleaner, O=NCleaner, C=HK
+Serial number: 3f658018
+Valid from: Sat Apr 29 00:40:49 AEST 2017 until: Sun Apr 05 01:40:49 AEDT 2116
+Certificate fingerprints:
+	 SHA1: 68:30:4B:20:D5:28:B7:83:A7:81:DA:4C:D4:F7:6F:98:C8:26:41:AD
+	 SHA256: B4:CC:52:C2:F8:F0:7A:57:77:BD:DA:AD:2B:2C:6E:5E:B5:D5:CE:17:16:3C:C9:B0:AA:CA:5B:DD:D3:E3:43:91
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0E E5 07 34 6B 14 FF 97   F4 A5 F2 28 65 B4 8F 77  ...4k......(e..w
+0010: 4F 07 7A 30                                        O.z0
+]
+]
+
+

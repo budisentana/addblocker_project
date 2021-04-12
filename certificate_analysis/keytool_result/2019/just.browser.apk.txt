@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Pass, OU=Pass, O=Pass, L=Pass, ST=Pass, C=AU
+Issuer: CN=Pass, OU=Pass, O=Pass, L=Pass, ST=Pass, C=AU
+Serial number: 7c639005
+Valid from: Fri Mar 27 07:17:23 AEDT 2015 until: Tue Mar 20 07:17:23 AEDT 2040
+Certificate fingerprints:
+	 SHA1: EB:EE:DE:9E:F3:E7:66:4B:57:47:F8:55:88:20:32:5D:F2:0F:9B:69
+	 SHA256: 58:5E:E4:E4:22:7B:97:37:7E:10:B5:9A:E9:23:42:A7:D2:8D:D7:FB:2E:10:8A:0D:CE:D6:70:94:4D:D4:09:85
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 39 3C 2F A0 0F B6 28 3C   66 2B 30 FC C9 09 2F 66  9</...(<f+0.../f
+0010: 79 F9 87 F2                                        y...
+]
+]
+
+

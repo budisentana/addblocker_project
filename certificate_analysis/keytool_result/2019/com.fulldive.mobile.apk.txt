@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Giovanno Utomo, O=Full Dive, L=San Diego, ST=CA, C=US
+Issuer: CN=Giovanno Utomo, O=Full Dive, L=San Diego, ST=CA, C=US
+Serial number: 54c6b6ce
+Valid from: Tue Jan 27 08:51:10 AEDT 2015 until: Sat Jan 21 08:51:10 AEDT 2040
+Certificate fingerprints:
+	 SHA1: D2:5C:7E:06:10:22:80:94:52:C6:EB:85:3E:89:B1:D8:F1:D1:55:D0
+	 SHA256: CD:36:DF:C9:D1:2E:19:9C:94:C2:48:29:F4:C1:43:61:05:62:B8:6B:C7:EB:87:5C:D8:E3:C1:F8:F7:9A:B4:CA
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

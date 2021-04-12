@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Tom Sutherland, OU=Tssomas, O=Tssomas, L=Shetland, ST=Walls, C=ZE2
+Issuer: CN=Tom Sutherland, OU=Tssomas, O=Tssomas, L=Shetland, ST=Walls, C=ZE2
+Serial number: 202742b
+Valid from: Fri May 24 06:59:23 AEST 2013 until: Thu Sep 24 06:59:23 AEST 3012
+Certificate fingerprints:
+	 SHA1: CB:0A:3D:4D:7D:18:0C:41:97:8D:1B:53:A6:03:D4:1B:79:D7:6A:94
+	 SHA256: 57:34:5E:DA:54:DC:57:27:72:14:DC:D6:AC:9A:23:F0:68:39:85:88:AF:D2:6A:BC:FB:CB:5D:6A:34:61:CA:AB
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8D 80 84 CA DE 8A 2B DC   16 36 A6 AC D2 3F 7F A8  ......+..6...?..
+0010: 5B 79 7F 11                                        [y..
+]
+]
+
+

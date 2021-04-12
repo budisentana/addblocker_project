@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=jack liu, OU=Mobile, O="Trend Micro, Inc.", L=Taipei, ST=Taiwan, C=TW
+Issuer: CN=jack liu, OU=Mobile, O="Trend Micro, Inc.", L=Taipei, ST=Taiwan, C=TW
+Serial number: 4e48ec12
+Valid from: Mon Aug 15 19:51:14 AEST 2011 until: Fri Dec 31 20:51:14 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 65:E4:A0:29:4B:20:BF:03:05:73:D6:C3:7B:B4:76:AD:D9:AC:3C:FE
+	 SHA256: 06:3C:DE:38:DC:5C:7E:E0:DC:ED:EB:55:9A:CD:DC:2E:CA:13:F1:2E:08:28:EC:90:A7:DA:68:79:33:81:F8:96
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

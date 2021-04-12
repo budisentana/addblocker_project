@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Sagar Bedmutha, OU=Optinno, O=Optinno Mobitech Pvt. Ltd., L=Pune, ST=Maharashtra, C=IN
+Issuer: CN=Sagar Bedmutha, OU=Optinno, O=Optinno Mobitech Pvt. Ltd., L=Pune, ST=Maharashtra, C=IN
+Serial number: 4e147883
+Valid from: Thu Jul 07 01:00:19 AEST 2011 until: Mon Jun 30 01:00:19 AEST 2036
+Certificate fingerprints:
+	 SHA1: 1E:E2:13:0D:64:62:D6:CA:CC:F1:E0:65:A5:E8:4E:6E:E1:4E:5B:89
+	 SHA256: EF:E5:D0:84:59:A9:7F:C0:48:FC:18:12:3C:06:73:BB:D4:6F:79:39:BD:60:48:3C:C1:7D:F1:A0:4B:F3:8E:9F
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

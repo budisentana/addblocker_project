@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Mobile Apps, OU=Mobile Apps, O=Position Mobile LLC, L=George Town, ST=Grand Cayman, C=KY
+Issuer: CN=Mobile Apps, OU=Mobile Apps, O=Position Mobile LLC, L=George Town, ST=Grand Cayman, C=KY
+Serial number: 1561ba63
+Valid from: Fri Oct 30 23:48:04 AEDT 2020 until: Tue Mar 17 23:48:04 AEDT 2048
+Certificate fingerprints:
+	 SHA1: E8:DD:62:8E:67:8C:93:D8:C6:A5:C4:E3:16:51:A1:29:3E:78:FE:10
+	 SHA256: 2F:F3:04:7B:DD:0E:BD:11:AF:F0:F7:3E:A7:51:0E:C7:C2:38:1B:C7:5E:DC:29:7A:16:9F:4C:5A:95:5A:04:E7
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7B AD F4 F6 BB EC 96 C4   B7 E3 53 0A 51 04 56 12  ..........S.Q.V.
+0010: B9 0A BA A8                                        ....
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Anthony Restaino
+Issuer: CN=Anthony Restaino
+Serial number: 545dd3ff
+Valid from: Fri Jun 01 02:03:52 AEST 2012 until: Sat May 20 02:03:52 AEST 2062
+Certificate fingerprints:
+	 SHA1: BD:0A:2A:D0:0A:D6:28:CE:C5:0A:17:81:BA:77:52:52:C6:9D:78:84
+	 SHA256: BB:85:A1:D2:09:00:06:3B:AB:1F:FB:80:2E:9E:32:49:88:8A:98:91:F7:9A:97:01:9E:3C:87:A5:34:EB:FB:76
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6A F2 BE FD D9 EA EF 16   7E 04 7A E1 40 20 9B DF  j.........z.@ ..
+0010: FF 02 E3 B9                                        ....
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Xuyang Li, OU=Mobile Security, O=TrustGo, L=Menlo Park, ST=CA, C=US
+Issuer: CN=Xuyang Li, OU=Mobile Security, O=TrustGo, L=Menlo Park, ST=CA, C=US
+Serial number: 4ef29cd7
+Valid from: Thu Dec 22 13:58:31 AEDT 2011 until: Sat Nov 28 13:58:31 AEDT 2111
+Certificate fingerprints:
+	 SHA1: A4:89:F1:17:07:15:38:CB:3E:D4:17:2B:17:7B:DD:FB:EB:C5:83:7D
+	 SHA256: 7F:A2:23:A1:C7:65:3D:6C:7C:CF:79:20:FF:59:AA:F7:23:B0:D7:2F:37:DA:A1:91:A5:1D:5B:90:FC:E3:A3:F8
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Nirvon Shoa
+Issuer: CN=Nirvon Shoa
+Serial number: 186f675d
+Valid from: Fri Dec 25 16:44:36 AEDT 2015 until: Tue Dec 18 16:44:36 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 30:0C:25:94:1F:63:93:CA:CB:B2:43:6C:9C:C3:C8:A9:6D:84:E4:3D
+	 SHA256: 4B:12:E6:29:D2:7A:B7:D0:85:14:24:56:7E:FC:22:83:99:08:54:88:35:30:C2:64:44:AB:EC:94:D0:97:D3:11
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 54 69 09 74 BA 51 DA CB   54 6E 24 AD E5 23 7A A8  Ti.t.Q..Tn$..#z.
+0010: C2 3D 11 7D                                        .=..
+]
+]
+
+

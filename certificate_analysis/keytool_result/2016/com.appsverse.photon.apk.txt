@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Appsverse, OU=Appsverse, O=Appsverse, L=San Jose, ST=CA, C=US
+Issuer: CN=Appsverse, OU=Appsverse, O=Appsverse, L=San Jose, ST=CA, C=US
+Serial number: 50a5407a
+Valid from: Fri Nov 16 06:20:26 AEDT 2012 until: Sat Aug 20 05:20:26 AEST 2067
+Certificate fingerprints:
+	 SHA1: 71:CB:09:D5:C9:EF:B9:1B:2C:F4:EF:1E:8E:B6:BA:4C:9B:62:0E:59
+	 SHA256: 55:F7:73:E7:69:B9:22:BB:94:56:E2:CE:20:D0:80:F8:A2:A4:EE:6A:EF:CD:E5:E9:40:84:96:68:1A:C5:74:0E
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

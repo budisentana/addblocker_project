@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=ZhuoMeng, OU=www.zhuomeng.com, O=www.zhuomeng.com, L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=ZhuoMeng, OU=www.zhuomeng.com, O=www.zhuomeng.com, L=Shanghai, ST=Shanghai, C=CN
+Serial number: 520332c2
+Valid from: Thu Aug 08 15:55:14 AEST 2013 until: Fri May 11 15:55:14 AEST 2068
+Certificate fingerprints:
+	 SHA1: 57:61:11:B0:71:AC:77:AE:C5:24:11:57:A9:90:BF:7C:9A:EF:F0:97
+	 SHA256: 04:08:6A:B9:7F:80:25:DA:0B:78:10:BA:D2:B6:10:B1:36:AF:BA:2B:26:AD:CC:6F:0E:B3:24:E4:4C:C9:BB:4A
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=AugmentedWorld, CN=Jake Sims
+Issuer: O=AugmentedWorld, CN=Jake Sims
+Serial number: 5a56419e
+Valid from: Sun Jun 18 03:13:31 AEST 2017 until: Tue May 25 03:13:31 AEST 2117
+Certificate fingerprints:
+	 SHA1: A7:7A:55:EA:43:B4:9F:2D:BE:4F:B3:69:3E:D7:EA:FF:02:2C:53:B6
+	 SHA256: D3:79:59:D8:FA:C0:B3:B6:EA:6A:12:90:3B:72:0B:77:A2:0C:69:8C:33:EE:01:B2:65:07:F9:06:20:BE:28:A6
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

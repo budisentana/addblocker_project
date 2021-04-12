@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Massimo Zanotto
+Issuer: CN=Massimo Zanotto
+Serial number: 55b2d935
+Valid from: Sat Jul 25 10:32:53 AEST 2015 until: Wed Dec 19 11:32:53 AEDT 2914
+Certificate fingerprints:
+	 SHA1: 8A:EE:EA:63:BF:9B:0E:7E:FA:88:EA:EC:73:21:0F:8C:FA:3D:5F:14
+	 SHA256: BC:17:BA:1D:5F:9C:94:D5:16:EF:5C:19:AA:DE:17:47:9C:29:A9:A1:DE:C9:EA:F4:0A:09:29:C5:FB:4C:F0:64
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

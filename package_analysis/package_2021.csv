@@ -1,245 +1,1063 @@
 file_name,class_name,package_component,detail
+com.porn.blocker.purity.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'SIM operator check']"
+com.porn.blocker.purity.browser.apk,classes.dex,compiler,['r8']
+com.porn.blocker.purity.browser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.porn.blocker.purity.browser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.porn.blocker.purity.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.porn.blocker.purity.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.outcoder.browser.apk,classes.dex,anti_vm,"['Build.HARDWARE check', 'possible VM check']"
 com.outcoder.browser.apk,classes.dex,compiler,['r8']
+com.msw.pornblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.msw.pornblocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.msw.pornblocker.apk,classes.dex,compiler,['r8']
 com.msw.pornblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+to.freedom.android2.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'possible VM check']"
+to.freedom.android2.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 to.freedom.android2.apk,classes.dex,compiler,['r8']
+com.hsv.powerbrowser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.hsv.powerbrowser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.hsv.powerbrowser.apk,assets/webapk6.dex,compiler,['r8']
+com.hsv.powerbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'SIM operator check', 'network operator name check']"
+com.hsv.powerbrowser.apk,classes.dex,compiler,['r8']
 com.hsv.powerbrowser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.vivaldi.browser.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+com.vivaldi.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check']"
+com.vivaldi.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
 com.vivaldi.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.symantec.securewifi.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'ro.kernel.qemu check', 'possible VM check']"
+com.symantec.securewifi.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.symantec.securewifi.apk,classes.dex,compiler,['r8']
+com.symantec.securewifi.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.symantec.securewifi.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'network operator name check']"
+com.symantec.securewifi.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.symantec.securewifi.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 com.symantec.securewifi.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.m24apps.appblocker.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.m24apps.appblocker.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.m24apps.appblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'network operator name check']"
+com.m24apps.appblocker.apk,classes.dex,compiler,['r8']
+com.m24apps.appblocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
+com.m24apps.appblocker.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.m24apps.appblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.ume.browser.international.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.ume.browser.international.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.ume.browser.international.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'network operator name check', 'ro.hardware check', 'ro.kernel.qemu check']"
+com.ume.browser.international.apk,classes.dex,compiler,['r8']
+com.ume.browser.international.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.ume.browser.international.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
+com.ume.browser.international.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.ume.browser.international.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.ume.browser.international.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.transsion.phoenix.apk,assets/ChmReader_1.8_20190605_100827_sign.zip!ChmReader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/ChmReader_1.8_8961_20160303_103847_sign.zip!ChmReader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/EPUBReader_1.7_8090_20150722_170341_64_sign.zip!EPUBReader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/PDFReader_4.0.6_14572_20180601_103845_sign.zip!PDFReader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/PDFReader_4.3.6_15772_20190604_100311_64_sign.zip!PDFReader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/PPTXReader_armeabi_10.0.0.6_5405a071_20200304_143536_obf_sign.zip!PPTXReader.jar!classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/PPTXReader_armeabi_10.0.0.6_5405a071_20200304_143536_obf_sign.zip!pptxRes.apk!classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/XLSXReader_armeabi_7.1.4_a43238f0_20200324_192111_obf_sign.zip!XLSXReader.jar!classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/XLSXReader_armeabi_7.1.4_a43238f0_20200324_192111_obf_sign.zip!excelRes.apk!classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.transsion.phoenix.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.transsion.phoenix.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/docx_reader_v2_phx5.8_e3ca1498c5572f086a43e2ed583f1286.zip!DOCXReader.jar!classes.dex,compiler,['r8']
+com.transsion.phoenix.apk,assets/docx_reader_v2_phx5.8_e3ca1498c5572f086a43e2ed583f1286.zip!docxRes.apk!classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,assets/mttreader.zip!mttreader.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/torrent-armv7_202001091948.zip!classes.dex,compiler,['r8 without marker (suspicious)']
+com.transsion.phoenix.apk,assets/torrent-armv8_202001091948.zip!classes.dex,compiler,['r8 without marker (suspicious)']
+com.transsion.phoenix.apk,assets/wonderplayer_bang_0541745_9901_arm64_release_sign.zip!jdlna.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,assets/wonderplayer_bang_061d897_9901_neon_release_ge4.4_sign.zip!jdlna.jar!classes.dex,compiler,['dx']
+com.transsion.phoenix.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check']"
+com.transsion.phoenix.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.transsion.phoenix.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
 com.transsion.phoenix.apk,classes2.dex,compiler,['dx']
+com.adblock.App.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.adblock.App.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.adblock.App.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.adblock.App.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
 com.adblock.App.apk,classes.dex,compiler,['r8']
+org.blpomda.alarm.apk,/home/budi/.MobSF/uploads/2574fd2936052414fd0318887f25b25e/2574fd2936052414fd0318887f25b25e.apk,packer,['Jiagu']
 org.blpomda.alarm.apk,classes.dex,compiler,['dexlib 2.x']
 acr.browser.barebones.apk,classes.dex,compiler,['r8']
+com.droid.netflixIMDB.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.droid.netflixIMDB.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 com.droid.netflixIMDB.apk,classes.dex,compiler,['r8']
+com.adblocker.ashazapps.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.adblocker.ashazapps.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.adblocker.ashazapps.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
 com.adblocker.ashazapps.apk,classes.dex,compiler,['r8']
+com.sibimobilelab.amazebrowser.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
 com.sibimobilelab.amazebrowser.apk,classes.dex,compiler,['dx']
+com.mario.app.protection.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.mario.app.protection.apk,classes.dex,compiler,['r8']
 com.mario.app.protection.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+net.bluehack.blu.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+net.bluehack.blu.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 net.bluehack.blu.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.indian.browser.fast.web.browsing.free.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check']"
 com.indian.browser.fast.web.browsing.free.apk,classes.dex,compiler,['dx']
+com.protectstar.firewall.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+com.protectstar.firewall.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.protectstar.firewall.apk,classes.dex,compiler,['r8']
 com.protectstar.firewall.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+care4u.browsecare.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check']"
+care4u.browsecare.apk,classes.dex,compiler,['r8']
 care4u.browsecare.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.uc.browser1.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.uc.browser1.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.uc.browser1.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.uc.browser1.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'possible VM check']"
+com.uc.browser1.apk,classes.dex,compiler,['dx (possible dexmerge)']
+com.uc.browser1.apk,classes.dex,manipulator,['dexmerge']
+com.uc.browser1.apk,classes2.dex,compiler,['dx (possible dexmerge)']
+com.uc.browser1.apk,classes2.dex,manipulator,['dexmerge']
+com.uc.browser1.apk,classes3.dex,anti_vm,['Build.MODEL check']
+com.uc.browser1.apk,classes3.dex,compiler,['dx (possible dexmerge)']
+com.uc.browser1.apk,classes3.dex,manipulator,['dexmerge']
+com.uc.browser1.apk,classes4.dex,compiler,['dx (possible dexmerge)']
+com.uc.browser1.apk,classes4.dex,manipulator,['dexmerge']
+com.uc.browser1.apk,classes5.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
+com.uc.browser1.apk,classes5.dex,compiler,['dx (possible dexmerge)']
+com.uc.browser1.apk,classes5.dex,manipulator,['dexmerge']
 com.uc.browser1.apk,classes6.dex,compiler,['dx']
+com.adguard.vpn.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.adguard.vpn.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.adguard.vpn.apk,classes.dex,compiler,['r8']
+com.dolphin.browser.android.jp.apk,assets/FlurryAnalytics-5.3.0.jar!classes.dex,compiler,['dx']
+com.dolphin.browser.android.jp.apk,assets/zxing.zip!classes.dex,compiler,['dx']
+com.dolphin.browser.android.jp.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.BOARD check', 'network operator name check']"
+com.dolphin.browser.android.jp.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.dolphin.browser.android.jp.apk,classes.dex,compiler,['dx']
+com.dolphin.browser.android.jp.apk,classes.dex,obfuscator,['DexGuard']
+com.dolphin.browser.android.jp.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'SIM operator check']"
+com.dolphin.browser.android.jp.apk,classes2.dex,compiler,['dx']
 com.dolphin.browser.android.jp.apk,classes2.dex,obfuscator,['DexGuard']
+com.hamatim.adwarehunter.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.hamatim.adwarehunter.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.hamatim.adwarehunter.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.maximebertheau.uninstaller.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.maximebertheau.uninstaller.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 com.maximebertheau.uninstaller.apk,classes.dex,compiler,['r8']
+com.india.ucbrowser.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
+com.india.ucbrowser.apk,classes.dex,compiler,['dexlib 2.x']
+com.india.ucbrowser.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'SIM operator check', 'network operator name check']"
 com.india.ucbrowser.apk,classes2.dex,compiler,['dexlib 2.x']
+fishpowered.best.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+fishpowered.best.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 fishpowered.best.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.vpngalaxy.app.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.vpngalaxy.app.apk,classes.dex,compiler,['r8']
+com.vpngalaxy.app.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.vpngalaxy.app.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.vpngalaxy.app.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+live.teekamsuthar.mutify.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
 live.teekamsuthar.mutify.apk,classes.dex,compiler,['r8']
+com.joettaapps.adblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'device ID check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
+com.joettaapps.adblocker.apk,classes.dex,compiler,['r8']
+com.joettaapps.adblocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'SIM operator check', 'network operator name check']"
 com.joettaapps.adblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.yandex.browser.alpha.apk,assets/audience_network.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'ro.kernel.qemu check']"
+com.yandex.browser.alpha.apk,assets/audience_network.dex,compiler,['dexlib 1.x']
+com.yandex.browser.alpha.apk,classes.dex,anti_disassembly,['illegal class name']
+com.yandex.browser.alpha.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.yandex.browser.alpha.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.yandex.browser.alpha.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.yandex.browser.alpha.apk,classes2.dex,anti_disassembly,['illegal class name']
+com.yandex.browser.alpha.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.yandex.browser.alpha.apk,classes2.dex,compiler,['unknown (please file detection issue!)']
+com.yandex.browser.alpha.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.yandex.browser.alpha.apk,classes3.dex,compiler,['unknown (please file detection issue!)']
+com.yandex.browser.alpha.apk,classes4.dex,anti_disassembly,['illegal class name']
+com.yandex.browser.alpha.apk,classes4.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.yandex.browser.alpha.apk,classes4.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.yandex.browser.alpha.apk,classes4.dex,compiler,['unknown (please file detection issue!)']
+com.yandex.browser.alpha.apk,classes4.dex,obfuscator,['DexGuard']
+com.yandex.browser.alpha.apk,classes5.dex,anti_disassembly,['illegal class name']
+com.yandex.browser.alpha.apk,classes5.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check']"
+com.yandex.browser.alpha.apk,classes5.dex,compiler,['unknown (please file detection issue!)']
+com.yandex.browser.alpha.apk,classes6.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'SIM operator check']"
 com.yandex.browser.alpha.apk,classes6.dex,compiler,['unknown (please file detection issue!)']
+com.avira.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check', 'possible VM check']"
+com.avira.android.apk,classes.dex,compiler,['r8']
+com.avira.android.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.avira.android.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.avira.android.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.avira.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.avira.android.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+com.avira.android.apk,classes3.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.avira.android.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
-com.avira.android.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+net.upx.proxy.browser.apk,assets/webapk7.dex,compiler,['r8']
+net.upx.proxy.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+net.upx.proxy.browser.apk,classes.dex,compiler,['r8']
+com.haasinc.falKonpp.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.haasinc.falKonpp.apk,classes.dex,manipulator,['dexmerge']
 com.wavesnet.www.mybrowser1.apk,classes.dex,compiler,['r8']
+org.adblockplus.browser.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+org.adblockplus.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+org.adblockplus.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+org.adblockplus.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
 org.adblockplus.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.rucksack.adblock.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.rucksack.adblock.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.rucksack.adblock.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.rucksack.adblock.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.rucksack.adblock.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.rucksack.adblock.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.rucksack.adblock.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
 com.rucksack.adblock.apk,classes2.dex,compiler,['dx']
+ru.sputnik.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+ru.sputnik.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check']"
 ru.sputnik.browser.apk,classes.dex,compiler,['r8']
+io.funswitch.blocker.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+io.funswitch.blocker.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+io.funswitch.blocker.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+io.funswitch.blocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check', 'ro.kernel.qemu check']"
+io.funswitch.blocker.apk,classes.dex,compiler,['r8']
+io.funswitch.blocker.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+io.funswitch.blocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible VM check']"
+io.funswitch.blocker.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+io.funswitch.blocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+io.funswitch.blocker.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 io.funswitch.blocker.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.airdatatech.optima.apk,assets/webapk5.dex,compiler,['dx']
+com.airdatatech.optima.apk,classes.dex,anti_disassembly,['illegal class name']
+com.airdatatech.optima.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check']"
 com.airdatatech.optima.apk,classes.dex,compiler,['dx']
+ai.blokee.browser.android.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+ai.blokee.browser.android.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+ai.blokee.browser.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'network operator name check']"
+ai.blokee.browser.android.apk,classes.dex,compiler,['r8']
+ai.blokee.browser.android.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+ai.blokee.browser.android.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+ai.blokee.browser.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 ai.blokee.browser.android.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.sahani2020.blaze.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
 com.sahani2020.blaze.apk,classes.dex,compiler,['r8']
+com.blackbrowser.newsoft.blackbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.blackbrowser.newsoft.blackbrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.blackbrowser.newsoft.blackbrowser.apk,classes.dex,compiler,['r8']
+com.spear_adblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.spear_adblocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.spear_adblocker.apk,classes.dex,compiler,['r8']
 com.spear_adblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+bg.alexxx.playtubeapp.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+bg.alexxx.playtubeapp.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 bg.alexxx.playtubeapp.apk,classes.dex,compiler,['r8']
+com.cake.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.cake.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.cake.browser.apk,classes.dex,compiler,['r8']
+com.cake.browser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
 com.cake.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.alfeugds.adskipper.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
 com.alfeugds.adskipper.apk,classes.dex,compiler,['r8']
+com.brave.browser.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+com.brave.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'SIM operator check']"
 com.brave.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.creativetrends.simplicity.app.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
+com.creativetrends.simplicity.app.apk,classes.dex,compiler,['r8']
 com.creativetrends.simplicity.app.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.ume.browser.bose.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.ume.browser.bose.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.ume.browser.bose.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.BOARD check', 'network operator name check', 'subscriber ID check']"
+com.ume.browser.bose.apk,classes.dex,compiler,['dx']
+com.ume.browser.bose.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.ume.browser.bose.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.PRODUCT check', 'Build.TAGS check']"
 com.ume.browser.bose.apk,classes2.dex,compiler,['dx']
+org.blokada.alarm.dnschanger.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+org.blokada.alarm.dnschanger.apk,classes.dex,compiler,['r8']
+org.blokada.alarm.dnschanger.apk,classes2.dex,compiler,['r8']
+org.blokada.alarm.dnschanger.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 org.blokada.alarm.dnschanger.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.ucturbo.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.build.type check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check']"
+com.ucturbo.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.ucturbo.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.ucturbo.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'subscriber ID check']"
+com.ucturbo.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.ucturbo.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,anti_vm,['subscriber ID check']
+com.ucturbo.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,compiler,['dx']
 com.ucturbo.apk,lib/armeabi-v7a/libsgsecuritybody.so!classes.dex,compiler,['dx']
+com.alohamobile.browser.lite.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.alohamobile.browser.lite.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.alohamobile.browser.lite.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
+com.alohamobile.browser.lite.apk,classes.dex,compiler,['r8']
+com.alohamobile.browser.lite.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+com.alohamobile.browser.lite.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.alohamobile.browser.lite.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.alohamobile.browser.lite.apk,classes4.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check', 'network operator name check', 'device ID check', 'possible VM check']"
+com.alohamobile.browser.lite.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
 com.alohamobile.browser.lite.apk,classes5.dex,compiler,['r8 without marker (suspicious)']
+com.everaccountable.bulldog.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.everaccountable.bulldog.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.everaccountable.bulldog.apk,classes.dex,compiler,['r8']
+com.kms.free.apk,/home/budi/.MobSF/uploads/9f063ded191f72c24d93ba2a05f049d0/9f063ded191f72c24d93ba2a05f049d0.apk,packer,['DexProtector']
+com.kms.free.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'ro.kernel.qemu check']"
+com.kms.free.apk,classes.dex,compiler,['dx']
+com.kms.free.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.kms.free.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.kms.free.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'subscriber ID check']"
+com.kms.free.apk,classes2.dex,compiler,['dx']
+com.kms.free.apk,classes3.dex,compiler,['dx']
+com.kms.free.apk,classes4.dex,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.kms.free.apk,classes4.dex,compiler,['dx']
+com.kms.free.apk,res/raw/android_wear_micro_apk.apk!classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.kms.free.apk,res/raw/android_wear_micro_apk.apk!classes.dex,compiler,['dx']
+com.AugmentedWorld.NOMOREADS.apk,classes.dex,anti_vm,['Build.MODEL check']
 com.AugmentedWorld.NOMOREADS.apk,classes.dex,compiler,['dx']
+com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'subscriber ID check', 'possible ro.secure check']"
 com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.pure.mini.browser.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.pure.mini.browser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.pure.mini.browser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.pure.mini.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+com.pure.mini.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.pure.mini.browser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.pure.mini.browser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
 com.pure.mini.browser.apk,classes2.dex,compiler,['dx']
+com.cloudflare.onedotonedotonedotone.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check']"
+com.cloudflare.onedotonedotonedotone.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.cloudflare.onedotonedotonedotone.apk,classes.dex,compiler,['r8']
+com.cloudflare.onedotonedotonedotone.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check']"
 com.cloudflare.onedotonedotonedotone.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.betafish.adblocksbrowser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.notic.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
 com.notic.apk,classes.dex,compiler,['r8']
 made.in.india.adfreemusic.apk,classes.dex,compiler,['r8']
+com.opera.browser.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.browser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.opera.browser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.opera.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.opera.browser.apk,classes.dex,compiler,['r8']
+com.opera.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.opera.browser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.opera.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.consulenza.umbrellacare.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'ro.kernel.qemu check']"
+com.consulenza.umbrellacare.apk,classes.dex,compiler,['dx']
 com.consulenza.umbrellacare.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.teqtic.lockmeout.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.teqtic.lockmeout.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+s.sdownload.adblockerultimatebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'device ID check']"
+s.sdownload.adblockerultimatebrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 s.sdownload.adblockerultimatebrowser.apk,classes.dex,compiler,['r8']
 com.merxury.blocker.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+org.triple.banana.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+org.triple.banana.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+org.triple.banana.apk,classes.dex,compiler,['r8 without marker (suspicious)']
 org.triple.banana.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 de.mcs.mcsbrowser.apk,classes.dex,compiler,['dexlib 1.x']
+com.securebrowser.private.safesearch.adblock.apk,classes.dex,anti_vm,"['Build.HARDWARE check', 'Build.TAGS check']"
 com.securebrowser.private.safesearch.adblock.apk,classes.dex,compiler,['r8']
+com.kiddoware.kidsafebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check']"
+com.kiddoware.kidsafebrowser.apk,classes.dex,compiler,['r8']
+com.kiddoware.kidsafebrowser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.kiddoware.kidsafebrowser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
 com.kiddoware.kidsafebrowser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.stealthmobile.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'possible VM check']"
+com.stealthmobile.browser.apk,classes.dex,compiler,['r8']
+com.stealthmobile.browser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.stealthmobile.browser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 com.stealthmobile.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+co.blocksite.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+co.blocksite.apk,classes.dex,compiler,['r8']
+co.blocksite.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+co.blocksite.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+co.blocksite.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 co.blocksite.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.stayfocused.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.stayfocused.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.stayfocused.apk,classes.dex,compiler,['r8']
 com.stayfocused.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.shaon.pmbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
 com.shaon.pmbrowser.apk,classes.dex,compiler,['r8']
+com.antiporn.pornoblock.safebrowser.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
 com.antiporn.pornoblock.safebrowser.apk,classes.dex,compiler,['r8']
+com.mc.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'subscriber ID check']"
 com.mc.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+appinventor.ai_rockanarghya.browser.apk,classes.dex,anti_disassembly,['illegal class name']
+appinventor.ai_rockanarghya.browser.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
 appinventor.ai_rockanarghya.browser.apk,classes.dex,compiler,['dx']
+com.utube.videotube.vanced.kit.apk,/home/budi/.MobSF/uploads/a6e8e31a0b99b8a9b020d4550b369cf0/a6e8e31a0b99b8a9b020d4550b369cf0.apk,packer,"[""Tencent's Legu""]"
+com.utube.videotube.vanced.kit.apk,classes2.dex,compiler,['unknown (please file detection issue!)']
+com.utube.videotube.vanced.kit.apk,classes.dex,anti_disassembly,"['non-zero link size', 'non-zero link offset']"
+com.utube.videotube.vanced.kit.apk,classes.dex,packer,['Mobile Tencent Protect']
 com.utube.videotube.vanced.kit.apk,classes.dex,compiler,['dexlib 2.x']
+com.OlyFox.webbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
 com.OlyFox.webbrowser.apk,classes.dex,compiler,['r8']
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,classes.dex,compiler,['r8']
 com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.cliqz.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.cliqz.browser.apk,classes.dex,compiler,['r8']
+com.cliqz.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
 com.cliqz.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+net.browsetech.adremover.android.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+net.browsetech.adremover.android.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 net.browsetech.adremover.android.apk,classes.dex,compiler,['r8']
+com.appybuilder.asier_oyanguren.adApp2.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible VM check']"
+com.appybuilder.asier_oyanguren.adApp2.apk,classes.dex,compiler,['dx']
+com.appybuilder.asier_oyanguren.adApp2.apk,classes2.dex,compiler,['dx']
 com.appybuilder.asier_oyanguren.adApp2.apk,classes3.dex,compiler,['dx']
+com.imoblife.checkadd_plug_in.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.imoblife.checkadd_plug_in.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
 com.imoblife.checkadd_plug_in.apk,classes.dex,compiler,['dx']
+com.oh.bro.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.TAGS check']"
+com.oh.bro.apk,classes.dex,compiler,['unknown (please file detection issue!)']
 com.oh.bro.apk,classes2.dex,compiler,['r8']
+com.wTopTon_11625919.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.wTopTon_11625919.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.wTopTon_11625919.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'SIM operator check', 'network operator name check']"
+com.wTopTon_11625919.apk,classes.dex,compiler,['r8']
+com.wTopTon_11625919.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'device ID check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
+com.wTopTon_11625919.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.wTopTon_11625919.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.blink.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'subscriber ID check']"
+com.blink.browser.apk,classes.dex,compiler,['r8']
+com.blink.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 com.blink.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.disconnect.samsungcontentblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'possible Build.SERIAL check']"
 com.disconnect.samsungcontentblocker.apk,classes.dex,compiler,['r8']
+com.xbrowser.play.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.BOARD check']"
 com.xbrowser.play.apk,classes.dex,compiler,['dx']
+com.spaceship.netprotect.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.spaceship.netprotect.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.spaceship.netprotect.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check']"
+com.spaceship.netprotect.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.spaceship.netprotect.apk,classes.dex,compiler,['r8']
 com.spaceship.netprotect.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.avast.android.secure.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.avast.android.secure.browser.apk,classes.dex,compiler,['r8']
+com.avast.android.secure.browser.apk,classes4.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'SIM operator check']"
+com.avast.android.secure.browser.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
+com.avast.android.secure.browser.apk,classes2.dex,compiler,['r8']
+com.avast.android.secure.browser.apk,classes3.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.avast.android.secure.browser.apk,classes3.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
 com.avast.android.secure.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.opera.browser.beta.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.browser.beta.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.opera.browser.beta.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.opera.browser.beta.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.opera.browser.beta.apk,classes.dex,compiler,['r8']
+com.opera.browser.beta.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.opera.browser.beta.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.opera.browser.beta.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.avg.android.secure.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.avg.android.secure.browser.apk,classes.dex,compiler,['r8']
+com.avg.android.secure.browser.apk,classes2.dex,compiler,['r8']
+com.avg.android.secure.browser.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'network operator name check']"
+com.avg.android.secure.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.avg.android.secure.browser.apk,classes4.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.avg.android.secure.browser.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
+com.hsv.freeadblockerbrowser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.hsv.freeadblockerbrowser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.hsv.freeadblockerbrowser.apk,assets/webapk6.dex,compiler,['r8']
+com.hsv.freeadblockerbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.hsv.freeadblockerbrowser.apk,classes.dex,compiler,['r8']
+com.hsv.freeadblockerbrowser.apk,classes2.dex,anti_vm,['Build.MANUFACTURER check']
 com.hsv.freeadblockerbrowser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.fast.turbobrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
 com.fast.turbobrowser.apk,classes.dex,compiler,['r8']
+org.internetcondom.adblocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+org.internetcondom.adblocker.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
 org.internetcondom.adblocker.apk,classes.dex,compiler,['r8']
+com.expecode.toweb.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible VM check']"
+com.expecode.toweb.apk,classes.dex,compiler,['r8']
 com.expecode.toweb.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.kawkaw.pornblocker.safebrowser.up.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
 com.kawkaw.pornblocker.safebrowser.up.apk,classes.dex,compiler,['r8']
+com.duckduckgo.mobile.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.duckduckgo.mobile.android.apk,classes.dex,compiler,['r8']
+com.duckduckgo.mobile.android.apk,classes2.dex,anti_vm,['Build.PRODUCT check']
 com.duckduckgo.mobile.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.rucksack.adblock.anti_tracking.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.rucksack.adblock.anti_tracking.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.rucksack.adblock.anti_tracking.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.rucksack.adblock.anti_tracking.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.rucksack.adblock.anti_tracking.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.rucksack.adblock.anti_tracking.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.rucksack.adblock.anti_tracking.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
 com.rucksack.adblock.anti_tracking.apk,classes2.dex,compiler,['dx']
+org.mozilla.focus.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+org.mozilla.focus.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 org.mozilla.focus.apk,classes.dex,compiler,['r8']
+mtc.milesthecreator.adsaway.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.TAGS check', 'network operator name check']"
 mtc.milesthecreator.adsaway.apk,classes.dex,compiler,['r8']
+com.mini.web.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.mini.web.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check', 'subscriber ID check']"
 com.mini.web.browser.apk,classes.dex,compiler,['dx']
+popup.ads.detector.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+popup.ads.detector.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 popup.ads.detector.apk,classes.dex,compiler,['r8']
+co.easy4u.popup.ads.detector.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.BOARD check']"
 co.easy4u.popup.ads.detector.apk,classes.dex,compiler,['r8']
+com.farestld.black_tiger_browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.farestld.black_tiger_browser.apk,classes.dex,compiler,['r8']
+com.plustwo.skipads.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'Build.TAGS check']"
 com.plustwo.skipads.apk,classes.dex,compiler,['r8']
 co.crystalapp.crystal.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.apusapps.browser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.apusapps.browser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.apusapps.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'SIM operator check', 'network operator name check']"
+com.apusapps.browser.apk,classes.dex,compiler,['r8']
+com.apusapps.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
+com.apusapps.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.apusapps.browser.apk,lib/arm64-v8a/libdu.so,obfuscator,['Safeengine LLVM']
+com.apusapps.browser.apk,lib/armeabi-v7a/libdu.so,"dropper, packer",['UPX packed ELF embedded in ELF']
 com.apusapps.browser.apk,lib/armeabi/libdu.so,"dropper, packer",['UPX packed ELF embedded in ELF']
+trim.altict.com.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+trim.altict.com.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
 trim.altict.com.apk,classes.dex,compiler,['dexlib 2.x']
 com.gc.adsSkipads.apk,classes.dex,compiler,['r8']
+com.emmanuelmolefi.skipadsapp.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
 com.emmanuelmolefi.skipadsapp.apk,classes.dex,compiler,['r8']
+org.torproject.torbrowser_alpha.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+org.torproject.torbrowser_alpha.apk,classes.dex,compiler,['r8']
+org.torproject.torbrowser_alpha.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+org.torproject.torbrowser_alpha.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 org.torproject.torbrowser_alpha.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+org.adblockplus.browser.beta.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+org.adblockplus.browser.beta.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+org.adblockplus.browser.beta.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+org.adblockplus.browser.beta.apk,classes.dex,compiler,['r8 without marker (suspicious)']
 org.adblockplus.browser.beta.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.ume.browser.cust.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.ume.browser.cust.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.ume.browser.cust.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.BOARD check', 'network operator name check', 'ro.kernel.qemu check']"
+com.ume.browser.cust.apk,classes.dex,compiler,['r8']
+com.ume.browser.cust.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.ume.browser.cust.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.ume.browser.cust.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check', 'subscriber ID check']"
 com.ume.browser.cust.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.opera.mini.native.beta.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.mini.native.beta.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.opera.mini.native.beta.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.opera.mini.native.beta.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.opera.mini.native.beta.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.mini.native.beta.apk,classes.dex,compiler,['r8']
+com.opera.mini.native.beta.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.opera.mini.native.beta.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.opera.mini.native.beta.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.opera.mini.native.beta.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.opera.mini.native.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.mini.native.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.opera.mini.native.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.opera.mini.native.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.opera.mini.native.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.mini.native.apk,classes.dex,compiler,['r8']
+com.opera.mini.native.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.opera.mini.native.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.opera.mini.native.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.opera.mini.native.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+org.mozilla.firefox.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+org.mozilla.firefox.apk,classes.dex,compiler,['r8']
+org.mozilla.firefox.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+org.mozilla.firefox.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 org.mozilla.firefox.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.tafayor.appwatch.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.tafayor.appwatch.apk,classes.dex,compiler,['r8']
 com.tafayor.appwatch.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+adblocker.lite.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+adblocker.lite.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.PRODUCT check', 'Build.TAGS check']"
 adblocker.lite.browser.apk,classes.dex,compiler,['dx']
+com.hanstudio.notifyblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.hanstudio.notifyblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.hanstudio.notifyblocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.hanstudio.notifyblocker.apk,classes.dex,compiler,['r8']
+com.hanstudio.notifyblocker.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.hanstudio.notifyblocker.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
 com.hanstudio.notifyblocker.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.trendmicro.freetmms.gmobi.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible VM check']"
+com.trendmicro.freetmms.gmobi.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.trendmicro.freetmms.gmobi.apk,classes.dex,compiler,['r8']
+com.trendmicro.freetmms.gmobi.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.TAGS check', 'network operator name check']"
+com.trendmicro.freetmms.gmobi.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.trendmicro.freetmms.gmobi.apk,classes3.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.TAGS check']"
 com.trendmicro.freetmms.gmobi.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
-com.trendmicro.freetmms.gmobi.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.ecosia.android.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+com.ecosia.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.ecosia.android.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.ecosia.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+pure.lite.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+pure.lite.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 pure.lite.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.skip.video.ads.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 com.skip.video.ads.apk,classes.dex,compiler,['r8']
+fast.explorer.web.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
+fast.explorer.web.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+fast.explorer.web.browser.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'network operator name check']"
 fast.explorer.web.browser.apk,classes2.dex,compiler,['dx']
 com.adguard.android.contentblocker.apk,classes.dex,compiler,['r8']
-com.adguard.android.contentblocker.apk,classes.dex,compiler,['r8']
+com.drweb.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.drweb.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.drweb.apk,classes.dex,compiler,['dexlib 2.x']
+com.drweb.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+co.zew.deebrowser.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
+co.zew.deebrowser.apk,classes.dex,compiler,['dx (possible dexmerge)']
 co.zew.deebrowser.apk,classes.dex,manipulator,['dexmerge']
+com.crdev.AdsStopper.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.crdev.AdsStopper.apk,classes.dex,compiler,['r8']
 com.crdev.AdsStopper.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.mw.applockerblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.mw.applockerblocker.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.mw.applockerblocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+com.mw.applockerblocker.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.mw.applockerblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+nextapp.atlas.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
 nextapp.atlas.apk,classes.dex,compiler,['dx']
 com.ad_detector.airpushdetector.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.smsBlocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+com.smsBlocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.smsBlocker.apk,classes.dex,compiler,['r8']
+id.mukti.app.adblockuiandroid.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 id.mukti.app.adblockuiandroid.apk,classes.dex,compiler,['r8']
 com.agooday.skipads.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.insher.main.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 com.insher.main.apk,classes.dex,compiler,['r8']
+com.orbitum.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'ro.kernel.qemu check']"
+com.orbitum.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.orbitum.browser.apk,classes.dex,compiler,['r8']
+com.orbitum.browser.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.orbitum.browser.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
 com.orbitum.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.androidbull.incognito.browser.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.androidbull.incognito.browser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.androidbull.incognito.browser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.androidbull.incognito.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.androidbull.incognito.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.androidbull.incognito.browser.apk,classes.dex,compiler,['r8']
+com.thmf.as.skip_ads.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.thmf.as.skip_ads.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.thmf.as.skip_ads.apk,classes.dex,compiler,['r8']
+com.comodo.cisme.antivirus.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'network operator name check', 'ro.kernel.qemu check']"
+com.comodo.cisme.antivirus.apk,classes.dex,compiler,['r8']
+com.comodo.cisme.antivirus.apk,classes.dex,obfuscator,['DexGuard']
+com.comodo.cisme.antivirus.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+com.comodo.cisme.antivirus.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.comodo.cisme.antivirus.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.comodo.cisme.antivirus.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
 com.comodo.cisme.antivirus.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
+reactivephone.msearch.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+reactivephone.msearch.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 reactivephone.msearch.apk,classes.dex,compiler,['r8']
+co.easy4u.ncleaner.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+co.easy4u.ncleaner.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+co.easy4u.ncleaner.apk,classes.dex,compiler,['r8']
+co.easy4u.ncleaner.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+co.easy4u.ncleaner.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
 co.easy4u.ncleaner.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.hsv.privatebrowser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.hsv.privatebrowser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.hsv.privatebrowser.apk,assets/webapk6.dex,compiler,['r8']
+com.hsv.privatebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'SIM operator check', 'network operator name check']"
 com.hsv.privatebrowser.apk,classes.dex,compiler,['r8']
+com.rotech.adblock.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
 com.rotech.adblock.apk,classes.dex,compiler,['r8']
+com.appsisland.ads.shield.content.blocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
+com.appsisland.ads.shield.content.blocker.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.appsisland.ads.shield.content.blocker.apk,classes.dex,manipulator,['dexmerge']
+com.qk.search.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check', 'device ID check', 'subscriber ID check']"
+com.qk.search.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.qk.search.browser.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.qk.search.browser.apk,classes.dex,manipulator,['dexmerge']
+br.marcelo.monumentbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 br.marcelo.monumentbrowser.apk,classes.dex,compiler,['r8']
+com.blindcut.flutter.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+com.blindcut.flutter.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.blindcut.flutter.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.magellanbrowser.adblocker.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.magellanbrowser.adblocker.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
 com.magellanbrowser.adblocker.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.lechneralexander.privatebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.lechneralexander.privatebrowser.apk,classes.dex,compiler,['r8']
+com.naver.whale.apk,assets/webapk6.dex,compiler,['r8']
+com.naver.whale.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check']"
+com.naver.whale.apk,classes.dex,compiler,['r8']
+com.naver.whale.apk,classes2.dex,anti_vm,['Build.MANUFACTURER check']
 com.naver.whale.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.kiwibrowser.browser.apk,assets/webapk5.dex,compiler,['dx']
+com.kiwibrowser.browser.apk,classes.dex,anti_disassembly,['illegal class name']
+com.kiwibrowser.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check']"
 com.kiwibrowser.browser.apk,classes.dex,compiler,['dx']
+com.nationaledtech.spinbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check']"
+com.nationaledtech.spinbrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.nationaledtech.spinbrowser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+org.mozilla.firefox_beta.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+org.mozilla.firefox_beta.apk,classes.dex,compiler,['r8']
+org.mozilla.firefox_beta.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+org.mozilla.firefox_beta.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 org.mozilla.firefox_beta.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.opera.touch.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.opera.touch.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.touch.apk,classes.dex,compiler,['r8']
 com.opera.touch.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.rhaon.ad_skip.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+com.rhaon.ad_skip.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.rhaon.ad_skip.apk,classes.dex,compiler,['r8']
+com.opera.oxbrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.opera.oxbrowser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
 com.opera.oxbrowser.apk,classes.dex,compiler,['r8']
+io.friendly.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
+io.friendly.apk,classes.dex,compiler,['r8']
+io.friendly.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+io.friendly.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+io.friendly.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+io.friendly.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 io.friendly.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
 com.saschaha.browser.apk,classes.dex,compiler,['dx']
+app.adlocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check']"
 app.adlocker.apk,classes.dex,compiler,['r8']
+com.blocknotification.gamemode.apk,assets/audience_network.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.blocknotification.gamemode.apk,assets/audience_network.dex,compiler,['dexlib 1.x']
+com.blocknotification.gamemode.apk,classes.dex,anti_vm,['Build.MODEL check']
+com.blocknotification.gamemode.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.blocknotification.gamemode.apk,classes.dex,manipulator,['dexmerge']
+com.Fullforce.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.Fullforce.browser.apk,classes.dex,compiler,['r8']
+adblock.browser.popup.detector.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+adblock.browser.popup.detector.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 adblock.browser.popup.detector.apk,classes.dex,compiler,['dx']
+com.TripleVGames.Adblocker.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.PRODUCT check']"
 com.TripleVGames.Adblocker.apk,classes.dex,compiler,['dx']
+app.no.vpn.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+app.no.vpn.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+app.no.vpn.apk,classes.dex,compiler,['dx (possible dexmerge)']
 app.no.vpn.apk,classes.dex,manipulator,['dexmerge']
+com.uc.browser.en.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.uc.browser.en.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.uc.browser.en.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.build.type check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check']"
+com.uc.browser.en.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.uc.browser.en.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.uc.browser.en.apk,classes.dex,obfuscator,['unreadable field names']
+com.uc.browser.en.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check']"
+com.uc.browser.en.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.uc.browser.en.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'subscriber ID check']"
+com.uc.browser.en.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.uc.browser.en.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,anti_vm,['subscriber ID check']
+com.uc.browser.en.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,compiler,['dx']
 com.uc.browser.en.apk,lib/armeabi-v7a/libsgsecuritybody.so!classes.dex,compiler,['dx']
+com.camhart.pornblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+com.camhart.pornblocker.apk,classes.dex,compiler,['r8']
+com.camhart.pornblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.camhart.pornblocker.apk,classes3.dex,compiler,['r8']
+com.notification.cleaner.apk,/home/budi/.MobSF/uploads/fc3c49c1382d07b8045d51ec1566264e/fc3c49c1382d07b8045d51ec1566264e.apk,packer,['DexProtector']
+com.notification.cleaner.apk,assets/audience_network.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.notification.cleaner.apk,assets/audience_network.dex,compiler,['dexlib 1.x']
+com.notification.cleaner.apk,classes.dex,anti_disassembly,['illegal class name']
+com.notification.cleaner.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible VM check']"
+com.notification.cleaner.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.notification.cleaner.apk,classes.dex,compiler,['dx']
+com.keepsolid.privatebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible VM check']"
+com.keepsolid.privatebrowser.apk,classes.dex,compiler,['r8']
+com.keepsolid.privatebrowser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.keepsolid.privatebrowser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.keepsolid.privatebrowser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.keepsolid.privatebrowser.apk,classes3.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check']"
 com.keepsolid.privatebrowser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.browser.tssomas.apk,assets/webapk7.dex,compiler,['r8']
+com.browser.tssomas.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.browser.tssomas.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.browser.tssomas.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.browser.tssomas.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'SIM operator check', 'network operator name check', 'device ID check']"
 com.browser.tssomas.apk,classes.dex,compiler,['r8']
+com.getfilefrom.browserdownloader.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'SIM operator check', 'network operator name check']"
+com.getfilefrom.browserdownloader.apk,classes.dex,compiler,['r8']
+com.getfilefrom.browserdownloader.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.getfilefrom.browserdownloader.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.getfilefrom.browserdownloader.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.getfilefrom.browserdownloader.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.getfilefrom.browserdownloader.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.getfilefrom.browserdownloader.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.rabbit.incognito.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
 com.rabbit.incognito.browser.apk,classes.dex,compiler,['r8']
+com.jimeem.fast.lite.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 com.jimeem.fast.lite.browser.apk,classes.dex,compiler,['r8']
+com.epic.browser.apk,assets/webapk5.dex,compiler,['r8 without marker (suspicious)']
+com.epic.browser.apk,classes.dex,anti_disassembly,['illegal class name']
+com.epic.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check']"
 com.epic.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.mi.globalbrowser.mini.apk,classes2.dex,anti_vm,"['Build.MANUFACTURER check', 'SIM operator check']"
+com.mi.globalbrowser.mini.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.mi.globalbrowser.mini.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+com.mi.globalbrowser.mini.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.mi.globalbrowser.mini.apk,classes.dex,compiler,['r8']
+net.onecook.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
 net.onecook.browser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
 org.adblockplus.adblockplussbrowser.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.nordvpn.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.hardware check', 'ro.kernel.qemu check']"
+com.nordvpn.android.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.nordvpn.android.apk,classes.dex,compiler,['r8']
+com.nordvpn.android.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.nordvpn.android.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.nordvpn.android.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.nordvpn.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.nordvpn.android.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+jp.myumyu.piggybrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 jp.myumyu.piggybrowser.apk,classes.dex,compiler,['r8']
+com.familyfirsttechnology.pornblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'SIM operator check']"
+com.familyfirsttechnology.pornblocker.apk,classes.dex,compiler,['r8']
+com.familyfirsttechnology.pornblocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.familyfirsttechnology.pornblocker.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.familyfirsttechnology.pornblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.familyfirsttechnology.pornblocker.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.adblocker.turbo.browser.apk,assets/webapk1.dex,compiler,['dx']
+com.adblocker.turbo.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'SIM operator check']"
 com.adblocker.turbo.browser.apk,classes.dex,compiler,['dx']
+com.browser.yo.indian.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.browser.yo.indian.apk,classes.dex,compiler,['r8']
+com.browser.yo.indian.apk,classes2.dex,compiler,['r8']
+com.browser.yo.indian.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'possible Build.SERIAL check']"
+com.browser.yo.indian.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
 com.browser.yo.indian.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
+com.psafe.vpn.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.psafe.vpn.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.psafe.vpn.apk,classes.dex,compiler,['r8']
+com.psafe.vpn.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.psafe.vpn.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check']"
 com.psafe.vpn.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.cobalt.app.browser.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.cobalt.app.browser.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.cobalt.app.browser.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.cobalt.app.browser.apk,assets/webapk5.dex,compiler,['dx']
+com.cobalt.app.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.cobalt.app.browser.apk,classes.dex,compiler,['dx']
+com.cobalt.app.browser.apk,classes2.dex,anti_disassembly,['illegal class name']
+com.cobalt.app.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.cobalt.app.browser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.cobalt.app.browser.apk,classes2.dex,compiler,['dx']
+com.cobalt.app.browser.apk,classes3.dex,anti_disassembly,['illegal class name']
+com.cobalt.app.browser.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 com.cobalt.app.browser.apk,classes3.dex,compiler,['dx']
 com.av1rus.adblockremover.apk,classes.dex,compiler,['dx']
+com.lostnet.fw.free.apk,classes.dex,anti_vm,['Build.MANUFACTURER check']
+com.lostnet.fw.free.apk,classes.dex,compiler,['dx']
+com.lostnet.fw.free.apk,lib/x86/libaccount3.so,obfuscator,['Obfuscator-LLVM version 3.4']
+com.lostnet.fw.free.apk,lib/armeabi/libaccount3.so,obfuscator,['Obfuscator-LLVM version 3.4']
 com.lostnet.fw.free.apk,lib/armeabi-v7a/libaccount3.so,obfuscator,['Obfuscator-LLVM version 3.4']
+com.jawaid.firebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.jawaid.firebrowser.apk,classes.dex,compiler,['r8']
+com.jawaid.firebrowser.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.jawaid.firebrowser.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
 com.jawaid.firebrowser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.pandora.browser.apk,assets/webapk5.dex,compiler,['r8']
+com.pandora.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.pandora.browser.apk,classes.dex,compiler,['r8']
+com.pandora.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check']"
+com.pandora.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.pandora.browser.apk,classes3.dex,anti_vm,['Build.MANUFACTURER check']
 com.pandora.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+cm.browser.privatewindow.download.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+cm.browser.privatewindow.download.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+cm.browser.privatewindow.download.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+cm.browser.privatewindow.download.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
 cm.browser.privatewindow.download.apk,classes.dex,compiler,['dexlib 2.x']
+com.mobisoft.webguard.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check']"
 com.mobisoft.webguard.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+com.browser.securebrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'SIM operator check']"
 com.browser.securebrowser.apk,classes.dex,compiler,['dx']
+browser4g.fast.internetwebexplorer.apk,assets/audience_network.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+browser4g.fast.internetwebexplorer.apk,assets/audience_network.dex,compiler,['dexlib 1.x']
+browser4g.fast.internetwebexplorer.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'possible VM check']"
+browser4g.fast.internetwebexplorer.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+browser4g.fast.internetwebexplorer.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+browser4g.fast.internetwebexplorer.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 browser4g.fast.internetwebexplorer.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.eagle.web.browser.internet.privacy.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'subscriber ID check', 'possible ro.secure check']"
 com.eagle.web.browser.internet.privacy.browser.apk,classes.dex,compiler,['r8']
+com.nitron.mintbrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check']"
+com.nitron.mintbrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.nitron.mintbrowser.apk,classes.dex,compiler,['r8']
+mark.via.gp.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'Build.BOARD check']"
 mark.via.gp.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+mobi.mgeek.browserfaster.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.BOARD check']"
+mobi.mgeek.browserfaster.apk,classes.dex,compiler,['dx (possible dexmerge)']
 mobi.mgeek.browserfaster.apk,classes.dex,manipulator,['dexmerge']
+com.blocker.adblockxprotector.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'ro.kernel.qemu check']"
 com.blocker.adblockxprotector.apk,classes.dex,compiler,['r8']
+app.stampy.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+app.stampy.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+app.stampy.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+app.stampy.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check']"
 app.stampy.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+fast.secure.light.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'SIM operator check']"
+fast.secure.light.browser.apk,classes.dex,compiler,['r8']
+fast.secure.light.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+fast.secure.light.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 fast.secure.light.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.seven.adclear.fsb.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'network operator name check']"
+com.seven.adclear.fsb.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.seven.adclear.fsb.apk,classes.dex,compiler,['r8']
 com.seven.adclear.fsb.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.techproof.websiteblocker.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.techproof.websiteblocker.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.techproof.websiteblocker.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check', 'possible VM check']"
+com.techproof.websiteblocker.apk,classes.dex,compiler,['r8']
+com.techproof.websiteblocker.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+com.techproof.websiteblocker.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.techproof.websiteblocker.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+org.mobilob.google.apk,classes.dex,compiler,['dx (possible dexmerge)']
 org.mobilob.google.apk,classes.dex,manipulator,['dexmerge']
+com.elrond.maiar.apk,assets/webapk7.dex,compiler,['r8']
+com.elrond.maiar.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
 com.elrond.maiar.apk,classes.dex,compiler,['r8']
+com.kuto.browser.apk,assets/black.skin!classes.dex,compiler,['r8 without marker (suspicious)']
+com.kuto.browser.apk,assets/white.skin!classes.dex,compiler,['r8 without marker (suspicious)']
+com.kuto.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.kuto.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
 com.kuto.browser.apk,classes.dex,compiler,['r8']
+com.noad.it.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.noad.it.apk,classes.dex,compiler,['r8']
+com.noad.it.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.noad.it.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 com.noad.it.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.chimbori.hermitcrab.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
 com.chimbori.hermitcrab.apk,classes.dex,compiler,['r8']
+com.mx.browser.apk,assets/skin/nightskin.skin_1612170788932!classes.dex,compiler,['dx']
+com.mx.browser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.mx.browser.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'subscriber ID check']"
+com.mx.browser.apk,classes.dex,compiler,['dx']
 com.mx.browser.apk,classes2.dex,compiler,['dx']
+krow.dev.addetector.apk,classes.dex,compiler,['dx (possible dexmerge)']
 krow.dev.addetector.apk,classes.dex,manipulator,['dexmerge']
+com.pt.tool.away.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check', 'subscriber ID check', 'network interface name check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check']"
+com.pt.tool.away.apk,classes.dex,compiler,['dexlib 2.x']
 com.pt.tool.away.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+entertainment.privatebrowser.vnstore.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
+entertainment.privatebrowser.vnstore.apk,classes.dex,compiler,['r8']
 entertainment.privatebrowser.vnstore.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
 pcr.browser.polarity.apk,classes.dex,compiler,['dx']
+com.oorweb.uc.Activity.apk,classes.dex,anti_vm,"['Build.MANUFACTURER check', 'SIM operator check', 'network operator name check']"
+com.oorweb.uc.Activity.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.oorweb.uc.Activity.apk,classes.dex,manipulator,['dexmerge']
+com.cookiegames.smartcookie.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.cookiegames.smartcookie.apk,classes.dex,compiler,['r8']
+com.lookout.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible VM check']"
+com.lookout.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.lookout.apk,classes.dex,compiler,['r8']
+com.lookout.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
 com.lookout.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+co.madseven.browser.apk,assets/webapk5.dex,compiler,['r8 without marker (suspicious)']
+co.madseven.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+co.madseven.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+co.madseven.browser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible VM check']"
+co.madseven.browser.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+co.madseven.browser.apk,classes3.dex,anti_vm,"['Build.MANUFACTURER check', 'SIM operator check']"
 co.madseven.browser.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+matt.playtube.videotube.vancedtube.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+matt.playtube.videotube.vancedtube.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+matt.playtube.videotube.vancedtube.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+matt.playtube.videotube.vancedtube.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+matt.playtube.videotube.vancedtube.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+matt.playtube.videotube.vancedtube.apk,classes.dex,compiler,['r8']
+matt.playtube.videotube.vancedtube.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'network operator name check']"
+matt.playtube.videotube.vancedtube.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
 matt.playtube.videotube.vancedtube.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
 com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser.apk,classes.dex,compiler,['dx']
+com.coccoc.trinhduyet.apk,assets/webapk7.dex,compiler,['r8']
+com.coccoc.trinhduyet.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+com.coccoc.trinhduyet.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.coccoc.trinhduyet.apk,classes.dex,compiler,['r8']
+com.coccoc.trinhduyet.apk,classes2.dex,anti_vm,['Build.MANUFACTURER check']
 com.coccoc.trinhduyet.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+org.malwarebytes.antimalware.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+org.malwarebytes.antimalware.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+org.malwarebytes.antimalware.apk,classes.dex,compiler,['r8']
 org.malwarebytes.antimalware.apk,classes.dex,obfuscator,['unreadable field names']
+com.blocking.sites.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.blocking.sites.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.blocking.sites.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.blocking.sites.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check']"
+com.blocking.sites.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.blocking.sites.apk,classes.dex,compiler,['unknown (please file detection issue!)']
 com.blocking.sites.apk,classes2.dex,compiler,['dx']
+com.mebrowser.webapp.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'network operator name check']"
+com.mebrowser.webapp.apk,classes.dex,compiler,['dx']
 com.mebrowser.webapp.apk,classes2.dex,compiler,['dx']
+com.mosoft.godzilla.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.mosoft.godzilla.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
 com.mosoft.godzilla.apk,classes.dex,compiler,['r8']
+com.atominvention.atombrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.atominvention.atombrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.atominvention.atombrowser.apk,classes.dex,compiler,['r8']
+com.appspot.swisscodemonkeys.detector.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
 com.appspot.swisscodemonkeys.detector.apk,classes.dex,compiler,['r8']
+com.dolphin.browser.engine.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.BOARD check']"
 com.dolphin.browser.engine.apk,classes.dex,compiler,['dx']
+cz.mobilesoft.appblock.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+cz.mobilesoft.appblock.apk,classes.dex,compiler,['r8']
+cz.mobilesoft.appblock.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+cz.mobilesoft.appblock.apk,classes2.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
 cz.mobilesoft.appblock.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.tenta.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.tenta.android.apk,classes.dex,compiler,['r8']
+com.tenta.android.apk,classes2.dex,compiler,['r8']
+com.tenta.android.apk,classes3.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check', 'network operator name check']"
+com.tenta.android.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.tenta.android.apk,classes4.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
 com.tenta.android.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
 dnsfilter.android.apk,classes.dex,compiler,['r8']
+com.gobest.goclean.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.gobest.goclean.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.gobest.goclean.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible VM check']"
+com.gobest.goclean.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.gobest.goclean.apk,classes.dex,compiler,['r8']
 com.gobest.goclean.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.segfaultstudios.suckmyads.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.PRODUCT check']"
+com.segfaultstudios.suckmyads.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.segfaultstudios.suckmyads.apk,classes.dex,manipulator,['dexmerge']
+mobi.mgeek.TunnyBrowser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+mobi.mgeek.TunnyBrowser.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+mobi.mgeek.TunnyBrowser.apk,classes.dex,compiler,['dx']
+mobi.mgeek.TunnyBrowser.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'network operator name check']"
 mobi.mgeek.TunnyBrowser.apk,classes2.dex,compiler,['dx']
+com.rocketshipapps.adblockfast.apk,classes.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
+com.rocketshipapps.adblockfast.apk,classes.dex,compiler,['dx (possible dexmerge)']
 com.rocketshipapps.adblockfast.apk,classes.dex,manipulator,['dexmerge']
+com.osiris.browser.apk,assets/webapk5.dex,compiler,['r8 without marker (suspicious)']
+com.osiris.browser.apk,classes.dex,anti_disassembly,['illegal class name']
+com.osiris.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.BOARD check']"
 com.osiris.browser.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.rotech.bloqueiaanuncios.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
 com.rotech.bloqueiaanuncios.apk,classes.dex,compiler,['r8']
+com.thefrenchsoftware.radiomusicbox.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check']"
 com.thefrenchsoftware.radiomusicbox.apk,classes.dex,compiler,['unknown (please file detection issue!)']
+adsblocker.adsskiper.adsblockerbrowser.cuckoo.apk,classes.dex,anti_disassembly,['illegal class name']
+adsblocker.adsskiper.adsblockerbrowser.cuckoo.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'possible ro.secure check', 'emulator file check']"
 adsblocker.adsskiper.adsblockerbrowser.cuckoo.apk,classes.dex,compiler,['dx']
+com.skipads.skipyoutubeadsandcommercials.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.skipads.skipyoutubeadsandcommercials.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
 com.skipads.skipyoutubeadsandcommercials.apk,classes.dex,compiler,['r8']
+com.udicorn.proxybrowser.unblockwebsites.apk,assets/audience_network.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.udicorn.proxybrowser.unblockwebsites.apk,assets/audience_network.dex,anti_vm,['possible Build.SERIAL check']
+com.udicorn.proxybrowser.unblockwebsites.apk,assets/audience_network.dex,compiler,['unknown (please file detection issue!)']
+com.udicorn.proxybrowser.unblockwebsites.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.udicorn.proxybrowser.unblockwebsites.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.udicorn.proxybrowser.unblockwebsites.apk,classes.dex,compiler,['r8']
 com.udicorn.proxybrowser.unblockwebsites.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.eset.ems2.gp.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'device ID check', 'subscriber ID check', 'possible ro.secure check']"
 com.eset.ems2.gp.apk,classes.dex,compiler,['r8']
+com.khashayar.netshield.browsers.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.khashayar.netshield.browsers.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.khashayar.netshield.browsers.apk,classes.dex,compiler,['r8 without marker (suspicious)']
 com.khashayar.netshield.browsers.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,assets/audience_network.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'ro.kernel.qemu check']"
+com.UCMobile.intl.apk,assets/audience_network.dex,compiler,['dexlib 1.x']
+com.UCMobile.intl.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
+com.UCMobile.intl.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.UCMobile.intl.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,classes.dex,obfuscator,['unreadable field names']
+com.UCMobile.intl.apk,classes2.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check']"
+com.UCMobile.intl.apk,classes2.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.UCMobile.intl.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,classes2.dex,obfuscator,['unreadable field names']
+com.UCMobile.intl.apk,classes3.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check', 'subscriber ID check', 'ro.build.type check']"
+com.UCMobile.intl.apk,classes3.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,classes4.dex,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
+com.UCMobile.intl.apk,classes4.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,classes5.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.UCMobile.intl.apk,classes5.dex,compiler,['r8 without marker (suspicious)']
+com.UCMobile.intl.apk,lib/armeabi-v7a/libcyt-native.so,obfuscator,['Alipay']
+com.UCMobile.intl.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,anti_vm,['subscriber ID check']
+com.UCMobile.intl.apk,lib/armeabi-v7a/libsgmain.so!classes.dex,compiler,['dx']
 com.UCMobile.intl.apk,lib/armeabi-v7a/libsgsecuritybody.so!classes.dex,compiler,['dx']

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Unknown, O=Kaspersky Lab, L=Moscow, ST=Unknown, C=RU
+Issuer: CN=Unknown, OU=Unknown, O=Kaspersky Lab, L=Moscow, ST=Unknown, C=RU
+Serial number: 4d95ab76
+Valid from: Fri Apr 01 21:39:50 AEDT 2011 until: Tue Aug 17 20:39:50 AEST 2038
+Certificate fingerprints:
+	 SHA1: F5:44:15:BC:C0:B2:0E:58:2C:48:46:39:D9:C5:2F:6D:69:3F:32:96
+	 SHA256: A9:D6:F5:34:F2:81:9A:B7:B6:2D:ED:3F:68:47:EB:49:05:D6:EF:4F:0A:39:81:0D:C8:1E:E7:FE:C6:74:33:86
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

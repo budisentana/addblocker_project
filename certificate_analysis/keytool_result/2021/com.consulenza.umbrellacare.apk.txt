@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Unknown, O=Consulenza SIA, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=Unknown, OU=Unknown, O=Consulenza SIA, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 63e1c1e3
+Valid from: Fri Jan 22 04:41:07 AEDT 2016 until: Tue Jun 09 03:41:07 AEST 2043
+Certificate fingerprints:
+	 SHA1: 74:65:31:C6:1D:0D:2B:AD:9F:DF:51:AA:85:D8:B5:38:C0:41:E2:BE
+	 SHA256: D3:49:65:E4:74:F9:B2:E8:18:8F:AE:3F:38:D2:21:FF:73:88:EF:43:96:58:0E:D4:6F:C2:49:A2:0B:CE:8D:2C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A1 84 E2 8F A1 F2 01 29   72 AB 2E AC 31 C9 80 F4  .......)r...1...
+0010: DD EF 2A AE                                        ..*.
+]
+]
+
+

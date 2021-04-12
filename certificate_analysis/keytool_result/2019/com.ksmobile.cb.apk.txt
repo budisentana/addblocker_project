@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=KS Mobile Inc., OU=KS Mobile Inc., O=KS Mobile Inc., L=Hong Kong, ST=Hong Kong, C=999077
+Issuer: CN=KS Mobile Inc., OU=KS Mobile Inc., O=KS Mobile Inc., L=Hong Kong, ST=Hong Kong, C=999077
+Serial number: 52db7517
+Valid from: Sun Jan 19 17:47:51 AEDT 2014 until: Tue Jan 12 17:47:51 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 2C:8D:03:61:5F:7E:1E:5D:98:DD:EB:3B:95:F3:3B:3C:1D:50:2C:EB
+	 SHA256: 7E:2A:13:5D:35:1E:5D:7B:F6:93:BE:71:3B:7D:41:8C:FF:91:F8:F8:0F:71:B2:B3:6D:61:87:4C:27:CC:81:DD
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

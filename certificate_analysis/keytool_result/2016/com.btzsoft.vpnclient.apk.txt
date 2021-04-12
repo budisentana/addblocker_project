@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=kodi, OU=kodi, O=kodi, L=kodi, ST=kodi, C=MD
+Issuer: CN=kodi, OU=kodi, O=kodi, L=kodi, ST=kodi, C=MD
+Serial number: 6b370f6
+Valid from: Tue Jun 03 07:21:42 AEST 2014 until: Sat Oct 19 08:21:42 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 06:1F:4D:4C:6E:29:5A:04:45:94:7D:54:96:23:B4:21:62:D8:BF:E0
+	 SHA256: 0A:21:05:2E:38:35:EB:F1:40:AC:DE:B1:79:29:38:BF:8F:96:38:49:F7:88:9D:8D:29:1B:E8:F9:CA:41:B6:41
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FA F0 20 C1 4E 23 E0 DE   ED 00 C0 2C 35 03 03 8E  .. .N#.....,5...
+0010: F0 CE F7 40                                        ...@
+]
+]
+
+

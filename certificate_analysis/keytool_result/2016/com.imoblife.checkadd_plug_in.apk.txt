@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=iMobLife
+Issuer: CN=iMobLife
+Serial number: 4b668bc0
+Valid from: Mon Feb 01 19:07:28 AEDT 2010 until: Wed Jan 08 19:07:28 AEDT 2110
+Certificate fingerprints:
+	 SHA1: 97:1D:A0:D8:84:2F:75:39:C6:66:F8:7B:74:67:6C:45:48:C2:63:41
+	 SHA256: B8:B9:A8:B3:47:E1:02:53:2C:F3:59:6F:9F:29:A8:46:52:10:E4:C1:AA:7C:40:7B:D7:8F:FD:3F:37:06:F8:DC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

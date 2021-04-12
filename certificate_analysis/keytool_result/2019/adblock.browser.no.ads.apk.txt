@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=adblock browser2, OU=browser, O=adblock, L=New York, ST=US
+Issuer: CN=adblock browser2, OU=browser, O=adblock, L=New York, ST=US
+Serial number: 1df3bee2
+Valid from: Mon Oct 31 14:16:22 AEDT 2016 until: Sat Oct 21 14:16:22 AEDT 2056
+Certificate fingerprints:
+	 SHA1: 89:09:A2:B8:A8:CA:85:25:4D:50:E9:76:58:C9:3D:D7:41:E6:F4:66
+	 SHA256: D4:85:5B:D6:7D:DE:73:83:AC:7D:D9:1F:C4:94:9E:8F:D3:7F:1C:E5:AD:20:05:19:68:36:58:8E:79:ED:7C:45
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4D C6 9A 27 3E 14 E1 0B   16 E0 9A B2 0E AB 9D 5F  M..'>.........._
+0010: 8B AE F1 F8                                        ....
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Roy Sandgren, OU=Development, O=Inquso AB, L=Karlskrona, ST=Blekinge, C=SE
+Issuer: CN=Roy Sandgren, OU=Development, O=Inquso AB, L=Karlskrona, ST=Blekinge, C=SE
+Serial number: 4dab9a08
+Valid from: Mon Apr 18 11:55:20 AEST 2011 until: Fri Apr 11 11:55:20 AEST 2036
+Certificate fingerprints:
+	 SHA1: 98:59:40:6C:05:9B:F1:2D:47:79:39:AD:89:43:14:BA:AE:62:27:0A
+	 SHA256: 61:A7:56:D8:08:EA:B0:FA:BC:4B:2C:73:E1:F8:BD:E5:15:3D:16:71:F8:FD:D9:DB:24:8A:69:DF:CA:F1:38:DC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

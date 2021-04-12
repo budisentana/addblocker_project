@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Read It Later, OU=Android, O=Read It Later, L=Whitefish Bay, ST=WI, C=US
+Issuer: CN=Read It Later, OU=Android, O=Read It Later, L=Whitefish Bay, ST=WI, C=US
+Serial number: 4d77b48c
+Valid from: Thu Mar 10 04:10:36 AEDT 2011 until: Wed Jul 11 03:10:36 AEST 3010
+Certificate fingerprints:
+	 SHA1: 4D:82:52:BB:5F:A3:9A:E7:DF:97:1A:64:80:29:E7:CD:F8:AD:F8:04
+	 SHA256: 72:BD:11:DA:BD:5A:DA:BB:D5:61:63:EF:EB:74:C3:06:2B:48:A3:FC:A4:7A:B1:F3:DE:11:08:7A:49:19:ED:DA
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

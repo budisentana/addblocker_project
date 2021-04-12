@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=MLS, OU=MLS, O=MLS, L=Thessaloniki, ST=Thessaloniki, C=GR
+Issuer: CN=MLS, OU=MLS, O=MLS, L=Thessaloniki, ST=Thessaloniki, C=GR
+Serial number: 4d627c2e
+Valid from: Tue Feb 22 01:52:30 AEDT 2011 until: Sat Feb 16 01:52:30 AEDT 2036
+Certificate fingerprints:
+	 SHA1: BE:74:7D:B7:63:4E:FC:73:AD:A2:5A:4E:FB:F6:B5:04:F6:3E:6E:C7
+	 SHA256: 65:0A:91:5A:5C:12:A1:41:76:3C:E6:36:1C:B9:14:F3:DF:63:35:24:2B:5A:85:86:BA:FC:D2:D0:4B:0D:4C:E3
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

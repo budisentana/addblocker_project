@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Tigervpns, O=Tigervpns
+Issuer: CN=Tigervpns, O=Tigervpns
+Serial number: 4e82985e
+Valid from: Wed Sep 28 13:45:34 AEST 2011 until: Fri Sep 20 13:45:34 AEST 2041
+Certificate fingerprints:
+	 SHA1: 47:48:FA:BA:F2:05:F8:A8:57:98:8F:D7:92:8F:4F:5D:CB:0F:5E:02
+	 SHA256: 8A:44:80:C3:F0:E0:D5:D4:37:6D:5F:21:4B:CD:41:6C:1D:1A:D6:7F:84:33:2A:52:20:BB:70:7B:D9:25:CD:98
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

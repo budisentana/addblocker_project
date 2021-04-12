@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=caine tighe, OU=autobots, O=DuckDuckGo, L=Valley Forge, ST=PA, C=01
+Issuer: CN=caine tighe, OU=autobots, O=DuckDuckGo, L=Valley Forge, ST=PA, C=01
+Serial number: 4d9a8d0b
+Valid from: Tue Apr 05 13:31:23 AEST 2011 until: Mon Aug 06 13:31:23 AEST 3010
+Certificate fingerprints:
+	 SHA1: FB:11:9B:AC:72:88:00:25:C2:57:3A:36:F8:FF:53:87:EA:DA:29:23
+	 SHA256: BB:7B:B3:1C:57:3C:46:A1:DA:7F:C5:C5:28:A6:AC:F4:32:10:84:56:FE:EC:50:81:0C:7F:33:69:4E:B3:D2:D4
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

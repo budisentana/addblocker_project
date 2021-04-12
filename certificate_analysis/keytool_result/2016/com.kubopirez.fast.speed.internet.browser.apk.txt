@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=aorphow, OU=aorphow Appmaker, O=aorphow Appmaker office, L=San Francisco, ST=CA, C=US
+Issuer: CN=aorphow, OU=aorphow Appmaker, O=aorphow Appmaker office, L=San Francisco, ST=CA, C=US
+Serial number: 4be6f19
+Valid from: Tue Nov 03 20:12:53 AEDT 2015 until: Sat Mar 21 20:12:53 AEDT 2043
+Certificate fingerprints:
+	 SHA1: 1C:38:FB:C8:70:42:BB:5A:14:0C:D5:87:3E:B8:46:08:42:BC:14:6E
+	 SHA256: 93:82:73:1F:94:B2:73:9A:D5:A6:B1:EE:72:09:0D:A9:12:22:45:78:5A:00:4A:D5:A4:CE:2E:76:97:2F:A3:66
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 61 A3 13 B7 A1 20 B6 A8   07 E6 17 AA A9 9D CC D2  a.... ..........
+0010: 5D A3 30 D2                                        ].0.
+]
+]
+
+

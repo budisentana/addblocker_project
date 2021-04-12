@@ -1,0 +1,230 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=com.fastbrowser.videodownload.privatebrowser, O=com.fastbrowser.videodownload.privatebrowser, C=TW
+Issuer: CN=com.fastbrowser.videodownload.privatebrowser, O=com.fastbrowser.videodownload.privatebrowser, C=TW
+Serial number: 5b35f5ff
+Valid from: Fri Jun 29 19:03:59 AEST 2018 until: Mon Nov 13 20:03:59 AEDT 2045
+Certificate fingerprints:
+	 SHA1: CE:40:B1:E4:C5:EB:BE:AE:BB:29:DC:48:A5:B8:02:D3:B2:57:F5:C2
+	 SHA256: 0A:F9:EF:1E:6F:FE:45:8A:AF:F8:71:DC:BB:C5:7B:27:1B:95:8B:8B:A3:7B:12:AA:08:A8:8F:CE:6D:B7:19:F3
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Timestamp:
+
+Owner: CN=DigiCert Timestamp Responder, O=DigiCert, C=US
+Issuer: CN=DigiCert Assured ID CA-1, OU=www.digicert.com, O=DigiCert Inc, C=US
+Serial number: 3019a023aff58b16bd6d5eae617f066
+Valid from: Wed Oct 22 11:00:00 AEDT 2014 until: Tue Oct 22 11:00:00 AEDT 2024
+Certificate fingerprints:
+	 SHA1: 61:4D:27:1D:91:02:E3:01:69:82:24:87:FD:E5:DE:00:A3:52:B0:1D
+	 SHA256: 34:BB:21:9C:25:89:B1:D7:65:85:03:E1:24:6B:01:36:06:D0:0F:6B:00:31:0E:7A:40:87:EA:20:98:83:25:96
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.digicert.com
+, 
+   accessMethod: caIssuers
+   accessLocation: URIName: http://cacerts.digicert.com/DigiCertAssuredIDCA-1.crt
+]
+]
+
+#2: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 15 00 12 2B 13 98 B2 99   07 ED 1E DF A2 BE 57 0D  ...+..........W.
+0010: 2B 67 02 CD                                        +g..
+]
+]
+
+#3: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+#4: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl3.digicert.com/DigiCertAssuredIDCA-1.crl]
+, DistributionPoint:
+     [URIName: http://crl4.digicert.com/DigiCertAssuredIDCA-1.crl]
+]]
+
+#5: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.16.840.1.114412.7.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 1C 68 74 74 70 73 3A   2F 2F 77 77 77 2E 64 69  ..https://www.di
+0010: 67 69 63 65 72 74 2E 63   6F 6D 2F 43 50 53        gicert.com/CPS
+
+], PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.2
+  qualifier: 0000: 30 82 01 56 1E 82 01 52   00 41 00 6E 00 79 00 20  0..V...R.A.n.y. 
+0010: 00 75 00 73 00 65 00 20   00 6F 00 66 00 20 00 74  .u.s.e. .o.f. .t
+0020: 00 68 00 69 00 73 00 20   00 43 00 65 00 72 00 74  .h.i.s. .C.e.r.t
+0030: 00 69 00 66 00 69 00 63   00 61 00 74 00 65 00 20  .i.f.i.c.a.t.e. 
+0040: 00 63 00 6F 00 6E 00 73   00 74 00 69 00 74 00 75  .c.o.n.s.t.i.t.u
+0050: 00 74 00 65 00 73 00 20   00 61 00 63 00 63 00 65  .t.e.s. .a.c.c.e
+0060: 00 70 00 74 00 61 00 6E   00 63 00 65 00 20 00 6F  .p.t.a.n.c.e. .o
+0070: 00 66 00 20 00 74 00 68   00 65 00 20 00 44 00 69  .f. .t.h.e. .D.i
+0080: 00 67 00 69 00 43 00 65   00 72 00 74 00 20 00 43  .g.i.C.e.r.t. .C
+0090: 00 50 00 2F 00 43 00 50   00 53 00 20 00 61 00 6E  .P./.C.P.S. .a.n
+00A0: 00 64 00 20 00 74 00 68   00 65 00 20 00 52 00 65  .d. .t.h.e. .R.e
+00B0: 00 6C 00 79 00 69 00 6E   00 67 00 20 00 50 00 61  .l.y.i.n.g. .P.a
+00C0: 00 72 00 74 00 79 00 20   00 41 00 67 00 72 00 65  .r.t.y. .A.g.r.e
+00D0: 00 65 00 6D 00 65 00 6E   00 74 00 20 00 77 00 68  .e.m.e.n.t. .w.h
+00E0: 00 69 00 63 00 68 00 20   00 6C 00 69 00 6D 00 69  .i.c.h. .l.i.m.i
+00F0: 00 74 00 20 00 6C 00 69   00 61 00 62 00 69 00 6C  .t. .l.i.a.b.i.l
+0100: 00 69 00 74 00 79 00 20   00 61 00 6E 00 64 00 20  .i.t.y. .a.n.d. 
+0110: 00 61 00 72 00 65 00 20   00 69 00 6E 00 63 00 6F  .a.r.e. .i.n.c.o
+0120: 00 72 00 70 00 6F 00 72   00 61 00 74 00 65 00 64  .r.p.o.r.a.t.e.d
+0130: 00 20 00 68 00 65 00 72   00 65 00 69 00 6E 00 20  . .h.e.r.e.i.n. 
+0140: 00 62 00 79 00 20 00 72   00 65 00 66 00 65 00 72  .b.y. .r.e.f.e.r
+0150: 00 65 00 6E 00 63 00 65   00 2E                    .e.n.c.e..
+
+]]  ]
+  [CertificatePolicyId: [2.16.840.1.114412.3.21]
+[]  ]
+]
+
+#6: ObjectId: 2.5.29.37 Criticality=true
+ExtendedKeyUsages [
+  timeStamping
+]
+
+#7: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+]
+
+#8: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 61 5A 4D 24 B6 49 32 9D   4A 2A 79 1A 83 4B F4 1E  aZM$.I2.J*y..K..
+0010: 89 C1 CA 7D                                        ....
+]
+]
+
+
+Owner: CN=DigiCert Assured ID CA-1, OU=www.digicert.com, O=DigiCert Inc, C=US
+Issuer: CN=DigiCert Assured ID Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+Serial number: 6fdf9039603adea000aeb3f27bbba1b
+Valid from: Fri Nov 10 11:00:00 AEDT 2006 until: Wed Nov 10 11:00:00 AEDT 2021
+Certificate fingerprints:
+	 SHA1: 19:A0:9B:5A:36:F4:DD:99:72:7D:F7:83:C1:7A:51:23:1A:56:C1:17
+	 SHA256: 42:5E:72:C8:7F:F2:28:55:D9:90:8B:71:AB:4C:64:B0:D2:F2:48:28:70:97:69:0C:62:FE:73:3F:63:1D:E3:8F
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocsp.digicert.com
+, 
+   accessMethod: caIssuers
+   accessLocation: URIName: http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt
+]
+]
+
+#2: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 45 EB A2 AF F4 92 CB 82   31 2D 51 8B A7 A7 21 9D  E.......1-Q...!.
+0010: F3 6D C8 0F                                        .m..
+]
+]
+
+#3: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:0
+]
+
+#4: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl]
+, DistributionPoint:
+     [URIName: http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl]
+]]
+
+#5: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.16.840.1.114412.0.1.4]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 2E 68 74 74 70 3A 2F   2F 77 77 77 2E 64 69 67  ..http://www.dig
+0010: 69 63 65 72 74 2E 63 6F   6D 2F 73 73 6C 2D 63 70  icert.com/ssl-cp
+0020: 73 2D 72 65 70 6F 73 69   74 6F 72 79 2E 68 74 6D  s-repository.htm
+
+], PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.2
+  qualifier: 0000: 30 82 01 56 1E 82 01 52   00 41 00 6E 00 79 00 20  0..V...R.A.n.y. 
+0010: 00 75 00 73 00 65 00 20   00 6F 00 66 00 20 00 74  .u.s.e. .o.f. .t
+0020: 00 68 00 69 00 73 00 20   00 43 00 65 00 72 00 74  .h.i.s. .C.e.r.t
+0030: 00 69 00 66 00 69 00 63   00 61 00 74 00 65 00 20  .i.f.i.c.a.t.e. 
+0040: 00 63 00 6F 00 6E 00 73   00 74 00 69 00 74 00 75  .c.o.n.s.t.i.t.u
+0050: 00 74 00 65 00 73 00 20   00 61 00 63 00 63 00 65  .t.e.s. .a.c.c.e
+0060: 00 70 00 74 00 61 00 6E   00 63 00 65 00 20 00 6F  .p.t.a.n.c.e. .o
+0070: 00 66 00 20 00 74 00 68   00 65 00 20 00 44 00 69  .f. .t.h.e. .D.i
+0080: 00 67 00 69 00 43 00 65   00 72 00 74 00 20 00 43  .g.i.C.e.r.t. .C
+0090: 00 50 00 2F 00 43 00 50   00 53 00 20 00 61 00 6E  .P./.C.P.S. .a.n
+00A0: 00 64 00 20 00 74 00 68   00 65 00 20 00 52 00 65  .d. .t.h.e. .R.e
+00B0: 00 6C 00 79 00 69 00 6E   00 67 00 20 00 50 00 61  .l.y.i.n.g. .P.a
+00C0: 00 72 00 74 00 79 00 20   00 41 00 67 00 72 00 65  .r.t.y. .A.g.r.e
+00D0: 00 65 00 6D 00 65 00 6E   00 74 00 20 00 77 00 68  .e.m.e.n.t. .w.h
+00E0: 00 69 00 63 00 68 00 20   00 6C 00 69 00 6D 00 69  .i.c.h. .l.i.m.i
+00F0: 00 74 00 20 00 6C 00 69   00 61 00 62 00 69 00 6C  .t. .l.i.a.b.i.l
+0100: 00 69 00 74 00 79 00 20   00 61 00 6E 00 64 00 20  .i.t.y. .a.n.d. 
+0110: 00 61 00 72 00 65 00 20   00 69 00 6E 00 63 00 6F  .a.r.e. .i.n.c.o
+0120: 00 72 00 70 00 6F 00 72   00 61 00 74 00 65 00 64  .r.p.o.r.a.t.e.d
+0130: 00 20 00 68 00 65 00 72   00 65 00 69 00 6E 00 20  . .h.e.r.e.i.n. 
+0140: 00 62 00 79 00 20 00 72   00 65 00 66 00 65 00 72  .b.y. .r.e.f.e.r
+0150: 00 65 00 6E 00 63 00 65   00 2E                    .e.n.c.e..
+
+]]  ]
+  [CertificatePolicyId: [2.16.840.1.114412.3.21]
+[]  ]
+]
+
+#6: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  serverAuth
+  clientAuth
+  codeSigning
+  emailProtection
+  timeStamping
+]
+
+#7: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+#8: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 15 00 12 2B 13 98 B2 99   07 ED 1E DF A2 BE 57 0D  ...+..........W.
+0010: 2B 67 02 CD                                        +g..
+]
+]
+
+

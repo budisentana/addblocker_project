@@ -1,0 +1,12 @@
+file_name,class_name,package_component,detail
+net.upx.proxy.browser.apk,assets/webapk7.dex,compiler,['r8']
+net.upx.proxy.browser.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+net.upx.proxy.browser.apk,classes.dex,compiler,['r8']
+com.ecosia.android.apk,assets/webapk7.dex,compiler,['r8 without marker (suspicious)']
+com.ecosia.android.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'SIM operator check', 'network operator name check']"
+com.ecosia.android.apk,classes.dex,compiler,['r8 without marker (suspicious)']
+com.ecosia.android.apk,classes2.dex,compiler,['r8 without marker (suspicious)']
+com.drweb.apk,classes.dex,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.drweb.apk,classes.dex,anti_debug,['Debug.isDebuggerConnected() check']
+com.drweb.apk,classes.dex,compiler,['dexlib 2.x']
+com.drweb.apk,classes.dex,obfuscator,"['unreadable field names', 'unreadable method names']"

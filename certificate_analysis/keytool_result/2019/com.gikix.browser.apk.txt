@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=www.gikix.com, OU=Mobile development, O=Net Smart Web, L=Paris, ST=France, C=FR
+Issuer: CN=www.gikix.com, OU=Mobile development, O=Net Smart Web, L=Paris, ST=France, C=FR
+Serial number: 3e25c790
+Valid from: Thu Dec 15 22:21:24 AEDT 2016 until: Mon May 02 21:21:24 AEST 2044
+Certificate fingerprints:
+	 SHA1: 15:64:04:E3:44:81:E5:6B:D8:FE:80:42:B1:FF:22:C0:71:B9:7D:2D
+	 SHA256: 4A:9F:5D:F9:CA:55:33:43:54:51:D4:88:83:FE:54:00:9C:D9:50:82:7F:70:27:82:7E:BE:93:BD:35:F3:11:9C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 25 5F 4A A1 40 75 7F A9   A8 2F AB CA E0 70 98 A7  %_J.@u.../...p..
+0010: BD C7 11 DB                                        ....
+]
+]
+
+

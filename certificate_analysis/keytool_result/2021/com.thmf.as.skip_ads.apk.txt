@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=yc
+Issuer: CN=yc
+Serial number: 2b86e9cc
+Valid from: Tue Feb 14 18:01:59 AEDT 2017 until: Sat Feb 08 18:01:59 AEDT 2042
+Certificate fingerprints:
+	 SHA1: F7:87:EE:8D:35:C3:05:AC:9D:BE:CF:77:53:BD:6C:90:53:35:7B:F7
+	 SHA256: C4:82:82:7B:63:8C:92:FA:67:0B:C5:BF:B9:4A:A1:83:EA:B5:47:B1:B4:64:E0:19:90:A6:36:DE:50:9E:0D:DA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9E BE 14 11 BC CE 37 D3   83 69 54 65 B5 8C 40 E9  ......7..iTe..@.
+0010: 54 7F 68 4D                                        T.hM
+]
+]
+
+

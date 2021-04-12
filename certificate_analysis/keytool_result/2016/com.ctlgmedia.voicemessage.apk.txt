@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=CTLG Media
+Issuer: O=CTLG Media
+Serial number: 7b0cb62
+Valid from: Wed Feb 11 03:01:19 AEDT 2015 until: Sun Feb 05 03:01:19 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 78:B2:29:CF:0C:B4:46:05:C6:FD:43:BA:BD:7E:B2:D5:8D:41:76:08
+	 SHA256: F3:27:0C:FE:1E:37:7C:6E:F7:65:AC:A3:B3:03:3F:78:5A:92:C5:37:C1:63:BD:DA:A6:FB:6B:4B:42:19:5A:70
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9E F7 B2 50 B1 9C 34 4A   08 B6 6A BA 76 1A 28 18  ...P..4J..j.v.(.
+0010: FA A7 9A 55                                        ...U
+]
+]
+
+

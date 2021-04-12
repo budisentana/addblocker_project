@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Marshall O'Bryant, OU=Unknown, O=Martho Games, L=Arlington, ST=Washington, C=US
+Issuer: CN=Marshall O'Bryant, OU=Unknown, O=Martho Games, L=Arlington, ST=Washington, C=US
+Serial number: 5345ce7b
+Valid from: Thu Apr 10 08:49:31 AEST 2014 until: Mon Aug 26 08:49:31 AEST 2041
+Certificate fingerprints:
+	 SHA1: AD:8A:B9:E3:5B:7E:FA:17:10:52:C1:B0:3F:7C:2B:DF:02:15:EF:8C
+	 SHA256: 1E:69:82:85:25:18:B1:6A:48:46:01:F1:B2:3C:C1:BF:37:89:B3:97:3E:17:7F:E7:34:43:87:BA:C7:EA:3F:11
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

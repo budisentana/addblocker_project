@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Nick M, L=Roswell, ST=GA, C=30075
+Issuer: CN=Nick M, L=Roswell, ST=GA, C=30075
+Serial number: 2ba232ef
+Valid from: Thu Jul 12 03:07:04 AEST 2012 until: Mon Jul 06 03:07:04 AEST 2037
+Certificate fingerprints:
+	 SHA1: D3:7D:3C:FE:33:15:5B:80:5D:06:EB:BD:6E:0A:D0:D3:12:B7:02:64
+	 SHA256: 1E:FE:C6:26:54:C8:A4:74:44:28:12:45:1D:17:BD:93:3F:70:E8:02:4A:46:AB:CD:29:C4:A7:FA:90:25:5E:43
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7B 9A 59 35 B9 50 BB 1D   D8 20 41 E3 C7 B9 2C 47  ..Y5.P... A...,G
+0010: 2A D5 D4 42                                        *..B
+]
+]
+
+

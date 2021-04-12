@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=金山网络, OU=金山毒霸, O=金山网络, L=珠海, ST=广东, C=86
+Issuer: CN=金山网络, OU=金山毒霸, O=金山网络, L=珠海, ST=广东, C=86
+Serial number: 50278172
+Valid from: Sun Aug 12 20:12:02 AEST 2012 until: Thu Aug 06 20:12:02 AEST 2037
+Certificate fingerprints:
+	 SHA1: F6:B8:93:99:E0:83:9D:C3:1B:76:45:BF:1C:C2:2E:84:34:9E:7F:7E
+	 SHA256: 23:8D:F1:28:8B:E9:DA:35:1D:2E:74:33:6F:8E:34:4A:F4:ED:26:3A:5A:34:96:40:35:75:93:85:CC:68:E0:CE
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

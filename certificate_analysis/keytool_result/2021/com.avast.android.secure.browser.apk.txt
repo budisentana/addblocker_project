@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Secure Browser, O=Avast, L=Redwood City, ST=California, C=US
+Issuer: CN=Unknown, OU=Secure Browser, O=Avast, L=Redwood City, ST=California, C=US
+Serial number: 418b9ab854ad153d
+Valid from: Sun Feb 16 08:43:38 AEDT 2020 until: Tue Jan 23 08:43:38 AEDT 2120
+Certificate fingerprints:
+	 SHA1: 95:35:96:F9:BF:73:57:F5:45:33:DA:A0:45:DF:19:E2:00:3D:AC:22
+	 SHA256: 64:1E:DE:EC:68:DF:DC:FA:30:78:34:F7:3E:7E:8F:D2:6A:53:15:E5:62:A3:69:17:B1:5D:B6:81:62:5D:0B:40
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CE 0E 2E 39 68 45 93 6F   73 17 BA 4F 4D A4 7A 77  ...9hE.os..OM.zw
+0010: ED F7 25 83                                        ..%.
+]
+]
+
+

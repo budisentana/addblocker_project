@@ -1,0 +1,42 @@
+Signer #1:
+
+Signature:
+
+Owner: EMAILADDRESS=android@cloudmosa.com, CN=Puffin, OU=Cloudmosa, O=cloudmosa.com, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@cloudmosa.com, CN=Puffin, OU=Cloudmosa, O=cloudmosa.com, L=Mountain View, ST=California, C=US
+Serial number: 9dead53e0f67d918
+Valid from: Mon Nov 22 20:44:27 AEDT 2010 until: Fri Apr 09 19:44:27 AEST 2038
+Certificate fingerprints:
+	 SHA1: 81:2D:40:8E:09:D6:EC:C9:60:EB:6A:0C:63:A1:91:EA:DF:01:42:16
+	 SHA256: 9A:23:78:CC:2C:A5:7D:DF:8C:A4:73:59:42:59:85:AA:B4:67:B5:79:B7:81:13:95:37:82:E4:A4:7C:43:7C:59
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 92 D1 7B 02 06 33 B6 4E   CF CC 83 9F F5 28 43 D0  .....3.N.....(C.
+0010: 9C 42 0D A6                                        .B..
+]
+[EMAILADDRESS=android@cloudmosa.com, CN=Puffin, OU=Cloudmosa, O=cloudmosa.com, L=Mountain View, ST=California, C=US]
+SerialNumber: [    9dead53e 0f67d918]
+]
+
+#2: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#3: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 92 D1 7B 02 06 33 B6 4E   CF CC 83 9F F5 28 43 D0  .....3.N.....(C.
+0010: 9C 42 0D A6                                        .B..
+]
+]
+
+

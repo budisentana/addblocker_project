@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=swifappy, O=swifappy, L=gwalior
+Issuer: CN=swifappy, O=swifappy, L=gwalior
+Serial number: 676abe38
+Valid from: Sun Mar 26 21:15:57 AEDT 2017 until: Fri Jul 28 20:15:57 AEST 3015
+Certificate fingerprints:
+	 SHA1: B5:32:12:98:33:DB:7C:CD:A2:81:84:36:37:36:B2:28:8B:3B:EC:27
+	 SHA256: 77:03:05:DE:D6:1A:7F:2B:A8:2D:84:A0:92:97:2A:9D:E2:CB:DE:6C:9E:02:C8:91:99:83:49:31:78:59:7C:C9
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8C AA 62 8E A9 BB 4A E3   65 3A FD 32 0C 9B 36 25  ..b...J.e:.2..6%
+0010: 9C 2B 30 13                                        .+0.
+]
+]
+
+

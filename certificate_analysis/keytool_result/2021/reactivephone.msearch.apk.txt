@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=smartsearch, OU=Head department, O=Reactive Phone Soltions, L=Izhevsk, ST=None, C=RU
+Issuer: CN=smartsearch, OU=Head department, O=Reactive Phone Soltions, L=Izhevsk, ST=None, C=RU
+Serial number: 54202c23
+Valid from: Tue Sep 23 00:07:50 AEST 2014 until: Tue Sep 23 00:07:50 AEST 2064
+Certificate fingerprints:
+	 SHA1: 42:B3:D5:30:7A:56:13:EF:DF:DC:61:A0:E2:8B:AA:C1:88:87:6F:5E
+	 SHA256: 53:D2:A5:E0:9C:30:7C:CF:95:6C:84:DE:51:3B:6A:9D:B8:1C:B4:32:54:E4:94:7A:4D:56:DB:58:63:E2:25:EA
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=siddharth raja, OU=oraculous services, O=oraculous services, L=rajkot, ST=gujarat, C=91
+Issuer: CN=siddharth raja, OU=oraculous services, O=oraculous services, L=rajkot, ST=gujarat, C=91
+Serial number: 201b2788
+Valid from: Wed Dec 10 01:19:49 AEDT 2014 until: Thu Nov 27 01:19:49 AEDT 2064
+Certificate fingerprints:
+	 SHA1: C4:7F:4C:C5:39:B6:5D:B4:21:F5:71:51:1E:D3:C1:AF:39:8F:4E:72
+	 SHA256: C3:D9:75:86:CC:D3:D9:55:E9:09:88:0E:04:97:CF:14:F8:42:18:31:ED:1D:4E:40:6F:87:26:8F:4D:1D:12:EA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 69 0A 67 04 E2 9D 77 C4   4F 87 35 9A 7B 06 53 54  i.g...w.O.5...ST
+0010: 68 EE 8F 8E                                        h...
+]
+]
+
+

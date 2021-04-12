@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Akash Dixit, OU=Omigo, O=Omigo, L=Agra, ST=Uttar Pradesh, C=IN
+Issuer: CN=Akash Dixit, OU=Omigo, O=Omigo, L=Agra, ST=Uttar Pradesh, C=IN
+Serial number: 4e690fe3
+Valid from: Tue Feb 14 10:54:10 AEDT 2017 until: Sat Feb 08 10:54:10 AEDT 2042
+Certificate fingerprints:
+	 SHA1: 01:43:BF:68:43:06:9F:0C:F1:4D:7D:34:1D:03:12:99:09:09:B8:C7
+	 SHA256: C9:5C:AD:C3:26:DA:E4:5B:14:30:B7:0B:30:7D:E7:74:7E:47:DA:97:F5:43:11:AA:14:A2:A6:56:0D:A9:9B:16
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B4 0B 30 38 32 BC D3 79   A3 DE C0 1E AE 85 70 C6  ..082..y......p.
+0010: 1D E0 96 4F                                        ...O
+]
+]
+
+

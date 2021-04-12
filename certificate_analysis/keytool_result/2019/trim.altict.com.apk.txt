@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=editor
+Issuer: CN=editor
+Serial number: 231bc320
+Valid from: Sun Jan 10 19:03:09 AEDT 2016 until: Tue Dec 17 19:03:09 AEDT 2115
+Certificate fingerprints:
+	 SHA1: 92:7C:A4:49:49:D7:78:8A:A8:6F:9D:7F:04:D7:FD:AC:EC:D1:DF:B9
+	 SHA256: 62:15:F0:0B:AA:4B:F1:8B:AB:57:92:FC:79:6B:FC:55:55:91:72:40:F1:4F:7C:7E:67:2D:95:68:88:D7:5C:96
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CF 89 A6 F8 C8 0D 97 A3   C7 77 3E B2 51 F3 F4 72  .........w>.Q..r
+0010: C1 9F 77 CC                                        ..w.
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Rocketshield Inc, C=HK
+Issuer: O=Rocketshield Inc, C=HK
+Serial number: 6386865a
+Valid from: Fri Dec 22 05:31:43 AEDT 2017 until: Tue Dec 16 05:31:43 AEDT 2042
+Certificate fingerprints:
+	 SHA1: B0:0A:80:A2:F8:A3:B9:9E:98:94:F8:1B:11:FF:8F:C7:5A:96:58:71
+	 SHA256: E1:C9:6D:DA:7F:CC:7C:0B:E1:A9:1F:D9:36:9A:01:C6:C1:22:F0:E8:BE:51:B8:EC:0E:9D:18:68:6F:4C:DF:12
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CE EA AE AF AC 7B EE B0   6E 45 CD 3B 75 EA E0 2D  ........nE.;u..-
+0010: 3D 4D 35 F5                                        =M5.
+]
+]
+
+

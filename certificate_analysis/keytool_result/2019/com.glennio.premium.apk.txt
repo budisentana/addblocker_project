@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Rahul Verma, L=Chandigarh, ST=Chandiagarh, C=91
+Issuer: CN=Rahul Verma, L=Chandigarh, ST=Chandiagarh, C=91
+Serial number: 511d53bd
+Valid from: Fri Feb 15 08:14:37 AEDT 2013 until: Tue Feb 09 08:14:37 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 98:16:A5:93:61:CC:D7:C3:35:42:20:5D:A5:C7:17:8F:32:F3:80:42
+	 SHA256: 7B:01:C4:E6:26:81:2A:F8:72:8A:56:2D:42:B0:AA:4D:2F:4F:79:FE:05:48:6F:6A:12:3B:65:3F:57:1C:30:74
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

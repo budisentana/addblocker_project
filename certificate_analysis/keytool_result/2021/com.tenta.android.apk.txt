@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Tenta Browser, OU=Tenta Browser, O=Innovative Mobile Endeavors, L=Seattle, ST=Washington, C=US
+Issuer: CN=Tenta Browser, OU=Tenta Browser, O=Innovative Mobile Endeavors, L=Seattle, ST=Washington, C=US
+Serial number: 41c7a9ad
+Valid from: Tue Apr 05 16:27:46 AEST 2016 until: Wed Mar 03 17:27:46 AEDT 4754
+Certificate fingerprints:
+	 SHA1: 9C:A8:1D:B6:57:2F:D8:DF:E5:A3:44:4C:14:6A:EC:58:BE:6D:53:50
+	 SHA256: D7:96:EB:A4:8B:AA:BF:20:B1:39:A3:1C:E2:28:12:B0:7C:5A:20:44:93:97:AA:8B:BA:73:D7:8F:89:34:7B:CE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F3 DB 78 14 98 63 19 87   1E 13 60 DE 17 FB 1B 78  ..x..c....`....x
+0010: 2A 96 40 79                                        *.@y
+]
+]
+
+

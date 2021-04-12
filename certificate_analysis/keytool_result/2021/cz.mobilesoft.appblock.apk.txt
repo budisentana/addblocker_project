@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=MobileSoft s.r.o., L=Cerveny Kostelec, ST=Czech republic
+Issuer: O=MobileSoft s.r.o., L=Cerveny Kostelec, ST=Czech republic
+Serial number: 5bff31be
+Valid from: Tue Oct 27 21:23:41 AEDT 2015 until: Sat Oct 20 21:23:41 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 38:95:43:F2:50:25:8F:88:FD:F8:7E:40:D3:F5:B4:FE:F6:E4:74:84
+	 SHA256: A3:B0:00:87:49:71:5A:19:DD:2C:BB:08:DF:14:B0:9C:2E:D3:4C:82:8E:AF:4E:1A:D4:68:DA:BE:8F:97:C9:8C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E4 05 CC B4 A9 54 3E 62   DE F0 64 73 20 D3 8F 95  .....T>b..ds ...
+0010: 73 DC DC E0                                        s...
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Javad Taghia, OU=LC, O=ZewCO, L=Australia, ST=Sydney, C=AU
+Issuer: CN=Javad Taghia, OU=LC, O=ZewCO, L=Australia, ST=Sydney, C=AU
+Serial number: 178e035f
+Valid from: Thu Jan 14 20:24:20 AEDT 2016 until: Mon Jan 07 20:24:20 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 64:6E:47:48:10:28:DF:26:4E:F8:70:46:08:23:02:C6:99:05:C2:43
+	 SHA256: 4C:62:2D:DB:E9:74:C1:DB:52:46:E8:53:8C:B5:64:7B:18:1C:19:50:79:C8:9B:76:6B:D6:88:19:C6:21:25:4F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 2A EF E9 BA AD D8 3B B6   ED 37 94 5B 81 F3 83 E3  *.....;..7.[....
+0010: 3F 50 73 45                                        ?PsE
+]
+]
+
+

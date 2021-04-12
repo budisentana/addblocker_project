@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Brent Montrose, O=BetaFish, L=Houston, ST=TX, C=US
+Issuer: CN=Brent Montrose, O=BetaFish, L=Houston, ST=TX, C=US
+Serial number: 4236b3f3
+Valid from: Sun Jan 24 04:44:15 AEDT 2016 until: Thu Jan 17 04:44:15 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 8A:EC:F9:16:01:54:A8:0C:5E:F8:EA:77:26:21:1F:1C:8D:6E:DA:1E
+	 SHA256: 4F:FC:F0:F1:02:97:10:0D:33:09:C8:EB:09:EB:E7:FC:D6:4F:FB:C0:27:7C:C3:CC:55:4B:87:12:E3:6C:59:A4
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 82 A1 9F 43 B0 BB 90 BB   1A D9 32 98 CA 6A 1C 92  ...C......2..j..
+0010: 9E 87 82 EB                                        ....
+]
+]
+
+

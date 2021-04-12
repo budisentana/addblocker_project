@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Solusi Dua Satu, OU=Technology Enabler, O=Solusi Dua Satu, L=Jakarta, ST=Jakarta, C=ID
+Issuer: CN=Solusi Dua Satu, OU=Technology Enabler, O=Solusi Dua Satu, L=Jakarta, ST=Jakarta, C=ID
+Serial number: c663441
+Valid from: Sat Mar 15 10:33:25 AEDT 2014 until: Sat Mar 06 10:33:25 AEDT 2049
+Certificate fingerprints:
+	 SHA1: 3E:C3:05:AD:8A:4E:0F:F8:27:B9:14:BD:DD:9D:FB:02:4B:25:E6:94
+	 SHA256: 24:FC:02:B9:81:3A:BE:20:04:7F:16:70:2A:6F:A9:44:38:E2:88:51:DD:68:7B:49:92:8E:85:3A:9F:7E:DF:85
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B5 72 36 4B CC C7 8F F3   F7 76 F6 47 BC 93 1B 8C  .r6K.....v.G....
+0010: E7 21 CA 1D                                        .!..
+]
+]
+
+

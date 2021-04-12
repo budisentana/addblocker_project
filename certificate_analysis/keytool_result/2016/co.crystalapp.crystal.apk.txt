@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Dean Murphy, OU=Development, O=Murphy Apps LTD, L=Yarm, ST=Teesside, C=UK
+Issuer: CN=Dean Murphy, OU=Development, O=Murphy Apps LTD, L=Yarm, ST=Teesside, C=UK
+Serial number: 56a03651
+Valid from: Thu Jan 21 12:37:21 AEDT 2016 until: Mon Jan 14 12:37:21 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 6D:64:6B:53:62:2D:45:8B:69:A0:9F:10:84:31:A2:C7:A7:45:26:C8
+	 SHA256: 55:E3:EB:B2:BB:11:08:72:B6:1C:12:29:64:98:C6:49:E4:0B:65:95:F4:0E:CD:A7:62:12:36:77:F2:74:14:A0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

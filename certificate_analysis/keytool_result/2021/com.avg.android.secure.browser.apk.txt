@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AVG Browser, OU=Secure Browser, O=AVG, L=Redwood City, ST=California, C=US
+Issuer: CN=AVG Browser, OU=Secure Browser, O=AVG, L=Redwood City, ST=California, C=US
+Serial number: 373c7180be624660
+Valid from: Wed Feb 26 20:30:19 AEDT 2020 until: Tue Jun 29 19:30:19 AEST 3019
+Certificate fingerprints:
+	 SHA1: 62:CD:3D:D1:F9:04:1A:B8:99:37:A9:0F:84:C6:26:ED:71:25:9B:E5
+	 SHA256: 7F:51:7F:28:6A:B0:30:FC:FF:21:50:B0:9F:62:66:C9:0D:FA:0F:A9:5E:99:FF:E3:76:B9:57:59:4E:3C:0C:94
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 24 CA FF AA 84 E9 1B D6   E6 A5 EF 90 F0 CA A5 40  $..............@
+0010: AA DD FA 65                                        ...e
+]
+]
+
+

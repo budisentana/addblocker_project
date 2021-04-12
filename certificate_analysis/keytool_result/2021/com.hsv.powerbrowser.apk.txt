@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Zhan Wei, OU=Power Browser, O="Rocketshield, Inc.", L=Hongkong, ST=Central, C=HK
+Issuer: CN=Zhan Wei, OU=Power Browser, O="Rocketshield, Inc.", L=Hongkong, ST=Central, C=HK
+Serial number: 5d5d0136
+Valid from: Sun May 03 00:28:18 AEST 2015 until: Thu Sep 18 00:28:18 AEST 2042
+Certificate fingerprints:
+	 SHA1: 8C:83:66:F2:FC:1D:90:95:45:AF:A1:65:6E:A5:8B:F5:E2:9F:1C:37
+	 SHA256: 3C:6B:9B:B1:FE:48:EE:CB:DB:EE:30:25:9F:42:32:CB:63:E7:FC:4A:4A:20:FB:1A:B0:A4:DB:56:F8:CF:97:A9
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AC 22 73 F6 BA 6C F9 6C   7B B7 37 1A CB 3A 66 C1  ."s..l.l..7..:f.
+0010: AE DB BA D0                                        ....
+]
+]
+
+

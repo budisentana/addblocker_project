@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=ohnam kwon, OU=dev, O=LYL Studio, ST=Seoul, C=kr
+Issuer: CN=ohnam kwon, OU=dev, O=LYL Studio, ST=Seoul, C=kr
+Serial number: 56d7f74f
+Valid from: Thu Mar 03 19:35:27 AEDT 2016 until: Sat Feb 24 19:35:27 AEDT 2046
+Certificate fingerprints:
+	 SHA1: 1A:3D:F2:41:D8:91:7B:2F:75:C1:44:93:10:91:42:6E:15:EF:D0:B1
+	 SHA256: 52:98:12:EB:F8:5C:BB:5F:CB:0F:D1:F9:7B:C3:27:3A:EB:8D:86:83:87:25:3B:3C:48:01:54:FA:2B:C4:F0:50
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

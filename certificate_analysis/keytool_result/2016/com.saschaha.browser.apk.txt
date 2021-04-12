@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Sascha Haubold, L=Bielefeld, ST=Deutschland, C=DE
+Issuer: CN=Sascha Haubold, L=Bielefeld, ST=Deutschland, C=DE
+Serial number: 26f093fa
+Valid from: Sat Feb 22 04:12:37 AEDT 2014 until: Mon Jan 29 04:12:37 AEDT 2114
+Certificate fingerprints:
+	 SHA1: 18:9F:EB:1C:EC:D1:81:51:BB:D0:0E:C1:C9:C3:CE:DC:46:0F:D3:2F
+	 SHA256: 48:91:FD:85:29:5A:07:E4:3A:65:48:EE:0B:67:EC:25:A4:07:04:15:3B:88:AD:38:E8:F7:50:B0:BC:E8:6D:EE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CE 98 09 A8 24 39 B9 84   25 1B 6A E7 26 A5 0A 04  ....$9..%.j.&...
+0010: 68 54 23 4A                                        hT#J
+]
+]
+
+

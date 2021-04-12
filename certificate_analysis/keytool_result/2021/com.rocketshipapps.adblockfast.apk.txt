@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Brian Kennish, OU=Engineering, O=Rocketship, L=Palo Alto, ST=California, C=US
+Issuer: CN=Brian Kennish, OU=Engineering, O=Rocketship, L=Palo Alto, ST=California, C=US
+Serial number: 56937d10
+Valid from: Mon Jan 11 20:59:44 AEDT 2016 until: Sun May 14 19:59:44 AEST 3015
+Certificate fingerprints:
+	 SHA1: 2E:76:CB:6B:C9:09:5F:1B:F3:6B:E0:C7:EA:31:F8:AD:02:CA:54:DD
+	 SHA256: 6C:CB:53:5A:0D:E7:A7:60:A4:37:64:B2:88:D5:0F:62:C8:B1:62:9A:75:BA:95:A8:4F:E8:F9:21:A3:29:D8:03
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

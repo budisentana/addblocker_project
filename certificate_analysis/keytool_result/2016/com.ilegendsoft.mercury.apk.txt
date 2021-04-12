@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=bullda, O=ilegendsoft
+Issuer: CN=bullda, O=ilegendsoft
+Serial number: 51ee2e87
+Valid from: Tue Jul 23 17:19:35 AEST 2013 until: Mon Nov 23 18:19:35 AEDT 3012
+Certificate fingerprints:
+	 SHA1: 00:19:29:3F:10:67:A4:A6:01:F4:FB:05:EF:78:B3:5D:6A:DE:F3:AC
+	 SHA256: 09:D7:55:A3:4E:15:A2:37:6E:06:AA:24:E3:45:18:F9:E6:F9:7B:BD:3A:AD:9B:00:A2:72:DC:84:8F:A7:BC:9A
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Magellan Browser And Adblocker, O=Magellan Browser And Adblocker, L=London, ST=Southwark, C=UK
+Issuer: CN=Magellan Browser And Adblocker, O=Magellan Browser And Adblocker, L=London, ST=Southwark, C=UK
+Serial number: 3ab614c9
+Valid from: Sun Dec 23 18:31:58 AEDT 2018 until: Thu Dec 17 18:31:58 AEDT 2043
+Certificate fingerprints:
+	 SHA1: 54:BA:7E:DC:C1:EB:8A:3B:3C:AE:03:73:78:7B:6D:7B:5D:F5:74:BB
+	 SHA256: E3:E1:74:1B:42:59:C0:4F:7C:4A:DC:84:C2:40:59:5B:7D:F8:22:D7:E3:46:02:33:D8:BC:E7:B6:0A:F2:9F:8F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 42 53 35 3E 06 FF C1 DA   79 58 3D 9C DF 7E 16 1D  BS5>....yX=.....
+0010: F1 AC 9E 80                                        ....
+]
+]
+
+

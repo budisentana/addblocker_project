@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=vishani
+Issuer: CN=vishani
+Serial number: 1a08a631
+Valid from: Wed Oct 26 00:04:07 AEDT 2016 until: Sun Oct 20 00:04:07 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 78:08:1D:6A:F4:E1:EC:F1:F5:FD:A6:50:E2:64:F4:D5:B6:34:B1:58
+	 SHA256: 1D:7B:B5:E9:F6:7D:78:95:7F:A9:E3:51:92:04:15:79:65:06:27:C4:94:C3:7E:65:0E:28:C7:21:31:12:CF:CF
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 53 17 02 43 42 EC BF 66   51 11 FA 6F 8E 6D EA 07  S..CB..fQ..o.m..
+0010: 24 10 1F 91                                        $...
+]
+]
+
+

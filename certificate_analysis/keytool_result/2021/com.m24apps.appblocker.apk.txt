@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Rajeev, OU=m24apps, O=m24apps, L=Gurugram, ST=Haryana, C=91
+Issuer: CN=Rajeev, OU=m24apps, O=m24apps, L=Gurugram, ST=Haryana, C=91
+Serial number: 56a87584
+Valid from: Wed Jan 09 19:42:39 AEDT 2019 until: Sun Jan 03 19:42:39 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 9C:ED:7C:98:91:6D:6E:95:2E:71:41:00:01:34:FC:3F:C3:8F:D7:D8
+	 SHA256: FC:A2:36:4D:1A:FC:1F:4C:EB:6E:F4:31:A6:72:5B:30:AD:03:ED:CB:7F:A7:0A:59:32:47:7E:E4:BD:D3:7A:99
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 97 CB A8 78 2C 8D 7D CA   F3 7B 49 C1 5F C5 8C 6A  ...x,.....I._..j
+0010: CC C4 6F 11                                        ..o.
+]
+]
+
+

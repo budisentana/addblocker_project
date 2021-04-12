@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Fanny, OU="Comodo Security Solutions, INC.", O="Comodo Security Solutions, INC.", L=New Jersey, ST=Jersey City, C=US
+Issuer: CN=Fanny, OU="Comodo Security Solutions, INC.", O="Comodo Security Solutions, INC.", L=New Jersey, ST=Jersey City, C=US
+Serial number: 4ec369c1
+Valid from: Wed Nov 16 18:44:01 AEDT 2011 until: Thu Aug 19 17:44:01 AEST 2066
+Certificate fingerprints:
+	 SHA1: 3C:0F:0B:C6:1C:5F:0A:2F:1D:31:38:07:02:A6:DF:39:23:CE:3D:B0
+	 SHA256: B5:56:99:8C:74:04:8C:1C:98:09:28:B4:D0:0D:56:22:6C:04:3A:77:6F:DD:94:65:F5:F7:50:34:22:EB:5F:09
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

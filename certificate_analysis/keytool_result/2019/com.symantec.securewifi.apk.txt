@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=puma, OU=Symantec, O=Mobile, L=BJ, ST=BJ, C=CN
+Issuer: CN=puma, OU=Symantec, O=Mobile, L=BJ, ST=BJ, C=CN
+Serial number: 4bcc2319
+Valid from: Mon Apr 19 19:32:09 AEST 2010 until: Fri Sep 04 19:32:09 AEST 2037
+Certificate fingerprints:
+	 SHA1: 35:3C:B8:F9:65:DF:B6:AF:8B:01:C1:7C:84:7B:79:21:FC:CD:60:E7
+	 SHA256: D6:82:9A:71:BA:85:B2:52:91:18:8A:5D:87:FA:82:19:A2:B5:D0:66:2C:5E:11:C1:87:22:34:A8:17:D8:34:5C
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,485 @@
+file_name,signature,key_length
+com.uc.browser1.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+net.upx.proxy.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.blindcut.flutter.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.mozilla.firefox.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+fast.secure.light.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.cake.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.jawaid.firebrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.mario.app.protection.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+acr.browser.barebones.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.ume.browser.international.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+mark.via.gp.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+cm.browser.privatewindow.download.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.agooday.skipads.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.brave.browser.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.opera.browser.beta.apk.txt, SHA1 + DSA (weak)," 1024-bit DSA key (weak)
+"
+com.haasinc.falKonpp.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.lookout.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.camhart.pornblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.ad_detector.airpushdetector.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.mi.globalbrowser.mini.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+fast.explorer.web.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.plustwo.skipads.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.xbrowser.play.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.sahani2020.blaze.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+co.easy4u.ncleaner.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.cobalt.app.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.utube.videotube.vanced.kit.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.hsv.freeadblockerbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.coccoc.trinhduyet.apk.txt,,
+com.shaon.pmbrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.skip.video.ads.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+ai.blokee.browser.android.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.apusapps.browser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.duckduckgo.mobile.android.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+io.friendly.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.rocketshipapps.adblockfast.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.kiwibrowser.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+app.no.vpn.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.antiporn.pornoblock.safebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.wavesnet.www.mybrowser1.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.sibimobilelab.amazebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+popup.ads.detector.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+matt.playtube.videotube.vancedtube.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.everaccountable.bulldog.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.rucksack.adblock.anti_tracking.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.qk.search.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.oorweb.uc.Activity.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.joettaapps.adblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.kuto.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.rhaon.ad_skip.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.kawkaw.pornblocker.safebrowser.up.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.ume.browser.cust.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.farestld.black_tiger_browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.eagle.web.browser.internet.privacy.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+mtc.milesthecreator.adsaway.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.securebrowser.private.safesearch.adblock.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+adblocker.lite.browser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.opera.touch.apk.txt, SHA384 + RSA," 4096-bit RSA key
+"
+com.mini.web.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.dolphin.browser.android.jp.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.uc.browser.en.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.expecode.toweb.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+made.in.india.adfreemusic.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.segfaultstudios.suckmyads.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.yandex.browser.alpha.apk.txt, SHA1 + DSA (weak)," 1024-bit DSA key (weak)
+"
+to.freedom.android2.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+org.mozilla.firefox_beta.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.osiris.browser.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.appsisland.ads.shield.content.blocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.transsion.phoenix.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.insher.main.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.udicorn.proxybrowser.unblockwebsites.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.hsv.privatebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+appinventor.ai_rockanarghya.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.saschaha.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+io.funswitch.blocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+de.mcs.mcsbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.opera.browser.apk.txt, SHA1 + DSA (weak)," 1024-bit DSA key (weak)
+"
+com.oh.bro.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.vivaldi.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.blackbrowser.newsoft.blackbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.indian.browser.fast.web.browsing.free.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.OlyFox.webbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+co.blocksite.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.getfilefrom.browserdownloader.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.blocker.adblockxprotector.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.triple.banana.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.pt.tool.away.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.smsBlocker.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.rotech.bloqueiaanuncios.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.spear_adblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.rotech.adblock.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.familyfirsttechnology.pornblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.adblocker.turbo.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+app.stampy.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+dnsfilter.android.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.jimeem.fast.lite.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+ru.sputnik.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.adblocker.ashazapps.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.merxury.blocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.torproject.torbrowser_alpha.apk.txt, SHA256 + RSA," 3072-bit RSA key
+"
+com.lostnet.fw.free.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.kms.free.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.blink.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.seven.adclear.fsb.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+org.malwarebytes.antimalware.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.rucksack.adblock.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.disconnect.samsungcontentblocker.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.fast.turbobrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.ucturbo.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.ume.browser.bose.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.magellanbrowser.adblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.AugmentedWorld.NOMOREADS.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.mc.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.kiddoware.kidsafebrowser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.eagle.web.browser.fast.privacy.browsers.donwloads.free.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.symantec.securewifi.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+mobi.mgeek.TunnyBrowser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+org.adblockplus.adblockplussbrowser.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.opera.oxbrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.mx.browser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.emmanuelmolefi.skipadsapp.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.eset.ems2.gp.apk.txt, SHA1 + RSA (weak)," 4096-bit RSA key
+"
+com.cookiegames.smartcookie.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.keepsolid.privatebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.khashayar.netshield.browsers.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.comodo.cisme.antivirus.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.gobest.goclean.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+net.bluehack.blu.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.consulenza.umbrellacare.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.pure.mini.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.crdev.AdsStopper.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.alohamobile.browser.lite.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.wTopTon_11625919.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.tenta.android.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.psafe.vpn.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+net.browsetech.adremover.android.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.hanstudio.notifyblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.thmf.as.skip_ads.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.browser.tssomas.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.appybuilder.asier_oyanguren.adApp2.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.avg.android.secure.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.blocknotification.gamemode.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.avast.android.secure.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.droid.netflixIMDB.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.dolphin.browser.engine.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+co.madseven.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.thefrenchsoftware.radiomusicbox.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.stealthmobile.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+entertainment.privatebrowser.vnstore.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.stayfocused.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.browser.yo.indian.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.nitron.mintbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+org.adblockplus.browser.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.avira.android.apk.txt, SHA1 + RSA (weak)," 4096-bit RSA key
+"
+reactivephone.msearch.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.nordvpn.android.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+co.crystalapp.crystal.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.bestnewstopadvideoonlinetips.govidestopdeguidetips.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.india.ucbrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.noad.it.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.nationaledtech.spinbrowser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.betafish.adblocksbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.vpngalaxy.app.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.adguard.vpn.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.spaceship.netprotect.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.internetcondom.adblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+br.marcelo.monumentbrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.techproof.websiteblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.maximebertheau.uninstaller.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.pandora.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+id.mukti.app.adblockuiandroid.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.adblockplus.browser.beta.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.lechneralexander.privatebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.ecosia.android.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.naver.whale.apk.txt, MD5 + RSA (disabled)," 1024-bit RSA key (weak)
+"
+nextapp.atlas.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+adblock.browser.popup.detector.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.porn.blocker.purity.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.airdatatech.optima.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.mw.applockerblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+net.onecook.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.notic.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.notification.cleaner.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+pcr.browser.polarity.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+app.adlocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.outcoder.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.msw.pornblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.mobisoft.webguard.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+jp.myumyu.piggybrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.opera.mini.native.beta.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.creativetrends.simplicity.app.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+cz.mobilesoft.appblock.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.m24apps.appblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.av1rus.adblockremover.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.trendmicro.freetmms.gmobi.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+com.mosoft.godzilla.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.appspot.swisscodemonkeys.detector.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+org.mozilla.focus.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+fishpowered.best.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.Fullforce.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.androidbull.incognito.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+mobi.mgeek.browserfaster.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.mebrowser.webapp.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.skipads.skipyoutubeadsandcommercials.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+co.easy4u.popup.ads.detector.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.tafayor.appwatch.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.chimbori.hermitcrab.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.UCMobile.intl.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+krow.dev.addetector.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.adguard.android.contentblocker.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.imoblife.checkadd_plug_in.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.teqtic.lockmeout.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.protectstar.firewall.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.browser.securebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+care4u.browsecare.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.gc.adsSkipads.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.alfeugds.adskipper.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.blocking.sites.apk.txt,,
+com.rabbit.incognito.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.epic.browser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+org.mobilob.google.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+adsblocker.adsskiper.adsblockerbrowser.cuckoo.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.cloudflare.onedotonedotonedotone.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.hsv.powerbrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.elrond.maiar.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+trim.altict.com.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.opera.mini.native.apk.txt, SHA1 + RSA (weak)," 2048-bit RSA key
+"
+live.teekamsuthar.mutify.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+pure.lite.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+com.adblock.App.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.orbitum.browser.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+com.atominvention.atombrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+browser4g.fast.internetwebexplorer.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+co.zew.deebrowser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+org.blokada.alarm.dnschanger.apk.txt,,
+org.blpomda.alarm.apk.txt, SHA256 + RSA," 1024-bit RSA key (weak)
+"
+com.hamatim.adwarehunter.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.TripleVGames.Adblocker.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.drweb.apk.txt, SHA1 + RSA (weak)," 1024-bit RSA key (weak)
+"
+s.sdownload.adblockerultimatebrowser.apk.txt, SHA256 + RSA," 4096-bit RSA key
+"
+com.cliqz.browser.apk.txt, SHA256 + RSA," 2048-bit RSA key
+"
+bg.alexxx.playtubeapp.apk.txt,,

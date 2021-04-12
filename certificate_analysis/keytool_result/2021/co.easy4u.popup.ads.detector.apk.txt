@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Easy4U, OU=Easy4U, O=Easy4U, C=01
+Issuer: CN=Easy4U, OU=Easy4U, O=Easy4U, C=01
+Serial number: 157d5ad0
+Valid from: Mon Aug 19 03:01:57 AEST 2019 until: Fri Aug 12 03:01:57 AEST 2044
+Certificate fingerprints:
+	 SHA1: E7:8B:63:56:9E:27:4A:BD:B6:06:B7:B6:88:95:40:42:C7:14:A2:83
+	 SHA256: 42:2D:6B:90:DC:A0:7C:07:B5:A9:7C:4B:00:37:37:E6:7D:B0:96:8B:F7:E3:90:7E:B3:26:BA:32:EE:CA:D4:CC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CA 93 38 ED 57 00 1E 2D   1E A7 3A 37 E5 45 3C 02  ..8.W..-..:7.E<.
+0010: 45 65 FE 59                                        Ee.Y
+]
+]
+
+

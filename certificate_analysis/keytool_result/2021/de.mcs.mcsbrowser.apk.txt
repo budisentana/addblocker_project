@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=android-er
+Issuer: O=android-er
+Serial number: 3e9dcdd0
+Valid from: Fri Mar 20 23:03:44 AEDT 2015 until: Sun Mar 12 23:03:44 AEDT 2045
+Certificate fingerprints:
+	 SHA1: F9:93:BB:66:07:F7:64:70:FE:FC:DE:65:1A:66:EF:11:97:73:03:54
+	 SHA256: 1C:AC:10:BE:D1:08:FE:7E:FC:D5:8A:CA:01:F1:8F:29:59:CC:F9:92:BE:C3:A1:4B:FD:93:2C:85:AD:6B:A7:5B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5B D6 43 28 6E 04 2D 21   E2 7C 7C FD 1B 1F 29 11  [.C(n.-!......).
+0010: D2 D3 DB 40                                        ...@
+]
+]
+
+

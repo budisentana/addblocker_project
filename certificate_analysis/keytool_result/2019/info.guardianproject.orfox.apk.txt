@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: EMAILADDRESS=root@guardianproject.info, CN=guardianproject.info, O=Guardian Project, L=New York, ST=New York, C=US
+Issuer: EMAILADDRESS=root@guardianproject.info, CN=guardianproject.info, O=Guardian Project, L=New York, ST=New York, C=US
+Serial number: 82ec5dd57022a91d
+Valid from: Thu May 15 03:57:29 AEST 2014 until: Sun Sep 29 03:57:29 AEST 2041
+Certificate fingerprints:
+	 SHA1: 4C:B3:F5:39:F6:3B:32:AC:A1:3B:44:50:63:8D:60:5F:53:1D:4F:4A
+	 SHA256: F0:06:A2:04:81:C7:1A:69:0D:E0:2E:38:5A:B0:C9:FA:4A:C1:24:52:40:F6:81:02:68:27:03:BA:06:56:86:7A
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 1
+

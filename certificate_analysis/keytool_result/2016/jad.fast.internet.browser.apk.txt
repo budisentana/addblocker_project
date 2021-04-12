@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Fast Internet Browser
+Issuer: CN=Fast Internet Browser
+Serial number: 2f556527
+Valid from: Wed Mar 19 23:10:02 AEDT 2014 until: Sun Feb 24 23:10:02 AEDT 2109
+Certificate fingerprints:
+	 SHA1: A3:D4:CD:D6:0A:78:26:81:1F:7B:23:FE:F9:43:B2:1F:B1:E2:90:85
+	 SHA256: D6:1D:D3:22:56:97:0A:0F:83:8C:65:D7:54:3C:B7:D2:B0:D5:D8:51:F8:5D:CB:93:00:43:14:A8:C9:E4:DF:C5
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E3 9A 21 BC DF FE 27 08   3E F2 A3 03 90 78 BA 43  ..!...'.>....x.C
+0010: 16 61 D0 4B                                        .a.K
+]
+]
+
+

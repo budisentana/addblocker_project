@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Archie Liu
+Issuer: CN=Archie Liu
+Serial number: 1d0519a0
+Valid from: Fri Jan 03 15:59:50 AEDT 2014 until: Tue Dec 28 15:59:50 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 27:B8:D5:03:51:A2:26:DD:0D:BB:58:9C:08:8A:FC:E4:56:C8:45:87
+	 SHA256: A9:7B:1F:38:35:31:34:9D:DF:C6:10:16:67:01:23:10:AB:A5:46:6C:94:28:8D:C8:5B:9C:A8:FF:51:11:A1:2F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 11 13 B7 DD 58 D0 28 12   68 78 4E F6 10 72 98 BD  ....X.(.hxN..r..
+0010: C4 B9 4C 9F                                        ..L.
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=techproof, OU=techproof, O=techproof, L=techproof, ST=techproof
+Issuer: CN=techproof, OU=techproof, O=techproof, L=techproof, ST=techproof
+Serial number: 43cdf2ea
+Valid from: Thu Nov 28 22:52:39 AEDT 2019 until: Mon Nov 21 22:52:39 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 0C:41:1D:8B:F7:F8:1B:D6:32:E5:28:69:74:C8:70:EE:E1:C2:7C:5F
+	 SHA256: 28:7A:3A:96:BA:52:75:BC:8E:78:C8:4B:E1:92:BF:25:3E:F3:F6:48:19:E0:F4:52:3D:D8:40:D7:7F:93:30:55
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 99 5C B2 2C D9 C2 D0 9F   F7 2D 34 AA 8D 8C 13 32  .\.,.....-4....2
+0010: D8 16 76 E0                                        ..v.
+]
+]
+
+

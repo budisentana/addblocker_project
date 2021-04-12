@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=ecosia.org, OU=Unknown, O=Ecosia GmbH, L=Wittenberg, ST=Sachsen-Anhalt, C=DE
+Issuer: CN=ecosia.org, OU=Unknown, O=Ecosia GmbH, L=Wittenberg, ST=Sachsen-Anhalt, C=DE
+Serial number: 29eedbf6
+Valid from: Thu Jul 11 01:55:23 AEST 2013 until: Mon Nov 26 02:55:23 AEDT 2040
+Certificate fingerprints:
+	 SHA1: DF:A2:65:E5:ED:AD:C6:FD:E7:71:F3:89:98:D3:F0:4A:39:B9:54:18
+	 SHA256: F5:22:D5:DF:0A:B5:92:16:8B:DE:E6:15:14:13:FD:98:02:27:22:F7:F2:F8:5E:FE:72:B8:1E:28:DD:EC:76:5C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0F E6 A6 85 8B 4C 1F 94   68 92 06 B8 75 50 E2 73  .....L..h...uP.s
+0010: 47 3F FC A0                                        G?..
+]
+]
+
+

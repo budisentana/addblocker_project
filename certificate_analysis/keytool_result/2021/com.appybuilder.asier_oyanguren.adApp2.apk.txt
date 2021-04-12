@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=asier.oyanguren@gmail.com, O=AppInventor for Android, C=US
+Issuer: CN=asier.oyanguren@gmail.com, O=AppInventor for Android, C=US
+Serial number: 585f3483
+Valid from: Thu Jan 17 23:36:48 AEDT 2019 until: Mon Jun 04 22:36:48 AEST 2046
+Certificate fingerprints:
+	 SHA1: 1F:55:BC:1D:CC:82:8A:09:BD:54:9C:2E:D3:70:5A:33:9A:6A:BB:26
+	 SHA256: EF:0F:6B:33:A4:17:6C:F4:87:32:2C:5C:5D:A3:56:F1:1A:71:07:2B:AA:E8:7A:A2:52:FC:04:C7:05:F0:E5:BB
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 04 34 90 C6 22 C3 CB AB   46 AB BB 58 1E FE C9 8F  .4.."...F..X....
+0010: 6A 3A F2 BF                                        j:..
+]
+]
+
+

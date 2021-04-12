@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Issuer: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Serial number: 4d92c9ac
+Valid from: Wed Mar 30 17:11:56 AEDT 2011 until: Thu Dec 31 17:11:56 AEDT 2065
+Certificate fingerprints:
+	 SHA1: 20:7B:2F:DD:43:EF:02:FF:00:FA:74:C9:32:D2:C1:D8:63:E5:14:52
+	 SHA256: BB:E2:FF:26:98:28:A0:D9:22:49:8E:E8:7F:65:AF:E7:69:C2:7D:62:F4:89:D5:C1:9B:9C:C6:C4:44:C8:08:11
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

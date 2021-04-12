@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=christophe senesael, OU=dvit, O=davinci, L=oostakker, ST=oost-vlaanderen, C=BE
+Issuer: CN=christophe senesael, OU=dvit, O=davinci, L=oostakker, ST=oost-vlaanderen, C=BE
+Serial number: 5293774f
+Valid from: Tue Nov 26 03:14:07 AEDT 2013 until: Sat Apr 13 02:14:07 AEST 2041
+Certificate fingerprints:
+	 SHA1: E3:3D:AA:2B:EF:BA:04:CE:84:97:D5:7A:58:D6:0E:31:20:1A:29:25
+	 SHA256: 27:C9:A5:FD:A1:BE:D1:08:0F:32:82:64:2D:7B:A3:3C:5F:2E:DC:EA:55:E5:5B:44:6C:BE:02:CE:9F:17:E8:8E
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=thefrenchsoftware
+Issuer: CN=thefrenchsoftware
+Serial number: 96e95cb
+Valid from: Sun Sep 08 17:11:52 AEST 2019 until: Thu Sep 01 17:11:52 AEST 2044
+Certificate fingerprints:
+	 SHA1: 86:D6:F8:17:1D:82:6B:22:EE:23:62:F3:DF:C3:D1:0B:E2:BF:F2:16
+	 SHA256: 91:05:D5:5E:26:27:AE:34:5F:A2:67:F1:C2:B9:BE:C5:21:C1:3F:E0:31:15:0F:44:1F:99:46:F1:07:73:20:0B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E4 D1 41 B9 B2 E6 94 44   CE B8 A8 4D 03 29 56 63  ..A....D...M.)Vc
+0010: 2D FA 85 C0                                        -...
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Various Tu, L=广西, ST=广西, C=CN
+Issuer: CN=Various Tu, L=广西, ST=广西, C=CN
+Serial number: 3f3b121a
+Valid from: Wed Aug 27 15:03:28 AEST 2014 until: Fri Aug 03 15:03:28 AEST 2114
+Certificate fingerprints:
+	 SHA1: AF:5D:11:B1:70:31:27:16:7E:23:B4:5F:A7:06:F0:DD:98:65:49:9B
+	 SHA256: 3D:F7:F8:9D:3B:8D:13:15:F0:57:10:C9:14:FC:CB:CF:3A:4E:24:98:0A:FD:DC:CB:8D:CE:BD:E9:08:36:A3:90
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 87 ED 78 11 6F A3 76 DB   4C BB 57 B3 FF B0 1F 5D  ..x.o.v.L.W....]
+0010: 5F B5 25 77                                        _.%w
+]
+]
+
+

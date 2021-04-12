@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Stefan Schraufstetter, O=Cliqz, L=Munich, ST=Bavaria, C=49
+Issuer: CN=Stefan Schraufstetter, O=Cliqz, L=Munich, ST=Bavaria, C=49
+Serial number: 2a75d0a6
+Valid from: Mon Sep 14 10:47:51 AEST 2015 until: Fri Sep 07 10:47:51 AEST 2040
+Certificate fingerprints:
+	 SHA1: 4A:47:23:46:22:2A:3F:9B:F5:E1:A7:FA:AF:D6:22:C9:78:25:66:BD
+	 SHA256: 59:55:A0:68:D8:1D:A2:DB:62:E9:87:56:D6:87:C0:96:3D:09:B9:9D:7A:35:6C:20:8E:DC:4D:CE:86:57:3B:8B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 1D 7A D6 CF B3 40 6A B7   7C FF CA 9A E8 A0 FD 93  .z...@j.........
+0010: 31 24 6D 72                                        1$mr
+]
+]
+
+

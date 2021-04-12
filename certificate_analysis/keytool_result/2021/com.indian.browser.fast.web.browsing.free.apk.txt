@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Indian Browser
+Issuer: CN=Indian Browser
+Serial number: 64f83c7
+Valid from: Fri Jul 21 19:46:34 AEST 2017 until: Tue Jul 15 19:46:34 AEST 2042
+Certificate fingerprints:
+	 SHA1: D9:A9:72:81:B3:03:A4:C0:E1:9C:16:60:CD:87:18:EA:B6:49:4E:0E
+	 SHA256: 21:3B:35:A2:C9:6D:FE:9A:DE:80:38:C9:1B:13:FA:8F:7C:14:5D:24:25:9B:50:EB:63:A6:B1:2C:74:18:2C:4F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FE 82 4F DC C2 19 4B 50   4E A6 1D EE 45 90 5B E1  ..O...KPN...E.[.
+0010: 52 FB C4 54                                        R..T
+]
+]
+
+

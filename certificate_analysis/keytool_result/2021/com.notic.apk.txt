@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Pavel Parfenenok, O=pv org, L=Novosibirsk, C=RU
+Issuer: CN=Pavel Parfenenok, O=pv org, L=Novosibirsk, C=RU
+Serial number: 7c62075
+Valid from: Thu Jan 10 03:36:20 AEDT 2013 until: Mon Jan 04 03:36:20 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 5F:1C:87:8A:3A:9B:7C:D5:C5:FE:5C:12:17:08:31:46:39:D9:30:93
+	 SHA256: AC:71:08:62:E8:ED:D7:2F:0D:83:55:6D:D6:72:C3:FA:57:50:F8:28:3C:2F:3C:AA:B6:89:74:20:27:38:54:AD
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: EE 78 AE D1 4B 6A F7 57   95 49 1E 35 A5 7D 46 3B  .x..Kj.W.I.5..F;
+0010: 55 E8 B1 37                                        U..7
+]
+]
+
+

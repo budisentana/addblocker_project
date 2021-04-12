@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Patrick Jackson, OU=Disconnect, O=Disconnect, L=San Francisco, ST=CA, C=US
+Issuer: CN=Patrick Jackson, OU=Disconnect, O=Disconnect, L=San Francisco, ST=CA, C=US
+Serial number: 52e83eb0
+Valid from: Wed Jan 29 10:35:12 AEDT 2014 until: Tue Feb 23 10:35:12 AEDT 2055
+Certificate fingerprints:
+	 SHA1: DF:7C:8C:2D:8A:56:88:3B:0D:D4:C3:17:F7:19:36:F8:B9:31:72:17
+	 SHA256: F2:57:BC:3D:39:0E:CA:E5:6B:63:5B:6D:F7:68:F9:67:53:51:26:1A:1F:58:A8:37:40:D2:CE:12:C8:81:76:6C
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

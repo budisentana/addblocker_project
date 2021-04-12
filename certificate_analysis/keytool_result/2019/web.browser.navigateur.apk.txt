@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=navigateur, OU=web browser explorer, O=web browser navigateur, L=california, ST=US, C=US
+Issuer: CN=navigateur, OU=web browser explorer, O=web browser navigateur, L=california, ST=US, C=US
+Serial number: 582aef56
+Valid from: Mon Oct 08 15:54:09 AEDT 2018 until: Fri Feb 23 15:54:09 AEDT 2046
+Certificate fingerprints:
+	 SHA1: EC:C0:7A:A4:2C:72:5E:DD:49:D4:3D:B0:39:BF:A0:03:C3:19:4A:A5
+	 SHA256: B1:66:55:78:73:E5:50:12:B4:BA:FC:C0:63:6A:EB:7A:2D:30:69:AB:57:05:DE:E2:42:68:A9:7D:C8:5E:EA:59
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 59 4D B7 9B 54 FA F5 69   E1 15 E3 57 6D 7F 7F F2  YM..T..i...Wm...
+0010: 89 A3 BB C9                                        ....
+]
+]
+
+

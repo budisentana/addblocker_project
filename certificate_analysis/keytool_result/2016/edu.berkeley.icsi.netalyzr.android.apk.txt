@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=netalyzr, OU=icsi, O=icsi, L=berkeley, ST=CA, C=US
+Issuer: CN=netalyzr, OU=icsi, O=icsi, L=berkeley, ST=CA, C=US
+Serial number: 5255cce0
+Valid from: Thu Oct 10 08:38:40 AEDT 2013 until: Mon Feb 25 08:38:40 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 4A:43:2C:AB:0B:E4:64:B2:67:F7:72:62:C4:F8:C0:C1:2A:97:50:A3
+	 SHA256: 68:36:94:E4:D0:CB:8A:81:A2:AE:3D:8A:97:0E:1A:FC:3A:4E:13:5C:60:08:50:72:64:D9:15:27:D3:7F:58:80
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

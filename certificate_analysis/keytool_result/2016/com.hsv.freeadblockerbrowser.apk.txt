@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Zhang Wei, OU=Free Adblocker Browser, O="Rocketshield, Inc.", L=Hongkong, ST=Central, C=HK
+Issuer: CN=Zhang Wei, OU=Free Adblocker Browser, O="Rocketshield, Inc.", L=Hongkong, ST=Central, C=HK
+Serial number: 1f79bb18
+Valid from: Sun May 03 00:27:06 AEST 2015 until: Thu Sep 18 00:27:06 AEST 2042
+Certificate fingerprints:
+	 SHA1: 53:FA:F9:D0:69:EF:2D:8C:D7:20:1B:20:D3:A1:0D:EF:6E:2A:44:6A
+	 SHA256: 60:47:40:C6:D0:38:FC:BE:6B:1A:22:08:8A:ED:FB:6F:92:2F:B4:F6:7C:D2:52:AF:D0:17:BB:E9:B3:6F:5D:35
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: EA 58 21 36 7D B3 A0 6F   28 6E B5 09 15 3E 5E 0B  .X!6...o(n...>^.
+0010: 8B 03 7E FB                                        ....
+]
+]
+
+

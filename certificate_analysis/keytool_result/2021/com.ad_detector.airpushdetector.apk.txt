@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=araragi
+Issuer: CN=araragi
+Serial number: 7d1489d2
+Valid from: Fri Oct 12 00:18:09 AEDT 2018 until: Sat Sep 17 23:18:09 AEST 2118
+Certificate fingerprints:
+	 SHA1: 5A:D6:44:8C:FD:25:D6:45:46:3F:4A:EC:CE:48:BE:17:71:E8:E4:0C
+	 SHA256: 1D:BA:AA:89:3E:A2:FE:8D:24:E0:D6:C7:E2:66:BB:CB:AC:0C:D2:78:63:44:B0:84:93:81:F2:D2:3C:EB:CC:4C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B3 5A D7 0F 07 F8 95 EB   15 04 13 BC A7 BA 89 B4  .Z..............
+0010: C6 C7 90 64                                        ...d
+]
+]
+
+

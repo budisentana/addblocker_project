@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=iJoysoft, OU=iJoysoft, O=iJoysoft
+Issuer: CN=iJoysoft, OU=iJoysoft, O=iJoysoft
+Serial number: 6a3df310
+Valid from: Thu May 19 17:13:38 AEST 2016 until: Tue May 01 17:13:38 AEST 2091
+Certificate fingerprints:
+	 SHA1: 5F:CE:52:5E:C1:11:09:86:5B:58:DF:99:FC:1B:42:28:BA:00:02:E8
+	 SHA256: FA:96:5F:A9:74:14:06:DB:3B:0C:B7:64:1B:54:B0:14:7E:38:87:2D:23:AA:E8:AD:EA:02:68:2D:0E:A0:06:AE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: A6 C2 E7 18 5D 18 4F D8   88 72 1D DA E5 2D 47 BC  ....].O..r...-G.
+0010: 9D 37 84 61                                        .7.a
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Katia Harvey, O=Blink Buddies, L=Stotfold, ST=Bedfordshire, C=UK
+Issuer: CN=Katia Harvey, O=Blink Buddies, L=Stotfold, ST=Bedfordshire, C=UK
+Serial number: 60fb7c9
+Valid from: Wed Jun 11 18:35:30 AEST 2014 until: Tue Oct 12 19:35:30 AEDT 3013
+Certificate fingerprints:
+	 SHA1: CB:59:36:38:62:E1:BC:EC:6E:A7:1F:63:9E:A0:3E:17:AE:4C:11:CC
+	 SHA256: F6:72:81:4E:CB:54:66:B6:46:1B:41:3C:13:25:B9:2B:C9:15:2D:1A:72:58:A6:94:4C:FC:79:5C:4A:AF:91:BF
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CF 1A D2 5F B9 36 03 81   32 57 FF 99 06 71 4F 39  ..._.6..2W...qO9
+0010: 7B BB E9 3D                                        ...=
+]
+]
+
+

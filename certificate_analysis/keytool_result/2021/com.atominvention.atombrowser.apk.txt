@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Atom Invention, OU=Atom Invention, O=Atom Invention
+Issuer: CN=Atom Invention, OU=Atom Invention, O=Atom Invention
+Serial number: 7ab53ba7
+Valid from: Mon Jan 13 01:14:01 AEDT 2014 until: Sat May 16 00:14:01 AEST 3012
+Certificate fingerprints:
+	 SHA1: 7A:2D:4A:65:67:7E:3C:4A:30:C2:9B:DC:62:88:8B:2C:91:DF:03:F7
+	 SHA256: 6A:E2:AE:43:AA:76:49:43:D5:B2:2F:56:C3:60:B1:30:9A:03:22:5E:92:CC:78:E4:87:40:F3:25:7F:68:7C:43
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 99 8A 0E DA 7D 87 44 1F   0F 81 77 26 12 BA AC D6  ......D...w&....
+0010: 72 64 3A AD                                        rd:.
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Raghuram Iyer, OU=Jakkarrl Games, O=Jakkarrl Games, L=Chennai, ST=Tamil Nadu, C=IN
+Issuer: CN=Raghuram Iyer, OU=Jakkarrl Games, O=Jakkarrl Games, L=Chennai, ST=Tamil Nadu, C=IN
+Serial number: 53b0f795
+Valid from: Mon Jun 30 15:37:25 AEST 2014 until: Tue Apr 02 16:37:25 AEDT 2069
+Certificate fingerprints:
+	 SHA1: 9B:B0:D6:B6:21:1B:17:5C:97:71:5D:95:93:E1:65:D0:0B:9F:4D:7F
+	 SHA256: 0E:1A:C5:83:26:A2:68:4D:E1:34:4D:32:12:80:55:AE:14:32:25:71:73:28:CB:E1:A6:1D:2E:72:2C:3A:EF:5E
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

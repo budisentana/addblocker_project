@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Browser Popup Detector
+Issuer: O=Browser Popup Detector
+Serial number: 49c74960
+Valid from: Sat Jul 06 17:27:08 AEST 2019 until: Fri Nov 06 18:27:08 AEDT 3018
+Certificate fingerprints:
+	 SHA1: E8:8F:18:58:C1:58:C5:99:88:70:4B:F5:37:53:32:78:F3:14:31:4D
+	 SHA256: 0D:3A:06:81:20:9A:7B:F5:CA:01:C0:B6:42:56:C1:2F:20:F2:62:EC:23:A3:92:A4:E7:90:E5:B5:82:72:CE:30
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 07 DE 1D 5B BD 5B F5 C0   5B 22 EF BB 55 40 9E 1E  ...[.[..["..U@..
+0010: 67 8C 07 CC                                        g...
+]
+]
+
+

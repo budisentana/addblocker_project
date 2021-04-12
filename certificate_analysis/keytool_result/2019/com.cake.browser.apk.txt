@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Derek Higgs, OU=Mobile Development, O=Cake Technologies Inc, L=Provo, ST=Utah, C=US
+Issuer: CN=Derek Higgs, OU=Mobile Development, O=Cake Technologies Inc, L=Provo, ST=Utah, C=US
+Serial number: 27fd99ab
+Valid from: Tue May 09 06:10:40 AEST 2017 until: Sat May 03 06:10:40 AEST 2042
+Certificate fingerprints:
+	 SHA1: 39:70:E2:B2:0F:C8:61:1F:7E:7E:DD:18:A6:DB:69:D3:42:DC:5D:CD
+	 SHA256: 93:3C:02:A6:6B:55:1C:42:D5:80:8D:20:49:AA:1D:AA:AB:E8:D5:5D:35:30:B8:16:F1:A4:BA:C1:55:19:FC:38
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C7 22 F9 8D 75 C5 3B AA   A6 80 BF F5 44 0A 2E 6A  ."..u.;.....D..j
+0010: FB BE 67 A6                                        ..g.
+]
+]
+
+

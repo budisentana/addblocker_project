@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Daniel Vaughan, OU=Outcoder, O=Outcoder, L=Rorbas, ST=Zurich, C=ch
+Issuer: CN=Daniel Vaughan, OU=Outcoder, O=Outcoder, L=Rorbas, ST=Zurich, C=ch
+Serial number: 5da88c88
+Valid from: Sun Jul 10 20:12:07 AEST 2016 until: Thu Apr 24 20:12:07 AEST 2290
+Certificate fingerprints:
+	 SHA1: EC:6F:FD:17:A4:D5:44:40:F3:6A:7C:E7:5F:EB:14:FC:A9:A4:E9:98
+	 SHA256: BA:87:D3:85:6A:EF:0E:07:4D:18:81:A7:7B:AB:0A:4E:8B:CF:A5:71:09:CC:EC:BB:CB:D7:B8:99:3E:FB:4E:27
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6A F2 4A 62 FB AB 62 30   B5 A8 C7 1D D9 96 5C 76  j.Jb..b0......\v
+0010: 68 D7 27 B2                                        h.'.
+]
+]
+
+

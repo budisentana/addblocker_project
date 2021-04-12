@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Onecook, OU=Development Team, O="Onecook Co., Ltd.", L=Seoul, ST=Seoul, C=KR
+Issuer: CN=Onecook, OU=Development Team, O="Onecook Co., Ltd.", L=Seoul, ST=Seoul, C=KR
+Serial number: 1b4944ef
+Valid from: Wed Oct 17 18:44:07 AEDT 2018 until: Fri Oct 09 18:44:07 AEDT 2048
+Certificate fingerprints:
+	 SHA1: 38:E4:4F:3A:31:B2:D9:62:85:F7:9A:C5:37:52:E2:5D:94:AA:F9:2C
+	 SHA256: 6E:A5:59:E7:F4:AC:97:D7:17:10:41:26:79:B0:B4:FB:86:53:73:53:37:72:07:8D:03:26:0D:CE:ED:DA:95:DA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3A 03 FA B1 D0 B2 F3 5F   95 C3 BB D3 8B 45 21 D9  :......_.....E!.
+0010: BF CE 35 1C                                        ..5.
+]
+]
+
+

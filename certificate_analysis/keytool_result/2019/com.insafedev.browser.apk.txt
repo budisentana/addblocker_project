@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=insafebrowser, OU=insafebrowser, O=insafebrowser DEV, L=San Francisco, ST=State of California, C=US
+Issuer: CN=insafebrowser, OU=insafebrowser, O=insafebrowser DEV, L=San Francisco, ST=State of California, C=US
+Serial number: 6da18a07
+Valid from: Fri Oct 26 12:34:36 AEDT 2018 until: Thu Oct 27 12:34:36 AEDT 2118
+Certificate fingerprints:
+	 SHA1: F7:01:F8:C8:0A:D6:41:4B:5F:94:02:F5:B8:BD:A7:7B:CD:F1:30:4A
+	 SHA256: B4:FC:8F:45:98:FA:2A:2E:A0:E7:63:8C:81:34:00:D1:45:F6:34:A3:09:DC:A8:62:9D:75:4F:01:A6:BF:1A:E0
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 15 D3 1D 82 69 32 FA 1C   81 89 0C 5C E9 37 CE CC  ....i2.....\.7..
+0010: A8 74 62 E2                                        .tb.
+]
+]
+
+

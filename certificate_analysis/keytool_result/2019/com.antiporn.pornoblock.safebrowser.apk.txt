@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=yacine, L=Casablanca, C=MA
+Issuer: CN=yacine, L=Casablanca, C=MA
+Serial number: 4eaf1464
+Valid from: Fri Mar 31 05:02:06 AEDT 2017 until: Sun Mar 24 05:02:06 AEDT 2047
+Certificate fingerprints:
+	 SHA1: 8C:4D:39:62:3D:DC:CB:95:A5:2F:0B:B0:29:25:77:9A:1C:08:F2:17
+	 SHA256: 19:B9:92:65:83:C7:B2:D6:33:7F:88:17:DB:C4:F7:CB:4A:DB:3A:3F:70:E4:32:3A:14:E0:16:A3:91:A2:5E:21
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D8 87 D1 2A 55 EC 5A E5   9B AC 89 9D 86 66 3A 51  ...*U.Z......f:Q
+0010: 6A 99 13 88                                        j...
+]
+]
+
+

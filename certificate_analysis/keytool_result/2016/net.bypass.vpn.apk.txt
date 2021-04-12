@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Babak Rabet, OU=Home, O=Home, L=Manchester, ST=Manchester, C=UK
+Issuer: CN=Babak Rabet, OU=Home, O=Home, L=Manchester, ST=Manchester, C=UK
+Serial number: 38e30011
+Valid from: Mon Jul 13 09:02:29 AEST 2015 until: Fri Jul 06 09:02:29 AEST 2040
+Certificate fingerprints:
+	 SHA1: FE:B7:10:1A:1E:04:DF:A8:CF:4F:D5:60:49:84:3C:89:F4:F8:67:A4
+	 SHA256: 90:78:1D:D1:F8:87:16:56:BB:61:9D:77:6A:F9:B9:48:8A:58:12:8B:CA:7F:1E:9F:77:3D:97:0E:90:F8:8E:0E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 47 4A 0F CC 21 A2 15 02   CE DA 0B F0 2D 29 7A 0F  GJ..!.......-)z.
+0010: 26 7D 6E 0C                                        &.n.
+]
+]
+
+

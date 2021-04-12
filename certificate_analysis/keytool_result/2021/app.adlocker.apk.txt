@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AdLock
+Issuer: CN=AdLock
+Serial number: 37479b47
+Valid from: Tue Feb 02 00:43:10 AEDT 2021 until: Sun Jun 04 23:43:10 AEST 3020
+Certificate fingerprints:
+	 SHA1: 57:8B:9C:BD:DD:75:0E:C8:D7:80:6B:71:E6:7A:C2:01:2B:87:D9:04
+	 SHA256: 03:C9:F6:E1:F1:C2:10:F9:D5:A2:1A:B2:B8:B7:0D:48:12:45:BB:64:26:EB:30:FC:9C:2C:11:69:BD:73:91:20
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 51 E4 81 CF 50 C1 F7 7F   4F 1F 6A 0E 11 53 4D A8  Q...P...O.j..SM.
+0010: D1 55 71 1C                                        .Uq.
+]
+]
+
+

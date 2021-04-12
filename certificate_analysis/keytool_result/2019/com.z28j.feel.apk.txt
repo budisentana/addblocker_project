@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Z28J
+Issuer: OU=Z28J
+Serial number: 5effddbf
+Valid from: Mon Sep 26 02:37:27 AEST 2016 until: Fri Sep 20 02:37:27 AEST 2041
+Certificate fingerprints:
+	 SHA1: AC:B3:1A:BA:7F:11:9C:A9:BA:B7:5D:DF:C5:D3:96:18:97:67:FE:46
+	 SHA256: FE:19:87:9E:7F:C9:B5:28:43:0F:57:DA:AB:86:AF:3D:03:1F:FE:70:BE:7D:38:9D:37:AB:0F:6A:5A:78:B7:48
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 73 64 AF 5D 30 1E A4 4C   96 FB 81 1D 00 A7 14 89  sd.]0..L........
+0010: 5E 89 DE 0E                                        ^...
+]
+]
+
+

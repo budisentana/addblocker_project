@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=browser2, OU=browsercompany, O=browsercompany, L=chengdu, ST=sichuan, C=CN
+Issuer: CN=browser2, OU=browsercompany, O=browsercompany, L=chengdu, ST=sichuan, C=CN
+Serial number: 52020ebb
+Valid from: Wed Aug 07 19:09:15 AEST 2013 until: Sun Dec 23 20:09:15 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 52:15:D4:6A:CC:33:2F:E1:AE:F4:4A:E1:53:ED:B5:A2:79:D6:DE:13
+	 SHA256: BE:26:FB:16:AF:E3:2F:86:2F:19:2D:75:DB:58:62:0A:74:CB:00:CF:ED:FF:AD:E3:2C:EF:CB:B7:6E:95:5D:C0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=u, OU=f, O=o, L=f, ST=i, C=0
+Issuer: CN=u, OU=f, O=o, L=f, ST=i, C=0
+Serial number: 35106e0f
+Valid from: Tue Nov 15 14:40:00 AEDT 2016 until: Sat Nov 09 14:40:00 AEDT 2041
+Certificate fingerprints:
+	 SHA1: C6:B0:37:FA:02:43:91:31:55:CF:65:4E:3A:BF:62:0D:C7:0F:41:E7
+	 SHA256: AF:52:CF:81:63:A0:44:EB:23:4B:AA:DE:B3:63:EC:50:49:6B:34:85:6F:2E:55:70:21:AB:3E:D0:E3:25:6B:8E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 82 2F 63 B0 00 5E 85 5C   56 F1 5B 63 81 7C AD BA  ./c..^.\V.[c....
+0010: 0C DD FF CA                                        ....
+]
+]
+
+

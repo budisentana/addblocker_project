@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Adbrower
+Issuer: CN=Adbrower
+Serial number: 3f380858
+Valid from: Mon Jul 04 19:49:46 AEST 2016 until: Fri Jun 28 19:49:46 AEST 2041
+Certificate fingerprints:
+	 SHA1: D9:C2:17:E6:42:92:5F:BE:ED:D7:38:3B:9C:37:DA:AF:0C:64:8C:DA
+	 SHA256: B7:34:8F:3C:7B:B6:12:3A:8E:78:3A:7F:BC:7F:77:7B:F3:C5:38:9F:18:7B:57:4A:64:94:37:91:5C:31:92:BC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4C DC D9 16 92 34 19 CD   27 8B C3 F2 E8 0F BA 8B  L....4..'.......
+0010: 4A 54 EA 54                                        JT.T
+]
+]
+
+

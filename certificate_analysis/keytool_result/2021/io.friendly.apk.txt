@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Cyril Moutran, OU=Friendly, O=Friendly App Studio, L=Austin, ST=Texas, C=US
+Issuer: CN=Cyril Moutran, OU=Friendly, O=Friendly App Studio, L=Austin, ST=Texas, C=US
+Serial number: 286677dd
+Valid from: Wed Oct 05 13:54:41 AEDT 2016 until: Sun Sep 29 12:54:41 AEST 2041
+Certificate fingerprints:
+	 SHA1: B4:37:6C:DF:6B:3E:3E:49:DE:23:9A:A8:D8:A5:43:08:12:6C:4C:1F
+	 SHA256: 23:00:F8:E5:19:C6:3B:F4:3D:7D:85:AA:5E:19:CE:61:59:15:9D:90:2E:C5:20:29:3D:94:7A:A1:E1:D5:9A:09
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D5 64 BB F5 0F CA FA D0   38 0C 7F B7 9D 28 5C 5B  .d......8....(\[
+0010: 19 F6 5E DA                                        ..^.
+]
+]
+
+

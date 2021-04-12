@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Swiss Codemonkeys, OU=Engineering, O=Swiss Codemonkeys, L=Zurich, ST=Zurich, C=CH
+Issuer: CN=Swiss Codemonkeys, OU=Engineering, O=Swiss Codemonkeys, L=Zurich, ST=Zurich, C=CH
+Serial number: 4967d41f
+Valid from: Sat Jan 10 09:47:59 AEDT 2009 until: Wed May 28 08:47:59 AEST 2036
+Certificate fingerprints:
+	 SHA1: F9:6F:E3:D4:80:3A:6F:8D:3B:A4:14:05:71:B3:76:55:4B:61:DB:CD
+	 SHA256: EE:22:BD:C0:38:D2:5C:B2:E2:53:B9:00:89:91:DA:B8:B1:B1:58:5E:67:EE:09:F8:73:4C:B3:DF:96:D6:B0:31
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=bignox
+Issuer: CN=bignox
+Serial number: 5e2fb614
+Valid from: Thu May 21 00:08:17 AEST 2015 until: Mon May 14 00:08:17 AEST 2040
+Certificate fingerprints:
+	 SHA1: D6:F3:8F:51:E8:16:6A:A8:40:AB:DE:88:45:48:5A:94:81:DD:8D:F9
+	 SHA256: 11:C3:19:16:7A:CF:36:BD:A8:E8:1C:FC:69:67:3D:1F:9A:22:E0:33:55:CA:F1:90:E3:0F:89:05:D5:0E:51:95
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AF 0F 87 EB 46 60 37 4C   EA C9 50 AB 98 BE B4 BE  ....F`7L..P.....
+0010: 06 B4 9A 93                                        ....
+]
+]
+
+

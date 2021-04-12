@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Alex Weblowsky, OU=Mobile Development, O=Tefincom, L=Panama, ST=Panama, C=PA
+Issuer: CN=Alex Weblowsky, OU=Mobile Development, O=Tefincom, L=Panama, ST=Panama, C=PA
+Serial number: 724d9712
+Valid from: Fri Jan 22 18:19:25 AEDT 2016 until: Tue Jan 15 18:19:25 AEDT 2041
+Certificate fingerprints:
+	 SHA1: FA:BA:42:56:1B:E5:20:57:F6:70:B4:41:2F:D5:13:EF:68:7C:A4:7A
+	 SHA256: BC:64:AE:07:25:AF:65:6B:3B:10:B6:84:CD:1D:F4:C9:D6:B7:F8:1B:C5:DC:32:DF:3A:3B:2C:E9:4C:E6:14:66
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3F 65 F2 6F 47 79 A5 3F   DB 78 D1 79 61 1E 1E B3  ?e.oGy.?.x.ya...
+0010: 26 CD 3D 37                                        &.=7
+]
+]
+
+

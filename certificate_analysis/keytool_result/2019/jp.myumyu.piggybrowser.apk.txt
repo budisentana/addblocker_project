@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=myumyu
+Issuer: CN=myumyu
+Serial number: 40bb7eab
+Valid from: Fri Sep 25 01:11:20 AEST 2015 until: Sat Sep 12 01:11:20 AEST 2065
+Certificate fingerprints:
+	 SHA1: EE:C0:FA:0D:AB:E5:06:7B:89:47:B7:97:78:4D:DE:C7:E8:09:5E:05
+	 SHA256: 53:A7:55:51:33:45:7A:A9:DF:C5:31:A0:3C:A3:FD:2B:34:F5:68:3B:5A:14:44:35:F0:D4:DA:CF:85:50:A1:11
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 83 87 13 C2 9C 9E F4 2C   EE AB 07 DD 08 4E B0 29  .......,.....N.)
+0010: 2E 7C 43 14                                        ..C.
+]
+]
+
+

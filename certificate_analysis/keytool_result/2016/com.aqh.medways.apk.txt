@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Shail Mehta, OU=medWAYS, O=AQH LLC, L=Brookline, ST=MA, C=US
+Issuer: CN=Shail Mehta, OU=medWAYS, O=AQH LLC, L=Brookline, ST=MA, C=US
+Serial number: 7b3b653f
+Valid from: Tue Mar 18 20:48:17 AEDT 2014 until: Sat Aug 03 19:48:17 AEST 2041
+Certificate fingerprints:
+	 SHA1: F9:A1:4F:05:E6:20:52:93:28:AA:C5:48:C8:5F:DE:3B:37:B3:F8:34
+	 SHA256: BA:51:EE:BD:F0:3B:AC:ED:BA:3A:7D:8C:BF:60:31:53:A4:17:BA:CD:0C:79:BE:9A:F2:3F:B5:D9:F2:D8:AA:5D
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 19 4C 68 DF 87 76 EC 2B   5F C2 43 E7 8C 17 69 C2  .Lh..v.+_.C...i.
+0010: 07 8C E9 B2                                        ....
+]
+]
+
+

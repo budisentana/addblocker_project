@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=siddharth raja, OU=oraculous, C=91
+Issuer: CN=siddharth raja, OU=oraculous, C=91
+Serial number: 78ac9a06
+Valid from: Tue Jan 06 22:54:03 AEDT 2015 until: Wed Dec 24 22:54:03 AEDT 2064
+Certificate fingerprints:
+	 SHA1: 77:30:D6:B4:65:94:67:B3:C0:5F:5C:C3:C2:FC:97:43:81:21:BE:BB
+	 SHA256: B7:26:D6:35:AF:D8:9C:1F:9C:38:A3:5B:06:00:AA:99:50:A0:B8:5E:CA:14:73:2B:2D:BB:7D:6A:1A:69:8D:C2
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 44 A9 4B 76 C1 26 D1 A3   AF 4B E3 EA 70 5A 8E 33  D.Kv.&...K..pZ.3
+0010: 1D F2 14 E5                                        ....
+]
+]
+
+

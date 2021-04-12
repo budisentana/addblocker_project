@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=MintBrowser, OU=MintBrowser, O=MintBrowser, L=beijing, ST=beijing, C=CN
+Issuer: CN=MintBrowser, OU=MintBrowser, O=MintBrowser, L=beijing, ST=beijing, C=CN
+Serial number: 770371a7
+Valid from: Fri Dec 07 22:57:45 AEDT 2018 until: Sun Nov 13 22:57:45 AEDT 2118
+Certificate fingerprints:
+	 SHA1: FA:1F:36:0A:29:36:2A:46:52:ED:E9:A0:9B:AE:26:C1:3A:74:48:46
+	 SHA256: 91:52:23:6B:A5:22:1B:3A:DA:04:87:52:BC:C2:3C:97:6A:75:B6:56:07:73:77:E4:52:86:E4:BC:8D:0B:49:7F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: BF 3E 2E A6 CC 8C E1 B9   0D C2 1A 16 67 41 C8 9E  .>..........gA..
+0010: E3 71 1C AE                                        .q..
+]
+]
+
+

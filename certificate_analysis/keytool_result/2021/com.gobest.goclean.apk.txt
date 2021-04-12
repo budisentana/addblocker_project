@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=GoClean, OU=IRONGATE, O=IRONGATE, C=ko
+Issuer: CN=GoClean, OU=IRONGATE, O=IRONGATE, C=ko
+Serial number: 509bb0b4
+Valid from: Fri Nov 09 00:16:36 AEDT 2012 until: Thu Mar 12 00:16:36 AEDT 3012
+Certificate fingerprints:
+	 SHA1: 83:08:BD:CD:6B:DB:11:F0:B5:3F:4F:CC:A4:45:AE:25:01:22:B7:50
+	 SHA256: F3:14:99:CE:BF:9D:B3:E5:36:E5:15:7B:B1:DF:69:B1:8C:FD:74:1C:6F:8F:71:32:90:9E:54:72:D4:5A:AC:BF
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

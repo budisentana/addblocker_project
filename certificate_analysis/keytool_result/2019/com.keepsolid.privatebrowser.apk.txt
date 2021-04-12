@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Igor Binder, OU=Software Development, O=KeepSolid Inc., L=New York, ST=NY, C=US
+Issuer: CN=Igor Binder, OU=Software Development, O=KeepSolid Inc., L=New York, ST=NY, C=US
+Serial number: 67e97ac
+Valid from: Fri May 13 19:25:03 AEST 2016 until: Tue May 07 19:25:03 AEST 2041
+Certificate fingerprints:
+	 SHA1: BC:B5:4A:40:F4:E5:25:1D:B5:F1:72:58:A4:5C:C1:AA:AE:B6:A7:B2
+	 SHA256: 85:B8:A1:2C:DD:98:7E:2D:E0:3E:C8:FC:75:85:8D:32:AB:F1:1B:1A:9A:79:CF:05:D6:04:D2:CF:30:F8:19:1E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 31 CE A0 0F D4 9E 83 B8   54 0B 65 4B 2A 9C 73 F1  1.......T.eK*.s.
+0010: D2 81 DB 06                                        ....
+]
+]
+
+

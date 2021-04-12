@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Victor Manuel Rodríguez, OU=xetes
+Issuer: CN=Victor Manuel Rodríguez, OU=xetes
+Serial number: 51351480
+Valid from: Tue Mar 05 08:39:12 AEDT 2013 until: Wed Feb 21 08:39:12 AEDT 2063
+Certificate fingerprints:
+	 SHA1: 70:A5:B7:31:D4:B0:27:AB:CA:28:B7:64:12:C1:12:A4:C5:15:5D:23
+	 SHA256: 87:DC:F8:92:78:70:93:5D:C2:8F:E3:B3:91:C8:C9:F4:91:4C:59:8B:AC:F0:16:8E:E2:A2:43:50:B4:8A:BD:F4
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=vandeearth@gmail.com, O=2938740, C=IN
+Issuer: CN=vandeearth@gmail.com, O=2938740, C=IN
+Serial number: 18ed1ebd
+Valid from: Sat Jul 29 18:06:24 AEST 2017 until: Thu May 14 18:06:24 AEST 2291
+Certificate fingerprints:
+	 SHA1: 38:A6:FF:2A:58:CD:98:A9:67:7E:9D:EE:CF:1B:3F:A5:97:D3:A3:72
+	 SHA256: 45:7F:70:64:2D:D5:79:FF:C5:59:B7:6B:10:45:6A:60:AF:60:D8:AC:C9:54:74:82:27:3E:B0:44:7D:77:1D:FC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 47 82 2C 3A E3 5C E2 E1   A3 58 5A BB 44 BD BF 2E  G.,:.\...XZ.D...
+0010: E1 DA 60 5F                                        ..`_
+]
+]
+
+

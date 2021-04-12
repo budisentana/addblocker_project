@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Paresh Joshi, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=Paresh Joshi, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 4d7c1241
+Valid from: Sun Mar 13 11:39:29 AEDT 2011 until: Thu Jul 29 10:39:29 AEST 2038
+Certificate fingerprints:
+	 SHA1: 46:40:A9:D0:9E:3B:97:C3:E2:F4:8B:A1:AC:F1:D8:14:6A:B5:50:8D
+	 SHA256: F9:38:CA:F0:00:BA:3D:6D:93:98:91:B5:DC:03:64:DE:15:CA:96:09:34:DA:9B:22:43:0D:A4:80:1A:03:8D:BD
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

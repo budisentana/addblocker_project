@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=georges zegrour anty, OU=gam, O=gam, L=beirut, ST=lebanon, C=lb
+Issuer: CN=georges zegrour anty, OU=gam, O=gam, L=beirut, ST=lebanon, C=lb
+Serial number: 5ff68679
+Valid from: Mon Jul 09 05:00:31 AEST 2018 until: Fri Jul 03 05:00:31 AEST 2043
+Certificate fingerprints:
+	 SHA1: 88:2D:89:CB:90:0A:5E:BD:A1:0D:12:36:FC:0D:CA:1C:E1:8F:B0:15
+	 SHA256: 34:C9:A1:34:69:73:D6:09:31:D3:6B:57:F8:DA:2E:BC:8C:1E:65:73:A6:86:BF:87:FE:25:67:1D:15:CB:D6:5D
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D8 A3 A7 8D 92 53 CF C5   07 A6 F6 79 D9 0C 68 FF  .....S.....y..h.
+0010: A3 70 BC C8                                        .p..
+]
+]
+
+

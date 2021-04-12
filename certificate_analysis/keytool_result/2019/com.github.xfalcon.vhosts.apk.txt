@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=xfalcon
+Issuer: CN=xfalcon
+Serial number: 7920d0e4
+Valid from: Mon Apr 24 17:03:22 AEST 2017 until: Fri Apr 18 17:03:22 AEST 2042
+Certificate fingerprints:
+	 SHA1: C5:25:52:70:86:EA:C5:DF:5B:75:3A:E9:FD:04:3B:5A:19:92:8C:69
+	 SHA256: 6A:AB:98:78:CE:6A:17:D8:97:5D:E5:22:80:F6:7C:A7:82:8B:88:48:9C:34:21:D4:F6:B7:C7:C1:D5:D2:CE:BA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 49 AC AD D6 BE C5 FC CB   09 95 2C 96 0B 8E D7 1F  I.........,.....
+0010: 70 1E 3B F9                                        p.;.
+]
+]
+
+
