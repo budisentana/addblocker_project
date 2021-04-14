@@ -1,0 +1,4 @@
+Year&activities&exported activities&services&exported services&receivers&exported receivers&providers&exported providers
+2016&21.11&4.86&7.57&0.74&4.72&3.5&1.26&0.4
+2019&30.43&5.65&16.36&3.01&9.29&5.08&3.9&0.54
+2021&26.21&4.45&18.86&2.41&9.28&3.62&3.84&0.32

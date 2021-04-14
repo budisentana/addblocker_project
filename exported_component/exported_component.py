@@ -37,8 +37,10 @@ for root,dirs,files in os.walk(result_path):
                             'receivers':rec,'exp_rec':ex_rec,'providers':prov,'exp_prov':ex_prov}
                         # print(exp_count)
                 except:
-                        exp_count = {'file_name':file_name,'activities':-1,'exp_act':99999,'services':-1,'exp_serv':99999,\
-                            'receivers':-1,'exp_rec':99999,'providers':-1,'exp_prov':99999}
+                        # exp_count = {'file_name':file_name,'activities':-1,'exp_act':99999,'services':-1,'exp_serv':99999,\
+                        #     'receivers':-1,'exp_rec':99999,'providers':-1,'exp_prov':99999}
+                    pass
+                
                 exported_component.append(exp_count)
             exp_df = pd.DataFrame(exported_component)
             print(exp_df)

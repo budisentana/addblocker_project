@@ -1,3 +1,6 @@
 file_name,activities,exp_act,services,exp_serv,receivers,exp_rec,providers,exp_prov
 net.upx.proxy.browser.apk,49,14,77,7,32,6,5,1
+org.blokada.alarm.dnschanger.apk,2,1,5,2,2,0,1,0
 com.ecosia.android.apk,50,14,73,6,28,7,4,1
+com.drweb.apk,0,0,0,0,0,0,0,0
+browser4g.fast.internetwebexplorer.apk,13,5,8,3,6,5,2,0
