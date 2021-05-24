@@ -1,0 +1,4 @@
+org.blokada.alarm.dnschanger.apk
+browser4g.fast.internetwebexplorer.apk
+com.chess.apk
+com.drweb.apk
