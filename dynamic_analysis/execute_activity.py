@@ -25,9 +25,11 @@ base_path = '/home/budi/crypto_project/sandbox/com.apusapps.browser/AndroidManif
 # base_path = '/home/budi/crypto_project/sandbox/com.blocking.sites/AndroidManifest.xml'
 
 def execute_intent(manifest_path,urls):
+    # print(manifest_path)
     # main_activity = ext.main_activity_ex(manifest_path)
     package_name = ext.package_name_ex(manifest_path)
     intent_action = ext.intent_action_ex(manifest_path)
+    # print(intent_action)
 
     for item in intent_action:
         activity,action = item['activity'],item['action']
@@ -38,16 +40,18 @@ def execute_intent(manifest_path,urls):
         # res_activity = str('.'.join(diff))
         # print(res_activity)
         # component = package_name+'/.'+res_activity
-        if action == 'android.intent.action.VIEW':
+        if action == 'android.intent.action.VIEW' :#or action == 'android.intent.action.MAIN':
             # print (activity,action)
             component = package_name+'/'+activity
             for url in urls:
                     execute_activity = 'adb shell am start -W -a '+action+' -d '+url+' '+component 
+                    stop_activity = 'adb shell am kill '+package_name
                     print(execute_activity)
                     try:
                     # execute_task = os.system(execute_activity)
                         proc = subprocess.call(execute_activity, timeout=3, shell=True)
-                        time.sleep(2)
+                        time.sleep(10)
+                        subprocess.call(stop_activity, timeout=3,shell=True)
                     except subprocess.TimeoutExpired:
                         pass  
 

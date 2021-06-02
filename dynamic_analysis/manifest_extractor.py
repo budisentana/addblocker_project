@@ -129,7 +129,17 @@ def intent_action_ex(manifest_path):
         data =f.read()
         dom = parseString(data)
         activities = dom.getElementsByTagName('activity')
+        aliases = dom.getElementsByTagName('activity-alias')
         for activity in activities:
+            if activity.getElementsByTagName('intent-filter'):
+                act = (activity.getAttribute('android:name'))
+                actions = activity.getElementsByTagName('action')
+                for action in actions:
+                    # print(action.getAttribute('android:name'))
+                    int_act = {'activity':act, 'action':action.getAttribute('android:name')}
+                    if int_act not in intent_action_list:    
+                        intent_action_list.append(int_act)
+        for activity in aliases:
             if activity.getElementsByTagName('intent-filter'):
                 act = (activity.getAttribute('android:name'))
                 actions = activity.getElementsByTagName('action')

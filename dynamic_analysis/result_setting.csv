@@ -1,0 +1,30 @@
+APK name,Aggresive Setting,MITM Captured,Certificate Warning,Comment,Note
+acr.browser.barebonesacr.browser.barebones,TRUE,FALSE,TRUE,Blocking image,
+trim.altict.comtrim.altict.com,TRUE,TRUE,FALSE,Blocking image,
+adblock.browser.popup.detectoradblock.browser.popup.detector,TRUE,TRUE,TRUE,Only capture small amount of traffic,
+adblocker.lite.browser,FALSE,TRUE,FALSE,,
+adsblocker.adsskiper.adsblockerbrowser.cuckoo,UNKNOWN,UNKNOWN,UNKNOWN,apps not responding,
+ai.blokee.browser.android,UNKNOWN,UNKNOWN,UNKNOWN,Failed to install,
+app.adlocker,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+app.no.vpn,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+app.stampy.browser,FALSE,TRUE,FALSE,,
+appinventor.ai_rockanarghya.browser,FALSE,TRUE,FALSE,,
+bg.alexxx.playtubeapp,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,Use to block youtube
+br.marcelo.monumentbrowser,TRUE,TRUE,FALSE,,
+browser4g.fast.internetwebexplorer,FALSE,TRUE,FALSE,,
+care4u.browsecarecare4u.browsecare,FALSE,FALSE,FALSE,No action.View and exported component. Detecting proxy setting and refuse to create connection,
+cm.browser.privatewindow.download,FALSE,TRUE,FALSE,,
+co.blocksite,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+co.crystalapp.crystal,UNKNOWN,UNKNOWN,UNKNOWN,Plugin apps for Samsung browser,Pending experiment
+co.easy4u.ncleaner,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,Notification cleaner
+co.easy4u.popup.ads.detector,UNKNOWN,UNKNOWN,UNKNOWN,Plugin apps for several browser,Capture pop up message
+co.madseven.browser,TRUE,FALSE,FALSE,most of the activity failed to execute ,"org.chromium.chrome.browser.media.MediaLauncherActivity , sslv3 alert certificate unknown"
+co.zew.deebrowser,TRUE,FALSE,TRUE,,sslv3 alert certificate unknown'
+com.adblock.App,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+com.adblocker.ashazapps,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+com.adblocker.turbo.browser,FALSE,TRUE,FALSE,,
+com.ad_detector.airpushdetector,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+com.adguard.android.contentblocker,UNKNOWN,UNKNOWN,UNKNOWN,Plugin apps for several browser,
+com.adguard.vpn,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,sslv3 alert certificate unknown'
+com.agooday.skipads,UNKNOWN,UNKNOWN,UNKNOWN,VPN based apps,
+com.airdatatech.optima

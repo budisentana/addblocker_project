@@ -6,18 +6,18 @@ import time
 from subprocess import check_output, STDOUT
 
 
-# apk_path = '/home/budi/adblocker_project/apps_list/2021'
+apk_path = '/home/budi/adblocker_project/apps_list/2021'
 # apk_path = '/home/budi/adblocker_project/apps_list/2019'
-apk_path = '/home/budi/adblocker_project/apps_list/2016'
-# extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2021'
+# apk_path = '/home/budi/adblocker_project/apps_list/2016'
+extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2021'
 # extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2019'
-extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2016'
-# injected_apk_path = '/home/budi/adblocker_project/injected_apk/2021/'
+# extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2016'
+injected_apk_path = '/home/budi/adblocker_project/injected_apk/2021/'
 # injected_apk_path = '/home/budi/adblocker_project/injected_apk/2019/'
-injected_apk_path = '/home/budi/adblocker_project/injected_apk/2016/'
-# trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2021/'
+# injected_apk_path = '/home/budi/adblocker_project/injected_apk/2016/'
+trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2021/'
 # trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2019/'
-trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2016/'
+# trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2016/'
 url_path = '/home/budi/adblocker_project/adblocker_code/dynamic_analysis/news_domain.txt'
 injector_path = '/home/budi/adblocker_project/AddSecurityExceptionAndroid/'
 
@@ -117,7 +117,7 @@ def main():
                 """Kill MITM dump"""
                 kill_mitm()
 
-                time.sleep(5)
+                time.sleep(3)
 
 if __name__ == "__main__":
     main()
