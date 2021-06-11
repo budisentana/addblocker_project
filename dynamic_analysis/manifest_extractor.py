@@ -1,8 +1,8 @@
 from xml.dom.minidom import parseString
 
 # base_path = '/home/budi/crypto_project/sandbox/trx.org.freewallet.app/AndroidManifest.xml'
-base_path = '/home/budi/crypto_project/sandbox/adblocker.lite.browser/AndroidManifest.xml'
-
+# base_path = '/home/budi/crypto_project/sandbox/adblocker.lite.browser/AndroidManifest.xml'
+base_path='/home/budi/adblocker_project/extracted_apk/2021/com.brave.browser/AndroidManifest.xml'
 def permission_ex (manifest_path): 
     perm_list=[]
     with open(manifest_path,'r') as f:
@@ -123,8 +123,28 @@ def package_name_ex(manifest_path):
             package = item.getAttribute('package')
     return package
 
+def find_allias(manifest_path):
+    with open (manifest_path,'r') as f:
+        data =f.read()
+        dom = parseString(data)
+        manifest = dom.getElementsByTagName('manifest')
+        # print(package[0])
+
+        for item in manifest:
+            tag_list=[]
+            element = item.attributes
+            for i in range(element.length):
+                manifest_item = element.item(i).name
+                tag_list.append(manifest_item)
+    
+    for item in tag_list:
+        if 'xmlns' in item:
+            xmlns,alias_name = map(str.strip,item.split(':'))
+    return alias_name
+
 def intent_action_ex(manifest_path):
     intent_action_list = []
+    alias_name = find_allias(manifest_path)
     with open (manifest_path,'r') as f:
         data =f.read()
         dom = parseString(data)
@@ -141,11 +161,11 @@ def intent_action_ex(manifest_path):
                         intent_action_list.append(int_act)
         for activity in aliases:
             if activity.getElementsByTagName('intent-filter'):
-                act = (activity.getAttribute('android:name'))
+                act = (activity.getAttribute(alias_name+':name'))
                 actions = activity.getElementsByTagName('action')
                 for action in actions:
                     # print(action.getAttribute('android:name'))
-                    int_act = {'activity':act, 'action':action.getAttribute('android:name')}
+                    int_act = {'activity':act, 'action':action.getAttribute(alias_name+':name')}
                     if int_act not in intent_action_list:    
                         intent_action_list.append(int_act)
     return intent_action_list
@@ -204,6 +224,8 @@ def main():
     # print('Package Name :')
     # print(package_name)
 
+    # alias_name = find_allias(base_path)
+    # print(alias_name)
     intent_action = intent_action_ex(base_path)
     print('Intent Filter with Action :')
     for item in intent_action:

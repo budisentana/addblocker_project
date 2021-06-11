@@ -1,22 +1,6 @@
 from mitmproxy.io import FlowReader
 from mitmproxy import http
 
-
-# filename = '/home/budi/adblocker_project/mitm_result/baseline'
-filename = '/home/budi/adblocker_project/mitm_result/2021/com.androidbull.incognito.browser'
-
-# with open(filename, 'rb') as fp:
-#     reader = FlowReader(fp)
-#     http_reader = http.HTTPRequest(fp)
-    
-#     flows = reader.stream()
-#     print(len(flows))
-#     # for flow in flows:
-#     #     print(flow[0]) 
-       
-#     for item in http_reader:
-#         print(item)    
-
 import os
 
 dump_path = '/home/budi/adblocker_project/mitm_result/baseline'
