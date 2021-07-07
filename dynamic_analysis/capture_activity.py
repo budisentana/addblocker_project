@@ -44,7 +44,7 @@ def extract_url(url_path):
     return url_list
 
 def kill_mitm():
-    print ('Kill MITM dump')
+    print ('Kill MITM dump').rstrip('apk')
     cmd = 'pkill mitmdump'
     os.system(cmd)
 

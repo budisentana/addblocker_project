@@ -1,0 +1,14 @@
+Package_name,Note
+com.emmanuelmolefi.skipadsapp,
+,
+,
+,
+,
+com.blocknotification.gamemode,Need access to notification manager
+com.blocknotification.gamemode,Need access to notification manager
+com.hamatim.adwarehunter,Need access to accessability manager (action monitor and retrieve window content) and overtake other running aps
+com.hanstudio.notifyblocker,Need access to notification manager
+com.imoblife.checkadd_plug_in,There is no icon on this apps.
+com.merxury.blocker,This is adblocker detector and remover. Need root access
+com.notic,Need access to notification manager
+com.rotech.adblock,No access needed to notification manager or accessibility manager. Can also use to skip ads in youtube

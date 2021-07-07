@@ -1,0 +1,12 @@
+Browser : 139
+Pluggin : 47
+Remove : 13
+VPN : 41
+Youtube Loader : 2
+------------------------------
+Pluggin - Browser : 17
+Pluggin - General : 24
+Pluggin - Youtube : 6
+-------------------------
+Total - remove : 228
+

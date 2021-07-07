@@ -6,10 +6,10 @@ import subprocess
 import time
 from subprocess import check_output, STDOUT
 
-apk_path = '/home/budi/adblocker_project/apps_list/2021/com.seven.adclear.fsb.apk'
+apk_path = '/home/budi/adblocker_project/apps_list/2021/trim.altict.com.apk'
 url_path = '/home/budi/adblocker_project/adblocker_code/dynamic_analysis/news_domain.txt'
 extracted_apk_path = '/home/budi/adblocker_project/extracted_apk/2021/'
-trafic_capture_path = '/home/budi/adblocker_project/mitm_result/2021/'
+trafic_capture_path = '/home/budi/adblocker_project/mitm_result_aggresive/2021/'
 result_path = '/home/budi/adblocker_project/adblocker_code/dynamic_analysis/result_setting.csv'
 
 

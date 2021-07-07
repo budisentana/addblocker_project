@@ -6,7 +6,7 @@ import time
 from subprocess import check_output, STDOUT
 
 
-apk_path = '/home/budi/adblocker_project/apps_list/2021/com.seven.adclear.fsb.apk'
+apk_path = '/home/budi/adblocker_project/apps_list/2021/to.freedom.android2.apk'
 injected_apk_path = '/home/budi/adblocker_project/injected_apk/2021/'
 injector_path = '/home/budi/adblocker_project/AddSecurityExceptionAndroid/'
 
