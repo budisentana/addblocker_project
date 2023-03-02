@@ -1,0 +1,7 @@
+,app_id,first_level_domain
+0,com.blocking.sites,fonts.googleapis.com
+1,com.blocking.sites,gstatic.com
+2,com.blocking.sites,google.com
+3,com.blocking.sites,facebook.com
+4,com.blocking.sites,crashlytics.com
+5,com.blocking.sites,play.googleapis.com

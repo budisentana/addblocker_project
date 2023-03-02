@@ -1,0 +1,11 @@
+,app_id,netloc
+0,com.cake.browser,api.branch.io
+1,com.cake.browser,cake-feed.herokuapp.com
+2,com.cake.browser,api.keen.io
+3,com.cake.browser,cdn.branch.io
+4,com.cake.browser,onesignal.com
+5,com.cake.browser,graph.facebook.com
+6,com.cake.browser,cognito-identity.us-east-1.amazonaws.com
+7,com.cake.browser,firehose.us-east-1.amazonaws.com
+8,com.cake.browser,firebaseremoteconfig.googleapis.com
+9,com.cake.browser,freedom.to

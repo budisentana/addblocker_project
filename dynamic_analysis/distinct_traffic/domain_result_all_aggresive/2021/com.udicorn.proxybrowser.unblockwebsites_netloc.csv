@@ -1,0 +1,9 @@
+,app_id,netloc
+0,com.udicorn.proxybrowser.unblockwebsites,adservice.google.com
+1,com.udicorn.proxybrowser.unblockwebsites,firebaseremoteconfig.googleapis.com
+2,com.udicorn.proxybrowser.unblockwebsites,connectivitycheck.gstatic.com
+3,com.udicorn.proxybrowser.unblockwebsites,www.google.com
+4,com.udicorn.proxybrowser.unblockwebsites,www.facebook.com
+5,com.udicorn.proxybrowser.unblockwebsites,firebase-settings.crashlytics.com
+6,com.udicorn.proxybrowser.unblockwebsites,googleads.g.doubleclick.net
+7,com.udicorn.proxybrowser.unblockwebsites,play.googleapis.com

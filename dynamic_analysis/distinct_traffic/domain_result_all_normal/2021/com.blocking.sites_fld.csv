@@ -1,0 +1,15 @@
+,app_id,first_level_domain
+0,com.blocking.sites,firebaseinstallations.googleapis.com
+1,com.blocking.sites,doubleclick.net
+2,com.blocking.sites,crashlytics.com
+3,com.blocking.sites,facebook.com
+4,com.blocking.sites,fonts.googleapis.com
+5,com.blocking.sites,gstatic.com
+6,com.blocking.sites,google.com
+7,com.blocking.sites,play.googleapis.com
+8,com.blocking.sites,firebaseremoteconfig.googleapis.com
+9,com.blocking.sites,atomapi.com
+10,com.blocking.sites,s3.eu-central-1.amazonaws.com
+11,com.blocking.sites,comodo.com
+12,com.blocking.sites,seven.com
+13,com.blocking.sites,mixpanel.com

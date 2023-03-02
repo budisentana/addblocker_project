@@ -1,0 +1,7 @@
+,app_id,netloc
+0,com.blocking.sites,fonts.googleapis.com
+1,com.blocking.sites,connectivitycheck.gstatic.com
+2,com.blocking.sites,www.google.com
+3,com.blocking.sites,www.facebook.com
+4,com.blocking.sites,firebase-settings.crashlytics.com
+5,com.blocking.sites,play.googleapis.com

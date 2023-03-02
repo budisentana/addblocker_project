@@ -1,0 +1,5 @@
+,app_id,netloc
+0,io.funswitch.blocker,connectivitycheck.gstatic.com
+1,io.funswitch.blocker,clients3.google.com
+2,io.funswitch.blocker,www.google.com
+3,io.funswitch.blocker,play.googleapis.com

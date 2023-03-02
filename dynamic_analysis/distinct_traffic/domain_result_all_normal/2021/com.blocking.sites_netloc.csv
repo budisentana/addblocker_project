@@ -1,0 +1,17 @@
+,app_id,netloc
+0,com.blocking.sites,firebaseinstallations.googleapis.com
+1,com.blocking.sites,googleads.g.doubleclick.net
+2,com.blocking.sites,firebase-settings.crashlytics.com
+3,com.blocking.sites,www.facebook.com
+4,com.blocking.sites,fonts.googleapis.com
+5,com.blocking.sites,connectivitycheck.gstatic.com
+6,com.blocking.sites,www.google.com
+7,com.blocking.sites,play.googleapis.com
+8,com.blocking.sites,firebaseremoteconfig.googleapis.com
+9,com.blocking.sites,atomapi.com
+10,com.blocking.sites,graph.facebook.com
+11,com.blocking.sites,s3.eu-central-1.amazonaws.com
+12,com.blocking.sites,clients3.google.com
+13,com.blocking.sites,cdn.download.comodo.com
+14,com.blocking.sites,easy.seven.com
+15,com.blocking.sites,decide.mixpanel.com

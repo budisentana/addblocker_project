@@ -48,6 +48,14 @@ newsweek.com
 smh.com.au
 aljazeera.com
 bbc.com
+#########
 bbc.co.uk
 bbci.co.uk
 abcnews.com
+independent.co.uk
+indiatimes.com
+vipleague.cc
+timesofindia.com
+economictimes.com
+wsj.net
+aljazeera.com
