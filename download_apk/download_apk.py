@@ -12,13 +12,12 @@ app_list_path = '/home/budi/adblocker_project/adblocker_code/data_list/2023_list
 
 def check_download(app_id,download_path):
     for roots,folders,files in os.walk(download_path):
-        for folder in folders:
-            if app_id in folder:
-                # print(app_id,folder)
-                return True
-                break
-            else:
-                return False
+        if app_id in folders:
+            # print(app_id)
+            return True
+            # break
+        else:
+            return False
 
 def apk_pull(app_id,download_path):
     pull_command = 'curl -sL bit.ly/apkpull | bash -s -- ' + app_id + ' -d '+download_path +' --uninstall'
@@ -26,15 +25,15 @@ def apk_pull(app_id,download_path):
     os.system(pull_command)
 
 def main():
-    app_df = pd.read_csv(app_list_path)
+    app_df = pd.read_csv(app_list_path,sep=',')
     for index,item in app_df.iterrows():
-        app_id =item[1]
+        app_id =item[0]
         status = check_download(app_id,download_path)
-        print(index,app_id)
+        # print(index,app_id)
 
-        # if status == False:
-            # apk_pull(app_id,download_path)
-            # print(index,app_id)
+        if status == False:
+            apk_pull(app_id,download_path)
+            print(status,index,app_id)
 
 if __name__=='__main__':
     main()
